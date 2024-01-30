@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,6 +154,8 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4da83216b4ad3709",
-  "lastOpenFiles": []
+  "active": "400f877149f52183",
+  "lastOpenFiles": [
+    "未命名"
+  ]
 }
