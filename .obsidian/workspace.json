@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8d91a476fb2358c",
+        "id": "6933ef0a0858a84f",
         "type": "tabs",
         "children": [
           {
-            "id": "4da83216b4ad3709",
+            "id": "09a91f4fa4d209dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.MD",
+                "file": "2024-01-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.MD",
+                "file": "2024-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.MD",
+                "file": "2024-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.MD"
+                "file": "2024-01-31.md"
               }
             }
           },
@@ -154,8 +154,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "400f877149f52183",
+  "active": "09a91f4fa4d209dd",
   "lastOpenFiles": [
-    "未命名"
+    "README.md",
+    "2024-01-31.md",
+    "未命名.canvas",
+    "日记/2024-01-31 1.md",
+    "日记/2024-01-31.md",
+    "日记"
   ]
 }
