@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.MD",
+                "file": "2024-01-31.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "aa5ba9c0c3cd18e5"
+          }
+        ]
+      },
+      {
+        "id": "1b26adeffe258e44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "581be723ad5ed8c1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2024-01-31.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1.08241776315789,
+                  "collapse-forces": true,
+                  "centerStrength": 0.526521381578947,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.585461770507585,
+                  "close": true
+                }
+              }
+            },
+            "group": "aa5ba9c0c3cd18e5"
           }
         ]
       }
@@ -85,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.MD",
+            "file": "2024-01-31.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.MD",
+            "file": "2024-01-31.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.MD"
+            "file": "2024-01-31.md"
           }
         }
       },
@@ -139,8 +182,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ea825cfe54a76d9f",
+  "active": "e27d947d07866501",
   "lastOpenFiles": [
+    "2024-01-31.md",
+    "README.MD",
+    "/README.MD",
+    "/2024-01-31.md",
     "README.md"
   ]
 }
