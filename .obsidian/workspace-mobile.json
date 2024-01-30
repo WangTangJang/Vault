@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "README.MD",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "README.MD",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "README.MD",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,12 +114,20 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "README.MD"
           }
+        }
+      },
+      {
+        "id": "ea825cfe54a76d9f",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -131,7 +139,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e27d947d07866501",
+  "active": "ea825cfe54a76d9f",
   "lastOpenFiles": [
     "README.md"
   ]
