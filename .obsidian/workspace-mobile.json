@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "af215fdd0ee5f54d",
+    "id": "04b3dfff2f3f45f0",
     "type": "split",
     "children": [
       {
-        "id": "8f3a7007f6ae8b58",
+        "id": "22bede524b957b96",
         "type": "tabs",
         "children": [
           {
-            "id": "f185efe6719a2c38",
+            "id": "e27d947d07866501",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "29d3c08e1e0a4ee5",
+    "id": "4d12a74f9c04f3f4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "0a94aecdff0c7942",
+        "id": "ee12818d4b25faa2",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "970959371c76f967",
+        "id": "c82fe5e07cffcdc9",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "7fae98fe7b7a3bde",
+        "id": "94bb6eb1ec7fe11c",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "f1eb8660f62cb809",
+        "id": "5d6ce98836276777",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,11 +76,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "8ef877bb1a367049",
+    "id": "8996c02b1a4cb60c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "fca4bdcf890772fa",
+        "id": "2e84ca4044a695e4",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -97,7 +97,7 @@
         }
       },
       {
-        "id": "b8ff58d4fa1a2d08",
+        "id": "8069d882ca8ca23e",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -109,7 +109,7 @@
         }
       },
       {
-        "id": "96bc2950bdae0b15",
+        "id": "3797f8440924aec0",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -117,25 +117,9 @@
             "file": "README.md"
           }
         }
-      },
-      {
-        "id": "624fa54597699fc6",
-        "type": "leaf",
-        "state": {
-          "type": "git-history-view",
-          "state": {}
-        }
-      },
-      {
-        "id": "ffc8af8e2195567b",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {}
-        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +131,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f185efe6719a2c38",
+  "active": "e27d947d07866501",
   "lastOpenFiles": [
     "README.md"
   ]
