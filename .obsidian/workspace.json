@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "441fff52d508faa9",
+        "id": "98b7146ae249057c",
         "type": "tabs",
         "children": [
           {
-            "id": "92cb631383bc6fe2",
+            "id": "9d8175b5cf6992a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,6 +136,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "c3950eaf63541e83",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -155,12 +163,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "92cb631383bc6fe2",
+  "active": "9d8175b5cf6992a9",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-01-31 22.22.08.excalidraw.md",
+    "未命名/HashMap的实现原理.md",
+    "README.MD",
     "Excalidraw/LXGWWenKai-Bold.ttf",
     "Excalidraw/Drawing 2024-01-31 22.16.51.excalidraw.md",
-    "未命名/HashMap的实现原理.md",
     "Excalidraw/Drawing 2024-01-31 22.20.10.excalidraw.md",
     "Excalidraw/Drawing 2024-01-31 22.16.36.excalidraw.md",
     "Excalidraw",

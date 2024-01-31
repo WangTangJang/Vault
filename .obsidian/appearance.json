@@ -6,5 +6,6 @@
   "nativeMenus": false,
   "interfaceFontFamily": "霞鹜文楷等宽",
   "textFontFamily": "霞鹜文楷",
-  "translucency": false
+  "translucency": false,
+  "monospaceFontFamily": "霞鹜文楷"
 }
