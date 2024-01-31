@@ -1,6 +1,10 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
-  "cssTheme": "Minimal",
-  "baseFontSize": 19
+  "theme": "obsidian",
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "interfaceFontFamily": "霞鹜文楷等宽",
+  "textFontFamily": "霞鹜文楷",
+  "translucency": false
 }
