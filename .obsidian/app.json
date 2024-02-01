@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "Image"
+  "attachmentFolderPath": "Image",
+  "alwaysUpdateLinks": true
 }
