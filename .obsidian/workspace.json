@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4177de6ffdedeb1a",
+        "id": "b84cd5caad7bf4fc",
         "type": "tabs",
         "children": [
           {
-            "id": "3bb4f95ec7ecd99d",
+            "id": "eb683f24a0862b23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Java面试题.md",
+                "file": "Interview/Basics/访问修饰符有哪些？.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Java面试题.md",
+                "file": "Interview/Basics/访问修饰符有哪些？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Java面试题.md",
+                "file": "Interview/Basics/访问修饰符有哪些？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Java面试题.md"
+                "file": "Interview/Basics/访问修饰符有哪些？.md"
               }
             }
           },
@@ -154,18 +154,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "400f877149f52183",
+  "active": "eb683f24a0862b23",
   "lastOpenFiles": [
-    "Interview/Basics",
-    "Interview/基本数据类型有哪些？.md",
-    "Interview/自动装箱和自动拆箱是什么？.md",
-    "Interview/基本数据类型和包装类之间转换的意义？.md",
-    "Diary/2024-02-01.md",
-    "基本数据类型和包装类转换的意义.md",
-    "Interview/HashMap的实现原理.md",
     "Interview/Java面试题.md",
+    "Interview/Basics/基本数据类型和包装类之间转换的意义？.md",
+    "Interview/Basics/HashMap的实现原理.md",
+    "Interview/Basics/自动装箱和自动拆箱是什么？.md",
+    "Interview/Basics/访问修饰符有哪些？.md",
+    "Interview/Basics/基本数据类型有哪些？.md",
+    "Diary/2024-02-01.md",
     "Interview/Wiki/Unicode.md",
     "Interview/Wiki/精度.md",
+    "README.md",
+    "Interview/Basics",
+    "基本数据类型和包装类转换的意义.md",
     "Template/Wiki.md",
     "Term/未命名Ter.md",
     "Interview/Wiki/Term/精度.md",
@@ -174,7 +176,6 @@
     "Unicode.md",
     "Term/Unicode.md",
     "Interview/Wiki/Term",
-    "README.md",
     "Template",
     "Interview/Wiki",
     "Interview/Examples/Enum.md",
@@ -190,7 +191,6 @@
     "Interview",
     "Excalidraw/LXGWWenKai-Bold.ttf",
     "Excalidraw/Drawing 2024-01-31 22.22.08.excalidraw.md",
-    "Excalidraw",
     "未命名.canvas",
     "日记/2024-01-31 1.md",
     "日记/2024-01-31.md"
