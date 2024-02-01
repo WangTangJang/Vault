@@ -1,3 +1,5 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "Image"
 }

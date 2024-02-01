@@ -4,8 +4,8 @@
   "cssTheme": "Obsidian Nord",
   "baseFontSize": 16,
   "nativeMenus": false,
-  "interfaceFontFamily": "霞鹜文楷等宽",
+  "interfaceFontFamily": "霞鹜文楷",
   "textFontFamily": "霞鹜文楷",
   "translucency": false,
-  "monospaceFontFamily": "霞鹜文楷"
+  "monospaceFontFamily": "霞鹜文楷,霞鹜文楷等宽"
 }
