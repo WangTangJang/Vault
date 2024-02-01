@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Wiki/精度.md",
+                "file": "Interview/自动装箱和自动拆箱是什么？.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Wiki/精度.md",
+                "file": "Interview/自动装箱和自动拆箱是什么？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Wiki/精度.md",
+                "file": "Interview/自动装箱和自动拆箱是什么？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Wiki/精度.md"
+                "file": "Interview/自动装箱和自动拆箱是什么？.md"
               }
             }
           },
@@ -156,21 +156,23 @@
   },
   "active": "694f58a24a2bfeb3",
   "lastOpenFiles": [
-    "Template/Wiki.md",
+    "Interview/基本数据类型有哪些？.md",
+    "Interview/自动装箱和自动拆箱是什么？.md",
+    "Interview/HashMap的实现原理.md",
+    "Interview/Java面试题.md",
+    "Interview/Wiki/Unicode.md",
     "Interview/Wiki/精度.md",
+    "Template/Wiki.md",
     "Term/未命名Ter.md",
     "Interview/Wiki/Term/精度.md",
     "Interview/Wiki/Term/Unicode.md",
-    "Interview/基本数据类型.md",
     "Term",
     "Unicode.md",
     "Term/Unicode.md",
-    "Interview/HashMap的实现原理.md",
     "Interview/Wiki/Term",
     "README.md",
     "Template",
     "Diary/2024-02-01.md",
-    "Interview/Java面试题.md",
     "Interview/Wiki",
     "Interview/Examples/Enum.md",
     "Interview/Examples",
