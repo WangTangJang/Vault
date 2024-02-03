@@ -84,3 +84,7 @@
 [[LinkedList的实现原理]]
 
 [[HashSet的实现原理]]
+
+[[TreeMap的实现原理]]
+
+[[HashMap和TreeMap的区别是什么？]]

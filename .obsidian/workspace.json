@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32e95981b9194602",
+        "id": "a70a86ba78ffcb42",
         "type": "tabs",
         "children": [
           {
-            "id": "f46225f867eb37ed",
+            "id": "db19270f847a593b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Wiki/红黑树.md",
+                "file": "Interview/Thread/synchronized关键字的作用是什么？.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Wiki/红黑树.md",
+                "file": "Interview/Thread/synchronized关键字的作用是什么？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Wiki/红黑树.md",
+                "file": "Interview/Thread/synchronized关键字的作用是什么？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Wiki/红黑树.md"
+                "file": "Interview/Thread/synchronized关键字的作用是什么？.md"
               }
             }
           },
@@ -159,41 +159,44 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f46225f867eb37ed",
+  "active": "db19270f847a593b",
   "lastOpenFiles": [
+    "Interview/Thread/什么是线程？如何创建线程？.md",
+    "Interview/Thread/synchronized关键字的作用是什么？.md",
+    "Interview/Thread/线程和进程的区别是什么？.md",
+    "Interview/OOP/什么是抽象类和接口？有什么区别？.md",
+    "Interview/OOP/什么是继承？.md",
+    "Diary/2024-02-03.md",
+    "Interview/Thread",
+    "Interview/未命名.md",
+    "Interview/Collections/HashMap的实现原理.md",
     "Interview/Collections/TreeMap的实现原理.md",
-    "Interview/Wiki/红黑树.md",
+    "Interview/Collections/HashMap和TreeMap的区别是什么？.md",
     "Interview/Java面试题.md",
+    "Interview/Collections/ArrayList的实现原理.md",
+    "Interview/Wiki/红黑树.md",
+    "Excalidraw/Drawing 2024-02-03 15.48.22.excalidraw.md",
+    "Excalidraw",
+    "未命名.md",
+    "未命名.canvas",
     "Interview/Collections/ArrayList和普通数组的区别？.md",
     "Interview/Collections/Java集合框架有哪些？.md",
-    "Interview/Collections/HashMap的实现原理.md",
     "Interview/Collections/HashSet的实现原理.md",
     "Interview/Wiki/Hash.md",
     "Interview/Wiki/哈希表.md",
     "Interview/Basics/final关键字的作用是什么？.md",
-    "Interview/Collections/ArrayList的实现原理.md",
     "实现｜实现.md",
     "Interview/Examples/LinkedListVsArrayList.md",
     "Interview/Examples/Enum.md",
     "Interview/Collections/LinkedList的实现原理.md",
     "Image/Pasted image 20240203101709.png",
     "Interview/Wiki/时间复杂度.md",
-    "Template/Wiki.md",
-    "Diary/2024-01-31.md",
-    "Excalidraw/Drawing 2024-02-02 16.33.26.excalidraw.md",
-    "Interview/Examples/归并排序.md",
-    "Interview/Examples/二分查找法.md",
-    "Interview/Wiki/对数.md",
-    "Interview/Wiki/字段.md",
-    "Interview/Wiki/精度.md",
-    "Diary/2024-02-02.md",
-    "Interview/Basics/访问修饰符有哪些？.md",
     "Interview/OOP",
     "Interview/Collections",
-    "Excalidraw",
     "Template",
     "Interview/Wiki",
     "Interview/Examples",
@@ -201,8 +204,6 @@
     "Interview",
     "Image/Pasted image 20240201164308.png",
     "Image/Pasted image 20240201164221.png",
-    "Image",
-    "Diary",
-    "未命名.canvas"
+    "Image"
   ]
 }
