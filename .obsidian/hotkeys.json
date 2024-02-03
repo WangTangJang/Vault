@@ -5,6 +5,12 @@
         "Mod"
       ],
       "key": "`"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
     }
   ],
   "editor:insert-wikilink": [
