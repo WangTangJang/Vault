@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "4266fbcbb3f3acad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3553d3df4562856d",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Diary/2024-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Diary/2024-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Diary/2024-02-04.md"
               }
             }
           },
@@ -188,12 +175,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4266fbcbb3f3acad",
+  "active": "db19270f847a593b",
   "lastOpenFiles": [
+    "Interview/Thread/如何实现线程安全的代码？.md",
     "Diary/2024-02-04.md",
     "conflict-files-obsidian-git.md",
     "Interview/Examples/线程不安全.md",
-    "Interview/Thread/如何实现线程安全的代码？.md",
     "Interview/Thread/什么是线程？如何创建线程？.md",
     "Interview/Thread/synchronized关键字的作用是什么？.md",
     "Interview/Thread/线程和进程的区别是什么？.md",
