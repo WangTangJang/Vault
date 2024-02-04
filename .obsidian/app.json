@@ -2,5 +2,7 @@
   "promptDelete": false,
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "Image",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "newFileLocation": "current"
 }
