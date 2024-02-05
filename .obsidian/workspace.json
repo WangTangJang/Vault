@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Thread/如何实现线程安全的代码？.md",
+                "file": "Interview/IO/文件操作的常用类有哪些？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7035ccc77ae90180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/IO/FileInputStream和FileReader的区别.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3ceae7cdefabaa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/IO/什么是序列化和反序列化？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44cfcc04ff823791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/IO/什么是缓冲流？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3d67df285bfa2d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2024-02-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Thread/如何实现线程安全的代码？.md",
+                "file": "Interview/IO/什么是缓冲流？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Thread/如何实现线程安全的代码？.md",
+                "file": "Interview/IO/什么是缓冲流？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Thread/如何实现线程安全的代码？.md"
+                "file": "Interview/IO/什么是缓冲流？.md"
               }
             }
           },
@@ -163,12 +212,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "54d9c01c0c19501f",
+  "active": "44cfcc04ff823791",
   "lastOpenFiles": [
-    "Interview/Thread/什么是线程？如何创建线程？.md",
-    "Interview/Thread/线程和进程的区别是什么？.md",
+    "Interview/IO/什么是序列化和反序列化？.md",
+    "Interview/IO/什么是缓冲流？.md",
+    "Interview/IO/FileInputStream和FileReader的区别.md",
+    "Interview/IO/文件操作的常用类有哪些？.md",
+    "Interview/IO/什么是流？有哪两种流？.md",
+    "Diary/2024-02-05.md",
+    "Interview/Thread/如何实现线程安全的代码？.md",
     "Diary/2024-02-04.md",
-    "Interview/Examples/线程不安全.md",
+    "Interview/IO",
+    "Interview/未命名.md",
+    "Interview/Thread/什么是线程？如何创建线程？.md",
+    "Interview/Examples/线程不安全示例.md",
+    "Interview/Examples/LinkedListVsArrayList.md",
+    "Interview/Examples/CountDownLatch类.md",
+    "Interview/Wiki/调用栈.md",
+    "Interview/Thread/synchronized关键字的作用是什么？.md",
+    "Interview/Wiki/栈帧.md",
+    "Excalidraw/栈帧示意图.md",
+    "Excalidraw/Drawing 2024-02-05 13.00.04.excalidraw.md",
+    "Interview/Thread/线程和进程的区别是什么？.md",
     "Interview/Wiki/字段.md",
     "Interview/Wiki/时间复杂度.md",
     "Interview/Wiki/精度.md",
@@ -176,25 +241,10 @@
     "Interview/Wiki/哈希表.md",
     "Interview/Wiki/对数.md",
     "Interview/Wiki/Unicode.md",
-    "Interview/Wiki/Hash.md",
-    "Interview/Thread/如何实现线程安全的代码？.md",
-    "Interview/Thread/synchronized关键字的作用是什么？.md",
-    "Excalidraw/Drawing 2024-02-03 15.48.22.excalidraw.md",
-    "Diary/2024-02-03.md",
-    "README.MD",
-    "Template/Wiki.md",
     "Image/Pasted image 20240203101709.png",
     "Image/Pasted image 20240201164221.png",
     "Image/Pasted image 20240201164308.png",
-    "Interview/Basics/基本数据类型和包装类之间转换的意义？.md",
-    "Diary/2024-02-02.md",
-    "Interview/OOP/什么是面向对象编程？.md",
-    "Interview/OOP/什么是继承？.md",
-    "Interview/OOP/什么是多态？.md",
-    "Interview/Java面试题.md",
-    "Interview/Collections/TreeMap的实现原理.md",
     "Interview/Thread",
-    "Interview/Examples/LinkedListVsArrayList.md",
     "Excalidraw",
     "Interview/OOP",
     "Interview/Collections",
@@ -203,7 +253,6 @@
     "Interview/Examples",
     "Interview/Basics",
     "Interview",
-    "Image",
     "未命名.canvas"
   ]
 }
