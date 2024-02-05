@@ -4,71 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "827acab75020fcdf",
+        "id": "9ed19302ba373fef",
         "type": "tabs",
         "children": [
           {
-            "id": "54d9c01c0c19501f",
+            "id": "0771da40cbb9aafb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/IO/文件操作的常用类有哪些？.md",
+                "file": "Interview/Exception/Java中如何处理异常？.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7035ccc77ae90180",
+            "id": "3d927d40af251556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/IO/FileInputStream和FileReader的区别.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3ceae7cdefabaa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/IO/什么是序列化和反序列化？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44cfcc04ff823791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/IO/什么是缓冲流？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3d67df285bfa2d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2024-02-05.md",
+                "file": "Interview/Java面试题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/IO/什么是缓冲流？.md",
+                "file": "Interview/Java面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/IO/什么是缓冲流？.md",
+                "file": "Interview/Java面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/IO/什么是缓冲流？.md"
+                "file": "Interview/Java面试题.md"
               }
             }
           },
@@ -212,14 +176,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "44cfcc04ff823791",
+  "active": "3d927d40af251556",
   "lastOpenFiles": [
-    "Interview/IO/什么是序列化和反序列化？.md",
+    "Interview/Exception/Error和Exception有什么区别？.md",
+    "Interview/Exception/Java中如何处理异常？.md",
+    "Interview/Exception/异常的分类有哪些？.md",
     "Interview/IO/什么是缓冲流？.md",
-    "Interview/IO/FileInputStream和FileReader的区别.md",
-    "Interview/IO/文件操作的常用类有哪些？.md",
-    "Interview/IO/什么是流？有哪两种流？.md",
+    "Interview/Exception",
     "Diary/2024-02-05.md",
+    "Interview/IO/文件操作的常用类有哪些？.md",
+    "Interview/IO/FileInputStream和FileReader的区别.md",
+    "Interview/IO/什么是序列化和反序列化？.md",
+    "Interview/Wiki/缓冲区.md",
+    "Interview/IO/什么是流？有哪两种流？.md",
     "Interview/Thread/如何实现线程安全的代码？.md",
     "Diary/2024-02-04.md",
     "Interview/IO",
@@ -237,10 +206,6 @@
     "Interview/Wiki/字段.md",
     "Interview/Wiki/时间复杂度.md",
     "Interview/Wiki/精度.md",
-    "Interview/Wiki/红黑树.md",
-    "Interview/Wiki/哈希表.md",
-    "Interview/Wiki/对数.md",
-    "Interview/Wiki/Unicode.md",
     "Image/Pasted image 20240203101709.png",
     "Image/Pasted image 20240201164221.png",
     "Image/Pasted image 20240201164308.png",
@@ -252,7 +217,6 @@
     "Interview/Wiki",
     "Interview/Examples",
     "Interview/Basics",
-    "Interview",
     "未命名.canvas"
   ]
 }
