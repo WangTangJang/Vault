@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0771da40cbb9aafb",
+            "id": "1825d4a9e80b816e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Exception/Java中如何处理异常？.md",
+                "file": "Interview/Database/如何在Java中连接数据库？.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3d927d40af251556",
+            "id": "c9ef479600e17a50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Java面试题.md",
+                "file": "Interview/Database/什么是事务？.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Java面试题.md",
+                "file": "Interview/Database/什么是事务？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Java面试题.md",
+                "file": "Interview/Database/什么是事务？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Java面试题.md"
+                "file": "Interview/Database/什么是事务？.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,14 +176,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3d927d40af251556",
+  "active": "c9ef479600e17a50",
   "lastOpenFiles": [
-    "Interview/Exception/Error和Exception有什么区别？.md",
+    "Interview/Database/如何在Java中连接数据库？.md",
+    "Interview/Database/Database.md",
+    "Interview/Database/什么是事务？.md",
+    "Excalidraw/栈帧示意图.md",
+    "Interview/Database/Mysql指令.md",
     "Interview/Exception/Java中如何处理异常？.md",
+    "Diary/2024-02-06.md",
+    "Diary/2024-02-05.md",
+    "Interview/Java面试题.md",
+    "Interview/Exception/Error和Exception有什么区别？.md",
+    "Interview/Thread/什么是线程？如何创建线程？.md",
+    "Interview/Database",
     "Interview/Exception/异常的分类有哪些？.md",
     "Interview/IO/什么是缓冲流？.md",
     "Interview/Exception",
-    "Diary/2024-02-05.md",
     "Interview/IO/文件操作的常用类有哪些？.md",
     "Interview/IO/FileInputStream和FileReader的区别.md",
     "Interview/IO/什么是序列化和反序列化？.md",
@@ -193,19 +202,11 @@
     "Diary/2024-02-04.md",
     "Interview/IO",
     "Interview/未命名.md",
-    "Interview/Thread/什么是线程？如何创建线程？.md",
     "Interview/Examples/线程不安全示例.md",
     "Interview/Examples/LinkedListVsArrayList.md",
     "Interview/Examples/CountDownLatch类.md",
     "Interview/Wiki/调用栈.md",
     "Interview/Thread/synchronized关键字的作用是什么？.md",
-    "Interview/Wiki/栈帧.md",
-    "Excalidraw/栈帧示意图.md",
-    "Excalidraw/Drawing 2024-02-05 13.00.04.excalidraw.md",
-    "Interview/Thread/线程和进程的区别是什么？.md",
-    "Interview/Wiki/字段.md",
-    "Interview/Wiki/时间复杂度.md",
-    "Interview/Wiki/精度.md",
     "Image/Pasted image 20240203101709.png",
     "Image/Pasted image 20240201164221.png",
     "Image/Pasted image 20240201164308.png",
@@ -216,7 +217,6 @@
     "Template",
     "Interview/Wiki",
     "Interview/Examples",
-    "Interview/Basics",
     "未命名.canvas"
   ]
 }

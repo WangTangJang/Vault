@@ -1,3 +1,4 @@
+
 `Error` 和 `Exception` 都是Java中处理异常的类，但它们之间有一些关键的区别：
 ## 继承层次关系：
    - `Error` 类和 `Exception` 类都直接继承自 `Throwable` 类。

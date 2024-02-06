@@ -25,9 +25,22 @@ public void methodName() throws ExceptionType1, ExceptionType2 {
 ## 自定义异常：
 可以通过创建自定义异常类来实现特定类型的异常。自定义异常类通常是Throwable类或其子类的子类。例如：
 ```java
-public class CustomException extends Exception {
-    public CustomException(String message) {
-        super(message);
-    }
+package com.example;
+
+import java.io.*;
+public class App {
+    public static void main(String[] args) {
+        try {
+            // 在此处抛出自定义异常
+            throw new CustomException("This is a custom exception");
+        } catch (CustomException e) { // 在此处捕获自定义异常
+            System.out.println(e.getMessage());// 输出异常信息
+        }
+    }
+// 一个自定义的异常类
+class CustomException extends Exception {
+    public CustomException(String message) {
+        super(message);
+    }
 }
 ```

@@ -106,3 +106,11 @@
 [[什么是缓冲流？]]
 
 [[FileInputStream和FileReader的区别]]
+## 异常
+[[Java中如何处理异常？]]
+
+[[Error和Exception有什么区别？]]
+
+[[异常的分类有哪些？]]
+## 数据库
+![[Database]]
