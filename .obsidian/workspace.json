@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb75bd42307ae5b8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/数据库并发一致性问题-脏独.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Database/什么是事务？.md",
+                "file": "Excalidraw/数据库并发一致性问题-脏独.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Database/什么是事务？.md",
+                "file": "Excalidraw/数据库并发一致性问题-脏独.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Database/什么是事务？.md"
+                "file": "Excalidraw/数据库并发一致性问题-脏独.md"
               }
             }
           },
@@ -159,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -176,11 +186,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c9ef479600e17a50",
+  "active": "fb75bd42307ae5b8",
   "lastOpenFiles": [
+    "Interview/Database/数据库中并发一致性问题.md",
+    "Excalidraw/数据库并发一致性问题-脏独.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/未命名.md",
+    "Interview/Database/什么是事务？.md",
     "Interview/Database/如何在Java中连接数据库？.md",
     "Interview/Database/Database.md",
-    "Interview/Database/什么是事务？.md",
     "Excalidraw/栈帧示意图.md",
     "Interview/Database/Mysql指令.md",
     "Interview/Exception/Java中如何处理异常？.md",
@@ -202,11 +219,6 @@
     "Diary/2024-02-04.md",
     "Interview/IO",
     "Interview/未命名.md",
-    "Interview/Examples/线程不安全示例.md",
-    "Interview/Examples/LinkedListVsArrayList.md",
-    "Interview/Examples/CountDownLatch类.md",
-    "Interview/Wiki/调用栈.md",
-    "Interview/Thread/synchronized关键字的作用是什么？.md",
     "Image/Pasted image 20240203101709.png",
     "Image/Pasted image 20240201164221.png",
     "Image/Pasted image 20240201164308.png",
@@ -215,8 +227,6 @@
     "Interview/OOP",
     "Interview/Collections",
     "Template",
-    "Interview/Wiki",
-    "Interview/Examples",
     "未命名.canvas"
   ]
 }
