@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Database/什么是连接池？为什么使用连接池？.md",
+                "file": "Interview/Examples/hikari连接池.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Database/什么是连接池？为什么使用连接池？.md",
+                "file": "Interview/Examples/hikari连接池.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Database/什么是连接池？为什么使用连接池？.md",
+                "file": "Interview/Examples/hikari连接池.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Database/什么是连接池？为什么使用连接池？.md"
+                "file": "Interview/Examples/hikari连接池.md"
               }
             }
           },
@@ -165,8 +165,12 @@
   },
   "active": "41222cfb96e97a71",
   "lastOpenFiles": [
-    "Interview/Database/如何在Java中连接数据库？.md",
     "Interview/Database/什么是连接池？为什么使用连接池？.md",
+    "Interview/Examples/hikari连接池.md",
+    "Interview/Database/事务的隔离级别？.md",
+    "Interview/Database/数据库中并发一致性问题.md",
+    "Interview/Database/Mysql指令.md",
+    "Interview/Database/如何在Java中连接数据库？.md",
     "Interview/Database/未命名.md",
     "README.MD",
     "Interview/Database/Mysql数据库的索引用到B+树是什么？.md",
@@ -192,10 +196,6 @@
     "Interview/Examples/LinkedListVsArrayList.md",
     "Interview/Examples/Enum.md",
     "Interview/Examples/CountDownLatch类.md",
-    "Interview/Wiki/调用栈.md",
-    "Interview/Wiki/缓冲区.md",
-    "Interview/Wiki/红黑树.md",
-    "Interview/Wiki/精度.md",
     "Interview/Examples",
     "Interview/Wiki",
     "Interview/Thread",
