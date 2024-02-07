@@ -8,41 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1825d4a9e80b816e",
+            "id": "4a32a9181ffc5dec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Database/如何在Java中连接数据库？.md",
-                "mode": "source",
+                "file": "Interview/Database/Mysql数据库的索引用到B+树是什么？.md",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c9ef479600e17a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/Database/什么是事务？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb75bd42307ae5b8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/数据库并发一致性问题-脏独.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/数据库并发一致性问题-脏独.md",
+                "file": "Interview/Database/Mysql数据库的索引用到B+树是什么？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/数据库并发一致性问题-脏独.md",
+                "file": "Interview/Database/Mysql数据库的索引用到B+树是什么？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/数据库并发一致性问题-脏独.md"
+                "file": "Interview/Database/Mysql数据库的索引用到B+树是什么？.md"
               }
             }
           },
@@ -186,24 +163,30 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fb75bd42307ae5b8",
+  "active": "4a32a9181ffc5dec",
   "lastOpenFiles": [
+    "Interview/Java面试题.md",
+    "Interview/Database/Mysql数据库的索引用到B+树是什么？.md",
+    "Interview/Database/Database.md",
     "Interview/Database/数据库中并发一致性问题.md",
-    "Excalidraw/数据库并发一致性问题-脏独.md",
+    "Diary/2024-02-06.md",
+    "Excalidraw/Database/并发一致性-脏独.md",
+    "Interview/Database/事务的隔离级别？.md",
+    "Interview/Database/什么是事务？.md",
+    "Interview/Database/如何在Java中连接数据库？.md",
+    "Excalidraw/Database/并发一致性-丢失更新.md",
+    "Excalidraw/Database/并发一致性-不可重复读.md",
+    "Excalidraw/Database/并发一致性-幻读.md",
+    "Excalidraw/Database",
+    "Excalidraw/未命名.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/未命名.md",
-    "Interview/Database/什么是事务？.md",
-    "Interview/Database/如何在Java中连接数据库？.md",
-    "Interview/Database/Database.md",
     "Excalidraw/栈帧示意图.md",
     "Interview/Database/Mysql指令.md",
     "Interview/Exception/Java中如何处理异常？.md",
-    "Diary/2024-02-06.md",
     "Diary/2024-02-05.md",
-    "Interview/Java面试题.md",
     "Interview/Exception/Error和Exception有什么区别？.md",
     "Interview/Thread/什么是线程？如何创建线程？.md",
     "Interview/Database",
@@ -214,11 +197,7 @@
     "Interview/IO/FileInputStream和FileReader的区别.md",
     "Interview/IO/什么是序列化和反序列化？.md",
     "Interview/Wiki/缓冲区.md",
-    "Interview/IO/什么是流？有哪两种流？.md",
-    "Interview/Thread/如何实现线程安全的代码？.md",
-    "Diary/2024-02-04.md",
     "Interview/IO",
-    "Interview/未命名.md",
     "Image/Pasted image 20240203101709.png",
     "Image/Pasted image 20240201164221.png",
     "Image/Pasted image 20240201164308.png",
@@ -226,7 +205,6 @@
     "Excalidraw",
     "Interview/OOP",
     "Interview/Collections",
-    "Template",
     "未命名.canvas"
   ]
 }
