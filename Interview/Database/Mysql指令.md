@@ -12,6 +12,9 @@ use 库名;
 # 展示库中表
 show tables;
 
+# 展示表的状态
+show table status like 'Table_Name';
+
 # 展示表结构
 describe 表名;
 
