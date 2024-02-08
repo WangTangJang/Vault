@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Examples/hikari连接池.md",
+                "file": "Interview/Database/Database.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "74ee0739c478e968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Database/Mysql中的锁机制.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecf213550a4de652",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/表级读锁.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Examples/hikari连接池.md",
+                "file": "Interview/Database/Mysql中的锁机制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Examples/hikari连接池.md",
+                "file": "Interview/Database/Mysql中的锁机制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Examples/hikari连接池.md"
+                "file": "Interview/Database/Mysql中的锁机制.md"
               }
             }
           },
@@ -146,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,19 +186,26 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "41222cfb96e97a71",
+  "active": "74ee0739c478e968",
   "lastOpenFiles": [
-    "Interview/Database/什么是连接池？为什么使用连接池？.md",
-    "Interview/Examples/hikari连接池.md",
-    "Interview/Database/事务的隔离级别？.md",
-    "Interview/Database/数据库中并发一致性问题.md",
+    "Excalidraw/表级读锁.md",
+    "Interview/Database/Mysql中的锁机制.md",
+    "Image/Mysql上锁.gif",
+    "Image/格式工厂 屏幕录像20240208_150624 00_00_00-00_00_30.gif",
     "Interview/Database/Mysql指令.md",
     "Interview/Database/如何在Java中连接数据库？.md",
-    "Interview/Database/未命名.md",
-    "README.MD",
+    "Diary/2024-02-08.md",
+    "Interview/Database/什么是事务？.md",
+    "Interview/Database/数据库中并发一致性问题.md",
+    "Interview/Database/事务的隔离级别？.md",
     "Interview/Database/Mysql数据库的索引用到B+树是什么？.md",
-    "Interview/DataStructures/B树.md",
+    "Interview/Database/CHAR和VARCHAR的区别？.md",
+    "Interview/Database/Database.md",
     "Diary/2024-02-07.md",
+    "Interview/Database/什么是连接池？为什么使用连接池？.md",
+    "Interview/Examples/hikari连接池.md",
+    "README.MD",
+    "Interview/DataStructures/B树.md",
     "Image/格式工厂 屏幕录像20240207_222014 00_00_00-00_00_30.gif",
     "Image/B树删除.gif",
     "Image/B树.png",
@@ -191,11 +221,6 @@
     "Diary/2024-02-05.md",
     "Excalidraw/Drawing 2024-02-07 18.57.40.excalidraw.md",
     "Interview/Examples/线程不安全示例.md",
-    "Interview/Examples/归并排序.md",
-    "Interview/Examples/二分查找法.md",
-    "Interview/Examples/LinkedListVsArrayList.md",
-    "Interview/Examples/Enum.md",
-    "Interview/Examples/CountDownLatch类.md",
     "Interview/Examples",
     "Interview/Wiki",
     "Interview/Thread",
