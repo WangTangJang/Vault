@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,6 +175,7 @@
   },
   "active": "41222cfb96e97a71",
   "lastOpenFiles": [
+    "Mysql的索引是什么？.pdf",
     "Interview/Database/Mysql数据库的索引用到B+树是什么？.md",
     "Interview/Database/Mysql的索引是什么？.md",
     "Interview/Database/Database.md",
@@ -208,7 +209,6 @@
     "Interview/未命名.md",
     "Diary/2024-01-31.md",
     "Diary/2024-02-01.md",
-    "Diary/2024-02-03.md",
     "Interview/Examples",
     "Interview/Wiki",
     "Interview/Thread",
