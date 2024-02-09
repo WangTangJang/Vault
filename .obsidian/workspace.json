@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Database/Mysql的索引是什么？.md",
+                "file": "Interview/Database/一个 SQL 语句在 MySQL 中的执行流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Database/Mysql的索引是什么？.md",
+                "file": "Interview/Database/一个 SQL 语句在 MySQL 中的执行流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Database/Mysql的索引是什么？.md",
+                "file": "Interview/Database/一个 SQL 语句在 MySQL 中的执行流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Database/Mysql的索引是什么？.md"
+                "file": "Interview/Database/一个 SQL 语句在 MySQL 中的执行流程.md"
               }
             }
           },
@@ -175,9 +175,10 @@
   },
   "active": "41222cfb96e97a71",
   "lastOpenFiles": [
+    "Interview/Database/Mysql的索引是什么？.md",
+    "Interview/Database/一个 SQL 语句在 MySQL 中的执行流程.md",
     "Mysql的索引是什么？.pdf",
     "Interview/Database/Mysql数据库的索引用到B+树是什么？.md",
-    "Interview/Database/Mysql的索引是什么？.md",
     "Interview/Database/Database.md",
     "Interview/Database/Mysql指令.md",
     "Interview/Database/Mysql中有哪些不同的表类型？.md",
@@ -217,7 +218,6 @@
     "Interview/Exception",
     "Interview/Database",
     "Interview/Collections",
-    "Interview/Basics",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Image/Pasted image 20240203101709.png",
     "Image/Pasted image 20240201164221.png",
