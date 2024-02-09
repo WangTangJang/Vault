@@ -1,4 +1,4 @@
-HashSet是Java集合框架中的一种实现了Set接口的类，它基于[[哈希表]]实现。以下是HashSet的主要实现原理：
+HashSet是[[Java集合框架有哪些？|Java集合框架]]中的一种实现了Set接口的类，它基于[[哈希表]]实现。以下是HashSet的主要实现原理：
 ## 底层数据结构：
 `HashSet` 使用 `HashMap` 作为底层的数据结构。在HashSet中，元素被存储在HashMap的键的位置上，而值则被设置为一个固定的对象（通常是`PRESENT`，一个静态的Object对象）。
 ## 哈希函数：
