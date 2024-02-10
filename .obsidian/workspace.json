@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-02-09.md",
+                "file": "Other/Native Image  原生映像.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-02-09.md",
+                "file": "Other/Native Image  原生映像.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-02-09.md",
+                "file": "Other/Native Image  原生映像.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-02-09.md"
+                "file": "Other/Native Image  原生映像.md"
               }
             }
           },
@@ -166,10 +166,11 @@
   "active": "0d6ab538f68f267f",
   "lastOpenFiles": [
     "Other/Native Image 基础知识.md",
+    "Other/Native Image  原生映像.md",
+    "Diary/2024-02-09.md",
     "BUG/native-image.md",
     "Template/BUG.md",
     "Template/Wiki.md",
-    "Diary/2024-02-09.md",
     "BUG/未命名",
     "BUG",
     "Interview/Basics/未命名.md",
@@ -193,7 +194,6 @@
     "Interview/Database/Mysql中的锁机制.md",
     "Interview/Database/Mysql中有哪些不同的表类型？.md",
     "Interview/Database/如何在Java中连接数据库？.md",
-    "Interview/Database/Mysql的索引是什么？.md",
     "Mysql的索引是什么？.pdf",
     "Image/Pasted image 20240208230509.png",
     "Image/Mysql上锁.gif",
