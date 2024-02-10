@@ -5,34 +5,62 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Interview/Basics  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16777215
       }
     },
     {
       "query": "path:Interview/Collections  ",
       "color": {
         "a": 1,
-        "rgb": 6443744
+        "rgb": 2558719
       }
     },
     {
       "query": "path:Interview/OOP  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 11206400
       }
     },
     {
       "query": "path:Interview/Thread  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 16731392
+      }
+    },
+    {
+      "query": "path:Interview/Database  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Interview/Exception  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Interview/IO  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Interview/Spring  ",
+      "color": {
+        "a": 1,
+        "rgb": 694528
       }
     }
   ],
@@ -46,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9581378610294371,
+  "scale": 0.3106602199085916,
   "close": true
 }
