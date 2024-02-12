@@ -17,9 +17,10 @@
     "excalidraw-default-mode": "text",
     "excalidraw-font": "text",
     "excalidraw-font-color": "text",
-    "excalidraw-border-color": "text",
     "excalidraw-css": "text",
     "excalidraw-autoexport": "checkbox",
-    "excalidraw-iframe-theme": "text"
+    "excalidraw-iframe-theme": "text",
+    "重要性": "text",
+    "excalidraw-border-color": "text"
   }
 }
