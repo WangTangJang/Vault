@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/02/2024-02-14.md",
+                "file": "Interview/Spring/Spring MVC的核心组件是什么？.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9177ded122d5f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Spring/Spring 包含的模块有哪些？.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5026054382324
+    "width": 320.5026054382324
   },
   "right": {
     "id": "9e3e75f942a45129",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/02/2024-02-14.md",
+                "file": "Interview/Spring/Spring 包含的模块有哪些？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/02/2024-02-14.md",
+                "file": "Interview/Spring/Spring 包含的模块有哪些？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024/02/2024-02-14.md"
+                "file": "Interview/Spring/Spring 包含的模块有哪些？.md"
               }
             }
           },
@@ -147,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,34 +178,35 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "400f877149f52183",
+  "active": "f9177ded122d5f1b",
   "lastOpenFiles": [
-    "Diary/2024/02/2024-02-13.md",
-    "Diary/2024/02/2024-02-14.md",
-    "Diary/2024/02/2024-02-12.md",
-    "Diary/2024/02/2024-02-10.md",
-    "Diary/2024/02/2024-02-11.md",
-    "Diary/2024/02/2024-02-09.md",
-    "Diary/2024/02/2024-02-08.md",
-    "Diary/2024/02/2024-02-07.md",
-    "Diary/2024/02/2024-02-06.md",
-    "Diary/2024/02/2024-02-05.md",
-    "Diary/2024/02/2024-02-04.md",
-    "Diary/2024/02/2024-02-03.md",
-    "Diary/2024/02/2024-02-02.md",
-    "Diary/2024/02/2024-02-01.md",
+    "Interview/Spring/Spring MVC的核心组件是什么？.md",
+    "Interview/Spring/Spring 包含的模块有哪些？.md",
+    "Interview/Spring/Spring MVC的工作流程？.md",
+    "Interview/Spring/请解释 Spring Bean 的自动装配？.md",
+    "BUG/Redis命令行中的符号.md",
+    "Interview/Spring/Spring Bean 的作用域之间有什么区别？.md",
+    "Interview/Spring/什么是 spring bean？.md",
+    "Interview/Spring/请解释 Spring Bean 的生命周期？.md",
+    "Interview/Spring/什么是控制反转？.md",
+    "Interview/Spring/什么是SpringMVC？.md",
+    "Interview/Spring/什么是Spring框架？.md",
+    "Interview/Spring/什么是依赖注入？.md",
+    "Interview/Spring/什么是面向切面编程？.md",
+    "Interview/Spring/什么是 Spring inner beans？.md",
+    "Interview/Spring/Spring MVC常用的注解有哪些？.md",
+    "Interview/Spring/DispatcherServlet的作用是什么？.md",
+    "Interview/Spring/DispatcherServlet如何接收客户端请求？.md",
+    "Image/171744675337b0ec~tplv-t2oaga2asx-jj-mark 3024 0 0 0 q75.png",
+    "Interview/Web/什么是客户端请求？.md",
+    "Interview/Web/什么是无状态协议？.md",
     "Interview/Web/HTTP请求时独立的请求类.md",
-    "Interview/Thread/如何实现线程安全的代码？.md",
-    "Interview/Redis/Redis的HyperLogLog是什么？.md",
-    "Interview/Redis/Redis事务.md",
-    "Interview/Redis/Redis中的键简述.md",
-    "Interview/Redis/Redis的Stream.md",
-    "Interview/Redis/Redis 脚本.md",
-    "Interview/Redis/什么是Redis的订阅机制？.md",
-    "Interview/Redis/什么是Redis？简要介绍一下Redis的特点。.md",
-    "Interview/Exception/异常的分类有哪些？.md",
-    "Interview/Exception/Error和Exception有什么区别？.md",
-    "Interview/不可名状、难以理解.md",
+    "Interview/Web/HTTP协议.md",
+    "Interview/Wiki/Hypertext.md",
+    "Interview/Web/HTTP请求里POST和GET的区别.md",
+    "Diary/2024/02/2024-02-15.md",
+    "Interview/Spring/@Resource和@Autowird区别.md",
+    "Interview/Spring/控制反转和依赖注入的区别和联系？.md",
     "Interview/Web",
     "未命名.canvas",
     "Diary/2024/01",
@@ -211,7 +226,6 @@
     "Image/格式工厂 屏幕录像20240207_222014 00_00_00-00_00_30.gif",
     "Image/B树删除.gif",
     "Image/B树.png",
-    "Image/Pasted image 20240207191200.png",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg"
+    "Image/Pasted image 20240207191200.png"
   ]
 }
