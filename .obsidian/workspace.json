@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c952d398d77b7dc9",
+        "id": "2fa2eab3d8b38818",
         "type": "tabs",
         "children": [
           {
-            "id": "5655cb1f75be0e50",
+            "id": "d88662f4c09ebf11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Java/Basics/Java的代理是什么？.md",
-                "mode": "preview",
+                "file": "Interview/Database/Design/什么是表分区？.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -39,8 +39,16 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
+            }
+          },
+          {
+            "id": "d15ad90aeacc45cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           },
           {
@@ -56,14 +64,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "d15ad90aeacc45cd",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Java/Basics/Java的代理是什么？.md",
+                "file": "Interview/Database/Design/什么是表分区？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Java/Basics/Java的代理是什么？.md",
+                "file": "Interview/Database/Design/什么是表分区？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Java/Basics/Java的代理是什么？.md"
+                "file": "Interview/Database/Design/什么是表分区？.md"
               }
             }
           },
@@ -137,7 +137,14 @@
               "type": "git-view",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2a0a92aaac3d52f4",
+        "type": "tabs",
+        "children": [
           {
             "id": "3e9d5d81fe2e55d6",
             "type": "leaf",
@@ -146,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,54 +170,54 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5655cb1f75be0e50",
+  "active": "d88662f4c09ebf11",
   "lastOpenFiles": [
-    "Interview/Java/SourceCode/InvocationHandler.md",
-    "Interview/Java/Basics/Java的代理是什么？.md",
-    "Interview/Java/Basics/final关键字的作用是什么？.md",
-    "Interview/Java/SourceCode.md",
-    "Interview/Java/SourceCode",
-    "Interview/Wiki/设计模式.md",
-    "Interview/Wiki/并发.md",
-    "Interview/Java/Basics/Java反射创建对象效率高还是通过new创建对象的效率高？.md",
-    "Interview/Java/Basics/什么是Java的反射机制？.md",
+    "Interview/Database/Sql/什么是SQL？它有哪些基本命令？.md",
+    "Interview/Database/Design/什么是表分区？.md",
+    "Interview/Database/Sql/什么是子查询？它们在SQL中的作用是什么？.md",
+    "Interview/Database/Sql/一个 SQL 语句在 MySQL 中的执行流程.md",
+    "Interview/Database/Mysql数据库的索引用到B+树是什么？.md",
+    "Interview/Database/事务的隔离级别？.md",
+    "Interview/Database/什么是连接池？为什么使用连接池？.md",
+    "Interview/Database/CHAR和VARCHAR的区别？.md",
+    "Interview/Database/如何在Java中连接数据库？.md",
+    "Interview/Database/什么是事务？.md",
+    "Interview/Database/Mysql指令.md",
+    "Interview/Database/Sql/什么是JOIN？可以解释一下不同类型的JOIN吗？.md",
+    "Interview/Database/Sql",
+    "Interview/Database/Design/介绍InnoDB存储引擎的外键约束.md",
+    "Interview/Database/Design/什么是数据库表的主键和外键？它们之间有什么区别？.md",
+    "Interview/Database/Design/什么是范式？第一至第三范式分别是什么？.md",
+    "Interview/Database/Design/什么是数据库范围的完整性？如何确保数据库中的完整性？.md",
+    "Interview/Database/Database.md",
+    "Interview/Database/Design",
+    "Diary/2024/02/2024-02-17.md",
+    "Image/Pasted image 20240217215824.png",
+    "Excalidraw/Drawing 2024-02-17 21.57.04.excalidraw.md",
+    "Excalidraw/Database/并发一致性-不可重复读.md",
+    "Interview/Database/关系型数据库和非关系型数据库的区别.md",
+    "Interview/Database/数据库中并发一致性问题.md",
+    "Interview/Java/Redis/Redis中的键简述.md",
     "Interview/不可名状、难以理解.md",
-    "Interview/简历.md",
-    "Interview/JavaScript/事件委托.md",
-    "Interview/JavaScript/AJAX的定义.md",
-    "Diary/2024/02/2024-02-16.md",
-    "Interview/Java/OOP/什么是对象引用？.md",
-    "Interview/Java/Basics/解释一下Java的自动内存管理机制？.md",
-    "Interview/Java/Basics/什么是垃圾回收？.md",
+    "Interview/Database/Mysql的索引是什么？.md",
+    "Interview/Database/什么是SQL注入？如何避免SQL注入攻击？.md",
+    "Image/image.webp",
+    "Interview/Java/Mybatis",
+    "Interview/Java/SourceCode",
     "Image/028400FD.gif",
     "Image/028400FD 1.gif",
     "Interview/JavaScript",
-    "Interview/JavaScript.md",
-    "Interview/Java/Basics/访问修饰符有哪些？.md",
-    "Interview/Java/OOP/Object类常用方法有那些？.md",
-    "Interview/Java/Spring/什么是面向切面编程？.md",
-    "Interview/Java/Thread/如何实现线程安全的代码？.md",
-    "Interview/Java/IO/什么是缓冲流？.md",
-    "Interview/Java/Spring/Spring MVC的核心组件是什么？.md",
-    "Interview/Java/Java面试题.md",
     "Interview/Java",
-    "Interview/Java/OOP/重载和重写的区别是什么.md",
-    "Interview/Java/OOP/什么是面向对象编程？.md",
     "Image/171744675337b0ec~tplv-t2oaga2asx-jj-mark 3024 0 0 0 q75.png",
     "Interview/Web",
     "未命名.canvas",
     "Diary/2024/01",
     "Diary/2024/02",
     "Diary/2024",
-    "Diary/2024/2024-02",
-    "Mysql指南.pdf",
     "Image/Pasted image 20240211182808.png",
     "Image/Pasted image 20240211182058.png",
-    "Interview/Java/Redis",
     "Image/Pasted image 20240208230509.png",
     "Image/Mysql上锁.gif",
-    "Image/格式工厂 屏幕录像20240208_150624 00_00_00-00_00_30.gif",
-    "Image/格式工厂 屏幕录像20240207_222014 00_00_00-00_00_30.gif",
-    "Image/B树删除.gif"
+    "Image/格式工厂 屏幕录像20240208_150624 00_00_00-00_00_30.gif"
   ]
 }

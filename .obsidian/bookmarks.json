@@ -1,14 +1,38 @@
 {
   "items": [
     {
-      "type": "file",
-      "ctime": 1707731446940,
-      "path": "Interview/Java/Redis/Redis中的键简述.md"
+      "type": "group",
+      "ctime": 1708177658974,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1708177723919,
+          "path": "Interview/不可名状、难以理解.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1707731479017,
+          "path": "Interview/Database/Sql/一个 SQL 语句在 MySQL 中的执行流程.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1707731446940,
+          "path": "Interview/Java/Redis/Redis中的键简述.md"
+        }
+      ],
+      "title": "需要重复查看的重要知识"
     },
     {
-      "type": "file",
-      "ctime": 1707731479017,
-      "path": "Interview/Database/一个 SQL 语句在 MySQL 中的执行流程.md"
+      "type": "group",
+      "ctime": 1708177683207,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1708178039455,
+          "path": "Interview/Database/Design/什么是范式？第一至第三范式分别是什么？.md"
+        }
+      ],
+      "title": "需要完善"
     }
   ]
 }
