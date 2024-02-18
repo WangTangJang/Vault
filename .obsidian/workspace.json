@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Database/Design/什么是表分区？.md",
+                "file": "Interview/Wiki/CSV文件.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dc8f0c7e8aa031a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Database/什么是事务？.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f716269a7f97735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Database/MySql/Mysql中有哪些不同的表类型？.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Database/Design/什么是表分区？.md",
+                "file": "Interview/Database/什么是事务？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Database/Design/什么是表分区？.md",
+                "file": "Interview/Database/什么是事务？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Database/Design/什么是表分区？.md"
+                "file": "Interview/Database/什么是事务？.md"
               }
             }
           },
@@ -170,37 +197,38 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d88662f4c09ebf11",
+  "active": "0dc8f0c7e8aa031a",
   "lastOpenFiles": [
-    "Interview/Database/Sql/什么是SQL？它有哪些基本命令？.md",
+    "Interview/Database/Transaction.md",
+    "Interview/Database/什么是事务？.md",
+    "Interview/Database/事务的隔离级别？.md",
+    "Interview/Database/数据库中并发一致性问题.md",
+    "Interview/Wiki/MySQL底层架构体系及每层作用？.md",
+    "Interview/Database/MySql/Mysql中有哪些不同的表类型？.md",
+    "Interview/Database/Design/介绍InnoDB存储引擎的外键约束.md",
+    "Interview/Wiki/CSV文件.md",
+    "Interview/Wiki/设计模式.md",
+    "Interview/Database/Design/主键和候选键有什么区别？.md",
+    "Interview/Database/Design/什么是数据库表的主键和外键？它们之间有什么区别？.md",
+    "Interview/Database/Sql/什么是LIMIT和OFFSET，它们在查询中的作用是什么？.md",
+    "Interview/Database/MySql/CHAR和VARCHAR的区别？.md",
+    "Interview/Database/MySql/Mysql指令.md",
+    "Interview/Database/MySql",
+    "Interview/Database/Sql/什么是ORDER BY子句？如何使用它对查询结果排序？.md",
     "Interview/Database/Design/什么是表分区？.md",
+    "Interview/Database/Sql/什么是SQL？它有哪些基本命令？.md",
     "Interview/Database/Sql/什么是子查询？它们在SQL中的作用是什么？.md",
     "Interview/Database/Sql/一个 SQL 语句在 MySQL 中的执行流程.md",
-    "Interview/Database/Mysql数据库的索引用到B+树是什么？.md",
-    "Interview/Database/事务的隔离级别？.md",
+    "Interview/Database/MySql/Mysql数据库的索引用到B+树是什么？.md",
     "Interview/Database/什么是连接池？为什么使用连接池？.md",
-    "Interview/Database/CHAR和VARCHAR的区别？.md",
     "Interview/Database/如何在Java中连接数据库？.md",
-    "Interview/Database/什么是事务？.md",
-    "Interview/Database/Mysql指令.md",
     "Interview/Database/Sql/什么是JOIN？可以解释一下不同类型的JOIN吗？.md",
     "Interview/Database/Sql",
-    "Interview/Database/Design/介绍InnoDB存储引擎的外键约束.md",
-    "Interview/Database/Design/什么是数据库表的主键和外键？它们之间有什么区别？.md",
     "Interview/Database/Design/什么是范式？第一至第三范式分别是什么？.md",
     "Interview/Database/Design/什么是数据库范围的完整性？如何确保数据库中的完整性？.md",
     "Interview/Database/Database.md",
     "Interview/Database/Design",
-    "Diary/2024/02/2024-02-17.md",
     "Image/Pasted image 20240217215824.png",
-    "Excalidraw/Drawing 2024-02-17 21.57.04.excalidraw.md",
-    "Excalidraw/Database/并发一致性-不可重复读.md",
-    "Interview/Database/关系型数据库和非关系型数据库的区别.md",
-    "Interview/Database/数据库中并发一致性问题.md",
-    "Interview/Java/Redis/Redis中的键简述.md",
-    "Interview/不可名状、难以理解.md",
-    "Interview/Database/Mysql的索引是什么？.md",
-    "Interview/Database/什么是SQL注入？如何避免SQL注入攻击？.md",
     "Image/image.webp",
     "Interview/Java/Mybatis",
     "Interview/Java/SourceCode",
@@ -213,7 +241,6 @@
     "未命名.canvas",
     "Diary/2024/01",
     "Diary/2024/02",
-    "Diary/2024",
     "Image/Pasted image 20240211182808.png",
     "Image/Pasted image 20240211182058.png",
     "Image/Pasted image 20240208230509.png",
