@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/02/2024-02-18.md",
+                "file": "Interview/简历.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/02/2024-02-18.md",
+                "file": "Interview/简历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/02/2024-02-18.md",
+                "file": "Interview/简历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024/02/2024-02-18.md"
+                "file": "Interview/简历.md"
               }
             }
           },
@@ -186,13 +186,13 @@
   },
   "active": "4f716269a7f97735",
   "lastOpenFiles": [
+    "Diary/2024/02/2024-02-18.md",
+    "Interview/简历.md",
     "BUG/Navicat的数据生成.md",
     "Excalidraw/Drawing 2024-02-18 17.54.57.excalidraw.md",
-    "Diary/2024/02/2024-02-18.md",
     "Interview/Database/聚簇索引和非聚簇索引的区别？.md",
     "Interview/Database/InnoDB和MylSAM存储引擎的区别？.md",
     "Interview/Database/MySql/Mysql中有哪些不同的表类型？.md",
-    "Interview/简历.md",
     "Interview/Wiki/CSV文件.md",
     "Interview/Database/MySql/Mysql的索引是什么？.md",
     "Interview/Database/Transaction/什么是事务？.md",
