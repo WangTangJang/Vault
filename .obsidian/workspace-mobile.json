@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/02/2024-02-19.md",
+                "file": "Diary/2024/01/2024-01-31.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/2024/02/2024-02-19.md",
+                "file": "Diary/2024/01/2024-01-31.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +137,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diary/2024/02/2024-02-19.md",
+            "file": "Diary/2024/01/2024-01-31.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diary/2024/02/2024-02-19.md",
+            "file": "Diary/2024/01/2024-01-31.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -166,7 +166,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diary/2024/02/2024-02-19.md"
+            "file": "Diary/2024/01/2024-01-31.md"
           }
         }
       },
@@ -202,8 +202,11 @@
   },
   "active": "e27d947d07866501",
   "lastOpenFiles": [
-    "Diary/2024/02/2024-02-18.md",
+    "Diary/2024/01/2024-01-31.md",
+    "Diary/2024/02/2024-02-02.md",
+    "Diary/2024/02/2024-02-01.md",
     "Diary/2024/02/2024-02-19.md",
+    "Diary/2024/02/2024-02-18.md",
     "Interview/不可名状、难以理解.md",
     "Interview/Wiki/MySQL底层架构体系及每层作用？.md",
     "Interview/Wiki/CSV文件.md",
@@ -225,9 +228,6 @@
     "Interview/Database/Sql/什么是SQL？它有哪些基本命令？.md",
     "Interview/Database/Sql/什么是ORDER BY子句？如何使用它对查询结果排序？.md",
     "Interview/Database/Sql/什么是LIMIT和OFFSET，它们在查询中的作用是什么？.md",
-    "Interview/Database/Sql/什么是JOIN？可以解释一下不同类型的JOIN吗？.md",
-    "Interview/Database/Sql/一个 SQL 语句在 MySQL 中的执行流程.md",
-    "Interview/Database/MySql/Mysql的索引是什么？.md",
     "Image/image.webp",
     "Image/Pasted image 20240217215824.png",
     "/Image/image.webp",
