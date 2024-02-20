@@ -18,6 +18,16 @@
           "type": "file",
           "ctime": 1707731446940,
           "path": "Interview/Java/Redis/Redis中的键简述.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1708420406232,
+          "path": "Interview/Java/Basics/包类型的缓存机制.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1708420536662,
+          "path": "Interview/Java/Basics/什么是垃圾回收？.md"
         }
       ],
       "title": "需要重复查看的重要知识"
