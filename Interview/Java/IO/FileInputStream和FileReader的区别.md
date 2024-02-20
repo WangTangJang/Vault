@@ -1,5 +1,4 @@
 `FileInputStream`和`FileReader`都是Java中用于文件读取的类，但它们有一些关键的区别，主要是在处理文件内容的层面上。
-
 ## 处理的数据类型：
 - `FileInputStream`是字节流，用于读取二进制数据，例如图像、音频、视频等。
 - `FileReader`是字符流，用于读取文本文件的字符数据。

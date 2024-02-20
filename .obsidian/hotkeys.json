@@ -63,10 +63,9 @@
   "editor:toggle-strikethrough": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
-      "key": "B"
+      "key": "S"
     }
   ],
   "editor:insert-callout": [
@@ -101,6 +100,20 @@
         "Alt"
       ],
       "key": "2"
+    }
+  ],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
     }
   ]
 }
