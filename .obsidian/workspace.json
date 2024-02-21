@@ -11,11 +11,30 @@
             "id": "0f994bfa17e6f7b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Interview/NetWork/Basics/地址解析协议（ARP）是什么？.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6e217bb7d977578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/NetWork/Basics/DNS解析是什么？.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5026054382324
+    "width": 240.5
   },
   "right": {
     "id": "9e3e75f942a45129",
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interview/NetWork/Basics/DNS解析是什么？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Interview/NetWork/Basics/DNS解析是什么？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Interview/NetWork/Basics/DNS解析是什么？.md"
+              }
             }
           },
           {
@@ -158,39 +181,39 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": true,
-      "meld-encrypt:New encrypted note": true,
-      "meld-encrypt:Convert to or from an Encrypted note": true
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "0f994bfa17e6f7b8",
+  "active": "c6e217bb7d977578",
   "lastOpenFiles": [
-    "Interview/NetWork/Web/HTTP协议.md",
-    "Interview/NetWork/Basics/什么是 OSI 模型？它有几层？.md",
-    "Interview/NetWork/Web/什么是无状态协议？.md",
+    "Diary/2024/02/2024-02-21.md",
     "Interview/NetWork/Web/HTTP的状态码.md",
-    "Interview/简历.md",
+    "Interview/NetWork/Web/用户在浏览器输入 URL 回车后，会发生什么？.md",
+    "Interview/NetWork/Basics/TCP 和 UDP 的区别是什么？.md",
+    "Interview/NetWork/Basics/什么是TCP、IP模型？.md",
+    "Interview/NetWork/Basics/DNS解析是什么？.md",
+    "Interview/NetWork/Basics/IP 地址.md",
+    "Interview/NetWork/Web/HTTP协议.md",
     "Interview/NetWork/Basics/地址解析协议（ARP）是什么？.md",
+    "Interview/NetWork/Basics/什么是 OSI 模型？.md",
+    "Interview/NetWork/Web/什么是无状态协议？.md",
+    "Interview/简历.md",
     "Interview/NetWork/Basics/网络地址转换（NAT）是什么？.md",
     "Interview/NetWork/Basics/动态主机配置协议（DHCP）是什么？.md",
-    "Interview/NetWork/Basics/介绍IP 地址.md",
     "Interview/NetWork/Basics/流量控制机制是什么？.md",
     "Diary/2024/02/2024-02-20.md",
     "Interview/Java/OOP/什么是面向对象编程？.md",
     "Interview/Java/Java面试题.md",
     "Interview/Java/Redis/Redis中的键简述.md",
     "Interview/不可名状、难以理解.md",
-    "Interview/NetWork/Basics/TCP 和 UDP 的区别是什么？.md",
     "Interview/Java/Examples/IP地址转二进制.md",
     "Interview/Java/Basics/Java 移位运算符.md",
     "Interview/Java/Basics/基本数据类型和包装类之间转换的意义？.md",
     "Interview/Wiki/对数.md",
     "Interview/Java/Basics/解释一下Java的自动内存管理机制？.md",
     "Diary/2024/02/2024-02-18.md",
-    "Diary/2024/02/2024-02-17.md",
-    "Interview/Java/Basics/什么是垃圾回收？.md",
-    "Interview/Java/IO/文件操作的常用类有哪些？.md",
-    "Interview/Java/IO/什么是缓冲流？.md",
     "Interview/NetWork/Basics",
     "Interview/NetWork",
     "Interview/Java/Basics/未命名",

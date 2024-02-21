@@ -2,10 +2,10 @@
    - 浏览器首先会解析用户输入的URL。这个URL包括协议（通常是HTTP或HTTPS）、域名、端口号和路径等信息。
 
 2. **DNS解析：**
-   - 浏览器需要将解析得到的域名转换为IP地址。它通过向DNS服务器发送查询请求来完成这一步骤，以获取目标服务器的IP地址。
+   - 浏览器通过向**DNS服务器**发送查询请求来将得到的**域名**转换成[[IP 地址|IP地址]]。
 
 3. **建立TCP连接：**
-   - 浏览器使用HTTP或HTTPS协议，通过TCP（Transmission Control Protocol）建立与目标服务器的连接。如果是HTTPS，还会进行SSL/TLS握手过程来确保通信的安全性。
+   - 浏览器使用[[HTTP协议]]或HTTPS协议，通过TCP（Transmission Control Protocol）建立与目标服务器的连接。如果是HTTPS，还会进行SSL/TLS握手过程来确保通信的安全性。
 
 4. **发起HTTP请求：**
    - 一旦TCP连接建立，浏览器向服务器发送HTTP请求。这个请求中包含了用户的具体需求，例如请求的资源（通常是HTML文件）、请求的方法（GET、POST等）以及其他的头部信息。

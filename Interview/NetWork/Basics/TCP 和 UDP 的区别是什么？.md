@@ -1,4 +1,4 @@
-TCP（Transmission Control Protocol）和UDP（User Datagram Protocol）是两种在计算机网络中常用的[[什么是 OSI 模型？它有几层？#4.传输层（Transport Layer）：|传输层]]协议，它们在传输数据时有一些显著的区别：
+TCP（Transmission Control Protocol）和UDP（User Datagram Protocol）是两种在计算机网络中常用的[[什么是 OSI 模型？#4.传输层（Transport Layer）：|传输层]]协议，它们在传输数据时有一些显著的区别：
 ## 连接性：
    - **TCP：** 是面向连接的协议。在数据传输之前，建立了一个可靠的连接。数据传输结束后，会释放连接。
    - **UDP：** 是面向无连接的协议。每个数据包都是独立的，发送方和接收方不会建立持久的连接。
