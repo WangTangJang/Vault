@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6edbc60b87f6f837",
+        "id": "943c2f9f1398321a",
         "type": "tabs",
         "children": [
           {
-            "id": "0f994bfa17e6f7b8",
+            "id": "a20a0e08f3ced692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/NetWork/Basics/地址解析协议（ARP）是什么？.md",
-                "mode": "preview",
+                "file": "Interview/Java/IO/Scanner类.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -37,9 +37,9 @@
             "id": "400f877149f52183",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "diagram-edit",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "file": "Interview/NetWork/Basics/Untitled Diagram.svg"
               }
             }
           },
@@ -65,12 +65,23 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b44af39f9d4dd328",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 277.5
   },
   "right": {
     "id": "9e3e75f942a45129",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/NetWork/Basics/地址解析协议（ARP）是什么？.md",
+                "file": "Interview/Java/IO/Scanner类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/NetWork/Basics/地址解析协议（ARP）是什么？.md",
+                "file": "Interview/Java/IO/Scanner类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,25 +132,25 @@
             }
           },
           {
-            "id": "c1ce7111d42fa00c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Interview/NetWork/Basics/地址解析协议（ARP）是什么？.md"
-              }
-            }
-          },
-          {
             "id": "b737b9cb7b158944",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "c1ce7111d42fa00c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Interview/Java/IO/Scanner类.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "2a0a92aaac3d52f4",
@@ -157,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 235.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,58 +179,61 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false
+      "meld-encrypt:New encrypted note": true,
+      "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "0f994bfa17e6f7b8",
+  "active": "a20a0e08f3ced692",
   "lastOpenFiles": [
-    "Interview/NetWork/Basics/TCP协议.md",
-    "Interview/NetWork/Basics/DNS解析是什么？.md",
-    "Diary/2024/02/2024-02-21.md",
-    "Interview/NetWork/Web/HTTP的状态码.md",
-    "Interview/NetWork/Web/用户在浏览器输入 URL 回车后，会发生什么？.md",
-    "Interview/NetWork/Basics/TCP 和 UDP 的区别是什么？.md",
-    "Interview/NetWork/Basics/什么是TCP、IP模型？.md",
-    "Interview/NetWork/Basics/IP 地址.md",
-    "Interview/NetWork/Web/HTTP协议.md",
-    "Interview/NetWork/Basics/地址解析协议（ARP）是什么？.md",
-    "Interview/NetWork/Basics/什么是 OSI 模型？.md",
-    "Interview/NetWork/Web/什么是无状态协议？.md",
-    "Interview/简历.md",
-    "Interview/NetWork/Basics/网络地址转换（NAT）是什么？.md",
-    "Interview/NetWork/Basics/动态主机配置协议（DHCP）是什么？.md",
-    "Interview/NetWork/Basics/流量控制机制是什么？.md",
-    "Diary/2024/02/2024-02-20.md",
-    "Interview/Java/OOP/什么是面向对象编程？.md",
+    "Interview/Wiki/栈帧.md",
+    "Interview/Wiki/调用栈.md",
+    "Interview/Wiki/阶乘.md",
+    "Interview/Java/IO/Scanner类.md",
+    "Interview/Java/SourceCode/Scanner.md",
+    "Interview/Java/SourceCode/Object.md",
+    "Interview/Java/SourceCode/InvocationHandler.md",
+    "Interview/Java/Mybatis/Mybatis的工作原理.md",
+    "Interview/Java/Util",
+    "Interview/Java/Mybatis/Mybatis的懒加载是什么？.md",
+    "Interview/Java/OOP/什么是对象引用？.md",
+    "Interview/Java/Basics/静态变量有什么用？.md",
+    "Interview/Java/Basics/访问修饰符有哪些？.md",
+    "Interview/Java/Basics/成员变量与局部变量的区别？.md",
+    "Interview/Java/Basics/关于String类.md",
+    "Interview/Java/Basics/Java的编译模式是什么？.md",
     "Interview/Java/Java面试题.md",
-    "Interview/Java/Redis/Redis中的键简述.md",
-    "Interview/不可名状、难以理解.md",
-    "Interview/Java/Examples/IP地址转二进制.md",
-    "Interview/Java/Basics/Java 移位运算符.md",
-    "Interview/Java/Basics/基本数据类型和包装类之间转换的意义？.md",
-    "Interview/Wiki/对数.md",
-    "Interview/Java/Basics/解释一下Java的自动内存管理机制？.md",
+    "Interview/Java/Basics/什么是Java的反射机制？.md",
+    "Interview/简历.md",
+    "Interview/Java/Basics/什么是垃圾回收？.md",
+    "Interview/Java/Basics/自动装箱和自动拆箱是什么？.md",
+    "Interview/NetWork/Ensp/常用命令.md",
+    "Interview/NetWork/Basics/TCP 和 UDP 的区别是什么？.md",
+    "Interview/NetWork/Equipment/交换机（Switch）.md",
+    "Interview/NetWork/Equipment/路由器（Router）.md",
+    "Interview/JavaScript/AJAX的定义.md",
+    "Interview/JavaScript/事件委托.md",
+    "Interview/NetWork/Ensp",
+    "Interview/NetWork/Basics/Untitled Diagram.svg",
+    "未命名.canvas",
+    "未命名 3.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Interview/NetWork/Basics/Untitled 20240223 014329.mdenc",
+    "Interview/NetWork/Equipment",
     "Interview/NetWork/Basics",
     "Interview/NetWork",
     "Interview/Java/Basics/未命名",
     "Interview/Database/Transaction",
     "Interview/Database/MySql",
     "Interview/Database/Sql",
-    "Interview/Database/Design",
     "Image/Pasted image 20240217215824.png",
     "Image/image.webp",
-    "Interview/Java/Mybatis",
-    "Interview/Java/SourceCode",
     "Image/028400FD.gif",
     "Image/028400FD 1.gif",
-    "Interview/JavaScript",
     "Image/171744675337b0ec~tplv-t2oaga2asx-jj-mark 3024 0 0 0 q75.png",
-    "未命名.canvas",
     "Image/Pasted image 20240211182808.png",
     "Image/Pasted image 20240211182058.png",
-    "Image/Pasted image 20240208230509.png",
-    "Image/Mysql上锁.gif",
-    "Image/格式工厂 屏幕录像20240208_150624 00_00_00-00_00_30.gif"
+    "Image/Pasted image 20240208230509.png"
   ]
 }
