@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea30cfcf45d64387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Linux/权限管理.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,16 +47,6 @@
         "id": "3c712733f1b43277",
         "type": "tabs",
         "children": [
-          {
-            "id": "400f877149f52183",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Interview/NetWork/Basics/Untitled Diagram.svg"
-              }
-            }
-          },
           {
             "id": "d15ad90aeacc45cd",
             "type": "leaf",
@@ -77,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -105,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024/02/2024-02-26.md"
+                "file": "Interview/Linux/权限管理.md"
               }
             }
           },
@@ -126,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/02/2024-02-26.md",
+                "file": "Interview/Linux/权限管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/02/2024-02-26.md",
+                "file": "Interview/Linux/权限管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2a0a92aaac3d52f4",
@@ -168,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,11 +187,12 @@
       "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "a20a0e08f3ced692",
+  "active": "ea30cfcf45d64387",
   "lastOpenFiles": [
-    "Interview/Linux/Command/文件管理.md",
     "Interview/简历.md",
+    "Interview/Linux/权限管理.md",
     "Diary/2024/02/2024-02-26.md",
+    "Interview/Linux/Command/文件管理.md",
     "Interview/Linux/Command/文档编辑.md",
     "Interview/Linux/Command/文本处理命令.md",
     "Interview/Linux/Command/文件和目录管理命令.md",
@@ -213,7 +218,6 @@
     "Interview/Java/Basics/关于String类.md",
     "Interview/Java/Basics/Java的编译模式是什么？.md",
     "Interview/Java/Java面试题.md",
-    "Interview/Java/Basics/什么是Java的反射机制？.md",
     "Interview/NetWork/Ensp",
     "Interview/NetWork/Basics/Untitled Diagram.svg",
     "未命名.canvas",
