@@ -1,1 +1,0 @@
-select * from book_original_info;

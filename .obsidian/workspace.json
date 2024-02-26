@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Linux/Command/未命名.md",
+                "file": "Diary/2024/02/2024-02-26.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,31 +92,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69f06074d6ef2533",
+            "id": "b737b9cb7b158944",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Interview/Linux/Command/未命名.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
+              "type": "git-view",
+              "state": {}
             }
           },
           {
-            "id": "8f5fc2edf4ef6c42",
+            "id": "c1ce7111d42fa00c",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "file": "Interview/Linux/Command/未命名.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Diary/2024/02/2024-02-26.md"
               }
             }
           },
@@ -132,25 +121,36 @@
             }
           },
           {
-            "id": "b737b9cb7b158944",
+            "id": "8f5fc2edf4ef6c42",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diary/2024/02/2024-02-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
-            "id": "c1ce7111d42fa00c",
+            "id": "69f06074d6ef2533",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "Interview/Linux/Command/未命名.md"
+                "file": "Diary/2024/02/2024-02-26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "2a0a92aaac3d52f4",
@@ -168,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,11 +183,16 @@
       "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "b44af39f9d4dd328",
+  "active": "a20a0e08f3ced692",
   "lastOpenFiles": [
+    "Interview/Linux/Command/文件管理.md",
+    "Interview/简历.md",
+    "Diary/2024/02/2024-02-26.md",
+    "Interview/Linux/Command/文档编辑.md",
+    "Interview/Linux/Command/文本处理命令.md",
+    "Interview/Linux/Command/文件和目录管理命令.md",
     "Interview/Linux/Command",
     "Interview/Java/Basics/静态变量有什么用？.md",
-    "Interview/Linux/Command/未命名.md",
     "Interview/Linux",
     "Interview/Java/Basics/Java 和 C++ 的区别.md",
     "Interview/Java/Basics/final关键字的作用是什么？.md",
@@ -209,10 +214,6 @@
     "Interview/Java/Basics/Java的编译模式是什么？.md",
     "Interview/Java/Java面试题.md",
     "Interview/Java/Basics/什么是Java的反射机制？.md",
-    "Interview/简历.md",
-    "Interview/Java/Basics/什么是垃圾回收？.md",
-    "Interview/Java/Basics/自动装箱和自动拆箱是什么？.md",
-    "Interview/NetWork/Ensp/常用命令.md",
     "Interview/NetWork/Ensp",
     "Interview/NetWork/Basics/Untitled Diagram.svg",
     "未命名.canvas",
@@ -226,7 +227,6 @@
     "Interview/NetWork",
     "Interview/Java/Basics/未命名",
     "Interview/Database/Transaction",
-    "Interview/Database/MySql",
     "Image/Pasted image 20240217215824.png",
     "Image/image.webp",
     "Image/028400FD.gif",
