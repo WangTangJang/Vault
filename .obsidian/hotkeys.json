@@ -4,13 +4,13 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "`"
+      "key": "\\"
     },
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "\\"
+      "key": "`"
     }
   ],
   "editor:insert-wikilink": [
@@ -123,6 +123,31 @@
         "Mod"
       ],
       "key": "D"
+    }
+  ],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "window:toggle-always-on-top": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:toggle-italics": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
     }
   ]
 }
