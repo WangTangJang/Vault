@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/简历.md",
+                "file": "Diary/2024/02/2024-02-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/简历.md"
+                "file": "Diary/2024/02/2024-02-29.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/简历.md",
+                "file": "Diary/2024/02/2024-02-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/简历.md",
+                "file": "Diary/2024/02/2024-02-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,48 +173,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "floating": {
-    "id": "57d3ff35711c5037",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d3fb5123d8b56e9a",
-        "type": "window",
-        "children": [
-          {
-            "id": "867dfda061c7d5c3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "797958e86bcc4e4a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Diary/2024/02/2024-02-28.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 796,
-        "y": 30,
-        "width": 549,
-        "height": 253,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "3b5c8851fdaddde6",
   "lastOpenFiles": [
-    "Diary/2024/02/2024-02-28.md",
     "Interview/简历.md",
+    "Diary/2024/02/2024-02-28.md",
     "Interview/NetWork/Basics/DNS解析是什么？.md",
     "Diary/2024/02/2024-02-27.md",
     "Interview/NetWork/Basics/IP 地址.md",

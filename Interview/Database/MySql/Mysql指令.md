@@ -1,4 +1,3 @@
-
 ```mysql
 # 连接数据库
 mysql -uroot -pmysql;
@@ -35,6 +34,18 @@ delete from 表名;
 
 # 显示表中数据
 select * from 表名;
+
+# 查看当前密码验证插件和安全策略
+SHOW VARIABLES LIKE 'validate_password%';
+
+# 创建用户, %表示允许用户从任何主机连接
+CREATE USER 'Username'@'%' IDENTIFIED BY 'PassWord';
+
+# 赋予用户权限
+GRANT ALL PRIVILEGES ON your_database.* TO 'your_username'@'%';
+
+GRANT SUPER ON *.* TO 'your_user'@'your_host';
+
 
 # 退出
 exit;
