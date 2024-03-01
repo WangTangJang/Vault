@@ -1,14 +1,38 @@
 Spring MVC中常用的注解有很多，它们用于在Controller类、处理器方法、请求参数、响应、视图等方面进行配置和标记。以下是一些常用的Spring MVC注解：
 
-1. **@Controller：** 用于标记一个类作为Spring MVC的控制器。
+## @Controller：
+用于标记一个类作为Spring MVC的控制器。
+## @RequestMapping：
+用于映射Web请求到处理器类或处理器方法上，并指定处理请求的URL路径。
+## @GetMapping：
+用于映射HTTP GET请求到处理器方法上。
+## @PostMapping：
+用于将特定的HTTP请求映射到带有`@Controller`或`@RestController`注解的方法上。它是`@RequestMapping`注解的一个特定变体，专门用于处理HTTP [[HTTP请求里POST和GET的区别|POST请求。]]
+### 基本用法：
+```java
+@RestController
+@RequestMapping("/example")
+public class ExampleController {
 
-2. **@RequestMapping：** 用于映射Web请求到处理器类或处理器方法上，并指定处理请求的URL路径。
-
-3. **@GetMapping：** 用于映射HTTP GET请求到处理器方法上。
-
-4. **@PostMapping：** 用于映射HTTP POST请求到处理器方法上。
-
-5. **@PutMapping：** 用于映射HTTP PUT请求到处理器方法上。
+   @PostMapping("/submit")
+   public ResponseEntity<String> handleSubmit(@RequestBody String data) {
+	   // 处理POST请求的业务逻辑
+	   return ResponseEntity.ok("Submission successful");
+   }
+}
+```
+### 指定Consumes和Produces：
+可以使用`consumes`和`produces`属性来指定处理请求的`Content-Type`和返回的`Content-Type`。例如：
+   ```java
+   @PostMapping(value = "/submit", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
+   public ResponseEntity<MyResponse> handleSubmit(@RequestBody MyRequest request) {
+       // 处理请求和返回业务逻辑
+       return ResponseEntity.ok(new MyResponse("Submission successful"));
+   }
+   ```
+上述示例中，通过`consumes`和`produces`属性，限定了请求和响应的`Content-Type`为JSON。
+## @PutMapping：
+用于映射HTTP PUT请求到处理器方法上。
 
 6. **@DeleteMapping：** 用于映射HTTP DELETE请求到处理器方法上。
 
