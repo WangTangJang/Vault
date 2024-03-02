@@ -40,9 +40,60 @@ public class ExampleController {
 
 8. **@PathVariable：** 用于将请求URL中的模板变量绑定到处理器方法的参数上。
 
-9. **@RequestParam：** 用于将请求参数绑定到处理器方法的参数上。
+## @RequestParam：
+用于从请求中提取查询参数（URL参数）或表单参数。它通常用于将HTTP请求中的参数映射到方法的参数上。
+### 基本用法：
+在Spring MVC中，可以使用`@RequestParam`注解将请求参数映射到方法的参数上。以下是一个简单的例子：
+```java
+@GetMapping("/example")
+public String exampleMethod(@RequestParam String parameter) {
+	// 处理parameter参数
+	return "result";
+}
+```
+在这个例子中，`@RequestParam`用于将HTTP请求中名为`parameter`的参数映射到`exampleMethod`方法的`parameter`参数上。
+### 指定默认值：
+可以使用`defaultValue`属性为请求参数指定默认值。如果请求中未提供该参数，将使用默认值。
 
-10. **@ModelAttribute：** 用于将请求参数绑定到处理器方法的参数上，并将其添加到模型中。
+```java
+@GetMapping("/example")
+public String exampleMethod(@RequestParam(name = "parameter", defaultValue = "default") String parameter) {
+	// 处理parameter参数
+	return "result";
+}
+```
+
+在这个例子中，如果请求中没有名为`parameter`的参数，将使用默认值`"default"`。
+
+3. **指定参数名：**
+可以使用`name`属性指定请求参数的名称，以便与方法参数进行匹配。
+
+```java
+@GetMapping("/example")
+public String exampleMethod(@RequestParam(name = "customName") String parameter) {
+	// 处理parameter参数
+	return "result";
+}
+```
+
+在这个例子中，请求中的`customName`参数将被映射到`exampleMethod`方法的`parameter`参数上。
+
+4. **必需参数：**
+默认情况下，`@RequestParam`标识的参数是可选的。如果请求中没有提供该参数，将抛出`MissingServletRequestParameterException`异常。你可以通过将`required`属性设置为`true`来强制要求参数。
+
+```java
+@GetMapping("/example")
+public String exampleMethod(@RequestParam(name = "parameter", required = true) String parameter) {
+	// 处理parameter参数
+	return "result";
+}
+```
+
+在这个例子中，如果请求中没有提供名为`parameter`的参数，将抛出异常。
+
+`@RequestParam`注解提供了一种方便的方式，将HTTP请求中的参数与方法的参数进行绑定，从而更容易地处理请求参数。
+## @ModelAttribute：
+用于将请求参数绑定到处理器方法的参数上，并将其添加到模型中。
 
 11. **@RequestBody：** 用于将HTTP请求的请求体（Body）绑定到处理器方法的参数上，常用于接收JSON或XML格式的请求数据。
 
