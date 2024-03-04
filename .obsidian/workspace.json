@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Database/MySql/Mysql指令.md",
+                "file": "Diary/2024/03/2024-03-03.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Database/MySql/Mysql指令.md"
+                "file": "Diary/2024/03/2024-03-03.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Database/MySql/Mysql指令.md",
+                "file": "Diary/2024/03/2024-03-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Database/MySql/Mysql指令.md",
+                "file": "Diary/2024/03/2024-03-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,13 +167,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "meld-encrypt:New encrypted note": true,
-      "meld-encrypt:Convert to or from an Encrypted note": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "1dcc4ac73b69dec1",
+  "active": "b44af39f9d4dd328",
   "lastOpenFiles": [
+    "Other/OldTime/杂记.md",
+    "Other/OldTime/无处落征鸿.md",
+    "Other/OldTime/Linux学习日志.md",
+    "Other/OldTime",
+    "Interview/Database/MySql/Mysql指令.md",
     "Diary/2024/03/2024-03-02.md",
     "Diary/2024/03/2024-03-03.md",
     "Interview/Linux/解压.md",
@@ -197,10 +202,6 @@
     "Diary/2024/03/2024-03-01.md",
     "Diary/2024/02/2024-02-25.md",
     "Diary/2024/02/2024-02-24.md",
-    "Diary/2024/02/2024-02-23.md",
-    "Diary/2024/02/2024-02-22.md",
-    "Interview/Database/Sql/什么是SQL？它有哪些基本命令？.md",
-    "Interview/Database/Sql/什么是LIMIT和OFFSET，它们在查询中的作用是什么？.md",
     "Interview/Tomcat",
     "Interview/Java/Spring/SpringMVC",
     "Diary/2024/03",
@@ -222,7 +223,6 @@
     "未命名 3.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas",
-    "Interview/NetWork/Basics/Untitled 20240223 014329.mdenc",
-    "Interview/NetWork/Equipment"
+    "Interview/NetWork/Basics/Untitled 20240223 014329.mdenc"
   ]
 }
