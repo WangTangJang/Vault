@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "117ef021ba3e85b1",
+        "id": "38d44f255cb26091",
         "type": "tabs",
         "children": [
           {
-            "id": "1dcc4ac73b69dec1",
+            "id": "d69d7416423f6428",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Database/MySql/Mysql指令.md",
+                "file": "Diary/2024/03/2024-03-04.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a2a0c632a0f3d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Database/Sql/聚合函数.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "update",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Database/MySql/Mysql指令.md"
+                "file": "Diary/2024/03/2024-03-04.md"
               }
             }
           },
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Database/MySql/Mysql指令.md",
+                "file": "Diary/2024/03/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Database/MySql/Mysql指令.md",
+                "file": "Diary/2024/03/2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,35 +185,36 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1dcc4ac73b69dec1",
+  "active": "d69d7416423f6428",
   "lastOpenFiles": [
-    "Diary/2024/03/2024-03-02.md",
+    "Other/OldTime",
+    "Interview/Java/String/关于String类.md",
+    "Interview/Java/String/equal和==的区别.md",
+    "Interview/Java/OOP/什么是对象引用？.md",
+    "Interview/Java/Redis/什么是Redis？简要介绍一下Redis的特点。.md",
+    "Interview/Java/String",
+    "Interview/简历.md",
+    "Diary/2024/03/2024-03-04.md",
+    "Interview/Java/Thread/什么是线程？如何创建线程？.md",
+    "Interview/Database/什么是连接池？为什么使用连接池？.md",
+    "Interview/Database/MySql/一个 SQL 语句在 MySQL 中的执行流程.md",
+    "Interview/Database/MySql/数据类型.md",
+    "Interview/Database/Design/介绍InnoDB存储引擎的外键约束.md",
+    "Interview/Database/Sql/聚合函数.md",
+    "Interview/Database/MySql/Mysql指令.md",
     "Diary/2024/03/2024-03-03.md",
+    "Interview/Database/Sql/派生表.md",
+    "Interview/Database/Sql/什么是子查询？它们在SQL中的作用是什么？.md",
+    "Interview/Database/Sql/约束.md",
+    "Interview/Database/Sql/什么是LIMIT和OFFSET，它们在查询中的作用是什么？.md",
+    "Interview/Database/关系型数据库和非关系型数据库的区别.md",
+    "Diary/2024/03/2024-03-02.md",
     "Interview/Linux/解压.md",
     "Diary/2024/02/2024-02-26.md",
-    "Interview/简历.md",
     "Interview/Linux/Command/磁盘管理.md",
     "Interview/Linux/SSH/SSH配置项.md",
     "Interview/Linux/Command/文件管理.md",
     "Interview/Linux/SSH",
-    "Interview/Linux/Command/文档编辑.md",
-    "Interview/Linux/计划任务.md",
-    "Interview/Linux/Linux介绍.md",
-    "Interview/Linux/发行版.md",
-    "Interview/Linux/Shell.md",
-    "Interview/Database/备份与还原.md",
-    "Interview/Database/Database.md",
-    "Interview/Database/InnoDB和MylSAM存储引擎的区别？.md",
-    "Interview/Database/备份与还原相关问题.md",
-    "Interview/Database/Sql/一个 SQL 语句在 MySQL 中的执行流程.md",
-    "Diary/2024/02/2024-02-29.md",
-    "Diary/2024/03/2024-03-01.md",
-    "Diary/2024/02/2024-02-25.md",
-    "Diary/2024/02/2024-02-24.md",
-    "Diary/2024/02/2024-02-23.md",
-    "Diary/2024/02/2024-02-22.md",
-    "Interview/Database/Sql/什么是SQL？它有哪些基本命令？.md",
-    "Interview/Database/Sql/什么是LIMIT和OFFSET，它们在查询中的作用是什么？.md",
     "Interview/Tomcat",
     "Interview/Java/Spring/SpringMVC",
     "Diary/2024/03",
@@ -222,7 +236,6 @@
     "未命名 3.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas",
-    "Interview/NetWork/Basics/Untitled 20240223 014329.mdenc",
-    "Interview/NetWork/Equipment"
+    "Interview/NetWork/Basics/Untitled 20240223 014329.mdenc"
   ]
 }

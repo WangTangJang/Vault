@@ -23,6 +23,13 @@ create database 库名;
 #建表
 create table 表名 (字段设定列表)；
 
+#表中添加列
+ALTER TABLE your_table_name ADD COLUMN new_column_name data_type;
+#修改列
+ALTER TABLE your_table_name MODIFY COLUMN column_name new_data_type;
+#删除列
+ALTER TABLE your_table_name DROP COLUMN column_name;
+
 # 删库
 drop database 库名;
 
