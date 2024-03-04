@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/03/2024-03-04.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024/03/2024-03-04.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/03/2024-03-04.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/03/2024-03-04.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,6 +187,13 @@
   },
   "active": "d69d7416423f6428",
   "lastOpenFiles": [
+    "Other/OldTime/杂记.md",
+    "Other/Native Image  原生映像.md",
+    "Diary/2024/03/2024-03-04.md",
+    "Interview/Database/Sql/聚合函数.md",
+    "conflict-files-obsidian-git.md",
+    "Other/OldTime/无处落征鸿.md",
+    "Other/OldTime/Linux学习日志.md",
     "Other/OldTime",
     "Interview/Java/String/关于String类.md",
     "Interview/Java/String/equal和==的区别.md",
@@ -194,13 +201,11 @@
     "Interview/Java/Redis/什么是Redis？简要介绍一下Redis的特点。.md",
     "Interview/Java/String",
     "Interview/简历.md",
-    "Diary/2024/03/2024-03-04.md",
     "Interview/Java/Thread/什么是线程？如何创建线程？.md",
     "Interview/Database/什么是连接池？为什么使用连接池？.md",
     "Interview/Database/MySql/一个 SQL 语句在 MySQL 中的执行流程.md",
     "Interview/Database/MySql/数据类型.md",
     "Interview/Database/Design/介绍InnoDB存储引擎的外键约束.md",
-    "Interview/Database/Sql/聚合函数.md",
     "Interview/Database/MySql/Mysql指令.md",
     "Diary/2024/03/2024-03-03.md",
     "Interview/Database/Sql/派生表.md",
@@ -210,10 +215,6 @@
     "Interview/Database/关系型数据库和非关系型数据库的区别.md",
     "Diary/2024/03/2024-03-02.md",
     "Interview/Linux/解压.md",
-    "Diary/2024/02/2024-02-26.md",
-    "Interview/Linux/Command/磁盘管理.md",
-    "Interview/Linux/SSH/SSH配置项.md",
-    "Interview/Linux/Command/文件管理.md",
     "Interview/Linux/SSH",
     "Interview/Tomcat",
     "Interview/Java/Spring/SpringMVC",
@@ -235,7 +236,6 @@
     "未命名.canvas",
     "未命名 3.canvas",
     "未命名 1.canvas",
-    "未命名 2.canvas",
-    "Interview/NetWork/Basics/Untitled 20240223 014329.mdenc"
+    "未命名 2.canvas"
   ]
 }
