@@ -64,7 +64,7 @@
 
 [[异常的分类有哪些？]]
 ## 数据库
-![[Database]]
+![[Database知识分类]]
 ## Spring框架
 [[什么是Spring框架？]]
 

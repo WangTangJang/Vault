@@ -33,6 +33,11 @@
           "type": "file",
           "ctime": 1709379884277,
           "path": "Interview/Linux/Command/磁盘管理.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1709569860281,
+          "path": "Interview/Database/Design/什么是数据库表的主键和外键？它们之间有什么区别？.md"
         }
       ],
       "title": "需要完善内容结构的知识"
@@ -49,12 +54,12 @@
         {
           "type": "file",
           "ctime": 1707731479017,
-          "path": "Interview/Database/Sql/一个 SQL 语句在 MySQL 中的执行流程.md"
+          "path": "Interview/Database/MySql/一个 SQL 语句在 MySQL 中的执行流程.md"
         },
         {
           "type": "file",
           "ctime": 1707731446940,
-          "path": "Interview/Java/Redis/Redis中的键简述.md"
+          "path": "Interview/Database/Redis/Redis中的键简述.md"
         },
         {
           "type": "file",

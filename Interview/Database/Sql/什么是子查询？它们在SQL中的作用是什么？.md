@@ -1,17 +1,13 @@
-子查询是在 SQL 查询语句内部嵌套的一个查询，它被包含在主查询的条件或表达式中。子查询可以在其他查询中使用，并且返回的结果集可以用于进一步的过滤、比较或计算。
-
+子查询是在 SQL 查询语句内部嵌套的一个查询，它被包含在主查询的条件或表达式中。子查询可以在其他查询中使用，并且**返回的结果集**可以用于进一步的过滤、比较或计算。
 ### 子查询的语法：
 在主查询的 WHERE 子句、FROM 子句、SELECT 子句或 HAVING 子句中嵌套一个完整的查询。
-
 ```sql
 SELECT column1, column2, ...
 FROM table_name
 WHERE column_name operator (SELECT column_name FROM another_table WHERE condition);
 ```
-
 ### 子查询的作用：
 1. **过滤数据：** 子查询可以用于过滤主查询的结果。例如，你可以使用子查询在 WHERE 子句中查找符合某个条件的行。
-
     ```sql
     SELECT emp_name, salary
     FROM employees

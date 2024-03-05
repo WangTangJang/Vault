@@ -7,5 +7,6 @@
   "interfaceFontFamily": "霞鹜文楷",
   "textFontFamily": "霞鹜文楷",
   "translucency": false,
-  "monospaceFontFamily": "霞鹜文楷,霞鹜文楷等宽"
+  "monospaceFontFamily": "霞鹜文楷,霞鹜文楷等宽",
+  "enabledCssSnippets": []
 }
