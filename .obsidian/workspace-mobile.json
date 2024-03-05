@@ -13,65 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/02/2024-02-19.md",
-                "mode": "source",
+                "file": "Interview/NetWork/Basics/什么是TCP、IP模型？.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "aa5ba9c0c3cd18e5"
+            }
           },
           {
             "id": "49408f8e38bed26b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Java/Basics/什么是Java的反射机制？.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
-      },
-      {
-        "id": "1b26adeffe258e44",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "581be723ad5ed8c1",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Diary/2024/02/2024-02-19.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1.08241776315789,
-                  "collapse-forces": true,
-                  "centerStrength": 0.526521381578947,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 2.5044367584778207,
-                  "close": true
-                }
-              }
-            },
-            "group": "aa5ba9c0c3cd18e5"
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diary/2024/02/2024-02-19.md",
+            "file": "Interview/Java/Basics/什么是Java的反射机制？.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diary/2024/02/2024-02-19.md",
+            "file": "Interview/Java/Basics/什么是Java的反射机制？.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -166,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diary/2024/02/2024-02-19.md"
+            "file": "Interview/Java/Basics/什么是Java的反射机制？.md"
           }
         }
       },
@@ -187,10 +150,13 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-tts:Text to Speech": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -200,47 +166,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e27d947d07866501",
+  "active": "ee12818d4b25faa2",
   "lastOpenFiles": [
-    "Diary/2024/01/2024-01-31.md",
-    "Diary/2024/02/2024-02-02.md",
-    "Diary/2024/02/2024-02-01.md",
-    "Diary/2024/02/2024-02-19.md",
-    "Diary/2024/02/2024-02-18.md",
-    "Interview/不可名状、难以理解.md",
-    "Interview/Wiki/MySQL底层架构体系及每层作用？.md",
-    "Interview/Wiki/CSV文件.md",
-    "Interview/Web/用户在浏览器输入 URL 回车后，会发生什么？.md",
-    "Interview/Java/Thread/线程安全是什么？.md",
-    "Interview/Java/SourceCode/Object.md",
-    "Interview/Java/Mybatis/什么是Mybatis的动态sql.md",
-    "Interview/Java/Mybatis/Mybatis的懒加载是什么？.md",
-    "Interview/Java/Mybatis/Mybatis的工作原理.md",
-    "Interview/Java/Mybatis/Mybatis概述.md",
-    "Interview/Java/Basics/关于String类.md",
-    "Interview/Database/聚簇索引和非聚簇索引的区别？.md",
+    "Interview/Java/Basics/Java的编译模式是什么？.md",
+    "Interview/Java/OOP/什么是面向对象编程？.md",
+    "Interview/Java/OOP/什么是继承？.md",
+    "Interview/Java/OOP/什么是封装？.md",
+    "Interview/Java/OOP/什么是多态？.md",
+    "Interview/NetWork/Basics/什么是TCP、IP模型？.md",
+    "Interview/简历.md",
+    "Interview/Java/Collections/Java集合框架有哪些？.md",
+    "Interview/Java/Collections/HashMap的实现原理.md",
+    "Interview/Database/一系列数据.md",
+    "Diary/2024/03/2024-03-02.md",
+    "Diary/2024/03/2024-03-03.md",
     "Interview/Database/关系型数据库和非关系型数据库的区别.md",
-    "Interview/Database/什么是SQL注入？如何避免SQL注入攻击？.md",
-    "Interview/Database/Transaction/数据库中并发一致性问题.md",
-    "Interview/Database/Transaction/什么是事务？.md",
-    "Interview/Database/Transaction/事务的隔离级别？.md",
-    "Interview/Database/Sql/什么是子查询？它们在SQL中的作用是什么？.md",
-    "Interview/Database/Sql/什么是SQL？它有哪些基本命令？.md",
-    "Interview/Database/Sql/什么是ORDER BY子句？如何使用它对查询结果排序？.md",
-    "Interview/Database/Sql/什么是LIMIT和OFFSET，它们在查询中的作用是什么？.md",
+    "Interview/Database/什么是连接池？为什么使用连接池？.md",
+    "Interview/Java/Examples/hikari连接池.md",
+    "Interview/Database/聚簇索引和非聚簇索引的区别？.md",
+    "Interview/NetWork/Basics/网关（Gateway）.md",
+    "Interview/Java/Basics/什么是垃圾回收？.md",
+    "Interview/Java/Basics/Java的代理是什么？.md",
+    "Interview/Java/OOP/重载和重写的区别是什么.md",
+    "Interview/Java/Basics/关于String类.md",
+    "Diary/2024/02/2024-02-26.md",
+    "README.MD",
+    "Interview/Wiki/阶乘.md",
+    "Interview/NetWork/Equipment/路由器（Router）.md",
+    "Interview/NetWork/Equipment/交换机（Switch）.md",
+    "Interview/NetWork/Equipment",
+    "Interview/NetWork/Ensp",
+    "Interview/Linux/Command",
+    "Interview/Linux",
+    "/Interview/NetWork/Equipment",
+    "/Interview/NetWork/Ensp",
+    "/Interview/Linux/Command",
+    "/Interview/Linux",
+    "Interview/NetWork/Web",
+    "Interview/NetWork/Basics",
     "Image/image.webp",
     "Image/Pasted image 20240217215824.png",
     "/Image/image.webp",
-    "/Image/Pasted image 20240217215824.png",
-    "Interview/Java/Mybatis",
-    "Interview/Database/Transaction",
-    "Interview/Database/Sql",
-    "Interview/Database/MySql",
-    "Interview/Database/Design",
-    "/Interview/Java/Mybatis",
-    "/Interview/Database/Transaction",
-    "/Interview/Database/Sql",
-    "/Interview/Database/MySql",
-    "/Interview/Database/Design"
+    "/Image/Pasted image 20240217215824.png"
   ]
 }
