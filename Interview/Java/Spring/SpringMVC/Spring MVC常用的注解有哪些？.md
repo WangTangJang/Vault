@@ -98,17 +98,18 @@ public String exampleMethod(@RequestParam(name = "parameter", required = true) S
 11. **@RequestBody：** 用于将HTTP请求的请求体（Body）绑定到处理器方法的参数上，常用于接收JSON或XML格式的请求数据。
 
 12. **@ResponseBody：** 用于将处理器方法的返回值直接作为HTTP响应的内容返回给客户端，常用于返回JSON或XML格式的响应数据。
+13. **@RestController**：结合了 `@Controller` 和 `@ResponseBody` 的功能
 
-13. **@ResponseStatus：** 用于设置处理器方法返回的HTTP响应状态码和原因短语。
+14. **@ResponseStatus：** 用于设置处理器方法返回的HTTP响应状态码和原因短语。
 
-14. **@ExceptionHandler：** 用于定义一个全局异常处理器，处理Controller中抛出的特定类型的异常。
+15. **@ExceptionHandler：** 用于定义一个全局异常处理器，处理Controller中抛出的特定类型的异常。
 
-15. **@SessionAttributes：** 用于标记一个模型属性，使其存储在会话（Session）中，以便多个请求之间共享。
+16. **@SessionAttributes：** 用于标记一个模型属性，使其存储在会话（Session）中，以便多个请求之间共享。
 
-16. **@CookieValue：** 用于将HTTP请求中的Cookie值绑定到处理器方法的参数上。
+17. **@CookieValue：** 用于将HTTP请求中的Cookie值绑定到处理器方法的参数上。
 
-17. **@RequestHeader：** 用于将HTTP请求头信息绑定到处理器方法的参数上。
+18. **@RequestHeader：** 用于将HTTP请求头信息绑定到处理器方法的参数上。
 
-18. **@InitBinder：** 用于在Controller中初始化数据绑定器，用于对请求参数的预处理。
+19. **@InitBinder：** 用于在Controller中初始化数据绑定器，用于对请求参数的预处理。
 
 这些注解使得在Spring MVC中进行Web开发变得更加简单和灵活，开发者可以通过使用这些注解来快速地实现请求映射、数据绑定、异常处理等功能。
