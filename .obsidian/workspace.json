@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f50982fb69dcfb83",
+        "id": "6edbc60b87f6f837",
         "type": "tabs",
         "children": [
           {
-            "id": "c668e8164494c2e4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d0abb05aeaa4cb4c",
+            "id": "0f994bfa17e6f7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Database/聚簇索引和非聚簇索引的区别？.md",
+                "file": "Interview/Java/Spring/SpringBoot/说一说springboot中的profile.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -29,19 +21,33 @@
             }
           },
           {
-            "id": "d2b901f698703f89",
+            "id": "4122519e88791208",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Database/Design/什么是范式？第一至第三范式分别是什么？.md",
+                "file": "Diary/2024/03/2024-03-06.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "123524bfdbe3fcd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Linux/Command/grep命令.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,6 +60,16 @@
         "id": "3c712733f1b43277",
         "type": "tabs",
         "children": [
+          {
+            "id": "400f877149f52183",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
           {
             "id": "d15ad90aeacc45cd",
             "type": "leaf",
@@ -76,23 +92,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "b44af39f9d4dd328",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 320.5026054382324
   },
   "right": {
     "id": "9e3e75f942a45129",
@@ -103,19 +108,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b737b9cb7b158944",
+            "id": "69f06074d6ef2533",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "file": "Interview/Linux/Command/grep命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
             }
           },
           {
-            "id": "c1ce7111d42fa00c",
+            "id": "8f5fc2edf4ef6c42",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "Interview/Linux/Command/grep命令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
@@ -130,33 +148,25 @@
             }
           },
           {
-            "id": "8f5fc2edf4ef6c42",
+            "id": "c1ce7111d42fa00c",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Interview/Linux/Command/grep命令.md"
               }
             }
           },
           {
-            "id": "69f06074d6ef2533",
+            "id": "b737b9cb7b158944",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "2a0a92aaac3d52f4",
@@ -174,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,62 +194,59 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": true,
       "meld-encrypt:New encrypted note": true,
-      "meld-encrypt:Convert to or from an Encrypted note": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "c668e8164494c2e4",
+  "active": "123524bfdbe3fcd3",
   "lastOpenFiles": [
-    "Interview/Database/Database知识分类.md",
-    "Interview/Java/Java面试题.md",
-    "Diary/2024/03/2024-03-04.md",
-    "Interview/Database/聚簇索引和非聚簇索引的区别？.md",
+    "Interview/Linux/进程管理.md",
+    "Interview/Linux/计划任务.md",
+    "Interview/Linux/解压.md",
+    "Interview/Linux/网络管理.md",
+    "Interview/Linux/权限管理.md",
+    "Interview/Linux/Command/grep命令.md",
+    "Interview/Linux/Command/磁盘管理.md",
+    "Interview/Linux/Command/文档编辑.md",
+    "Interview/Linux/Command/文件管理.md",
+    "Interview/Linux/Command/Sed命令.md",
+    "Interview/Database/Redis/Redis哨兵机制详解.md",
+    "Interview/Database/Redis/什么是Redis？.md",
+    "Interview/Database/Redis/什么是Redis的订阅机制？.md",
+    "Interview/Database/Redis/命令.md",
+    "Interview/Database/Redis/Redis中的键简述.md",
+    "Interview/Java/Spring/SpringBoot/SpringBoot整合Redis.md",
+    "Interview/Java/Spring/SpringBoot/SpringBoot整合Junit.md",
+    "Diary/2024/03/2024-03-06.md",
+    "Interview/Java/Spring/SpringBoot/SpringBoot内部配置的加载顺序.md",
+    "Interview/Java/Spring/SpringBoot/说一说springboot中的profile.md",
+    "Interview/Java/Spring/SpringBoot/接收yaml配置文件中数据的方式.md",
+    "Interview/Java/Spring/SpringBoot/Yaml格式语法.md",
+    "Interview/Database/Redis/Redis 脚本.md",
     "Diary/2024/03/2024-03-05.md",
-    "Interview/Database/MySql/备份与还原.md",
-    "Interview/Database/Sql/什么是SQL注入？如何避免SQL注入攻击？.md",
-    "Interview/Database/Transaction/并发一致性问题.md",
-    "Interview/Database/Transaction/什么是事务？.md",
-    "Interview/Database/Design/什么是数据库表的主键和外键？它们之间有什么区别？.md",
-    "Interview/Database/Design/什么是外键约束？.md",
-    "Interview/Database/Design/什么是范式？第一至第三范式分别是什么？.md",
-    "Interview/Database/MySql/Mysql常用指令.md",
-    "Interview/Database/Design/什么是表分区？.md",
-    "Interview/Database/MySql/Mysql的索引是什么？.md",
-    "Interview/DataStructures/B+树是什么？.md",
-    "Interview/Database/Sql/什么是派生表？.md",
-    "Interview/Database/Sql/什么是聚合函数？.md",
-    "Interview/Database/Sql/什么是JOIN？.md",
-    "Interview/Database/Sql/什么是约束？.md",
-    "Interview/Database/Design/什么是数据库范围的完整性？如何确保数据库中的完整性？.md",
-    "Interview/Database/Design/主键和候选键有什么区别？.md",
-    "Interview/Database/Sql/什么是LIMIT和OFFSET，它们在查询中的作用是什么？.md",
-    "Interview/Database/Sql/什么是ORDER BY子句？如何使用它对查询结果排序？.md",
-    "Interview/Database/Sql/什么是子查询？它们在SQL中的作用是什么？.md",
-    "Interview/Database/Sql/什么是SQL？.md",
-    "Image/B树.png",
-    "Image/B树删除.gif",
-    "Image/image-20230317162819528.png",
-    "Image/Pasted image 20240201164221.png",
-    "Image/171744675337b0ec~tplv-t2oaga2asx-jj-mark 3024 0 0 0 q75.png",
-    "Image/image-20230507225116932.png",
+    "Interview/Java/Spring/SpringBoot",
+    "Interview/Linux/SSH/scp命令.md",
+    "Diary/2024/03/2024-03-04.md",
+    "Interview/Java/String",
+    "Interview/Database/Redis",
+    "Other/OldTime",
     "Image/image-20230609190704433.png",
     "Image/image-20230606181837111.png",
     "Image/image-20230604150206472.png",
     "Image/image-20230507231431440.png",
-    "Other/OldTime/assets",
-    "Other/OldTime",
-    "Interview/Java/String",
-    "Interview/Linux/SSH",
+    "Image/image-20230507231343340.png",
+    "Image/image-20230507225200364.png",
+    "Image/image-20230507225116932.png",
+    "Image/image-20230507225013920.png",
+    "Image/image-20230507224837831.png",
+    "Image/image-20230507224746168.png",
     "Interview/Tomcat",
-    "Interview/Java/Spring/SpringMVC",
-    "Diary/2024/03",
+    "Interview/NetWork/Equipment",
+    "Interview/NetWork/Ensp",
+    "Interview/Linux/SSH",
     "Interview/Linux/Command",
     "Interview/Linux",
-    "Interview/Java/Util",
-    "未命名.canvas",
-    "未命名 3.canvas",
-    "未命名 1.canvas",
-    "未命名 2.canvas"
+    "未命名.canvas"
   ]
 }
