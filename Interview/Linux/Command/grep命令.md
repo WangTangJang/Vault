@@ -40,16 +40,19 @@ grep -i root passwd
 
 - 使用扩展正则表达式，搜索文件`passwd`中以数字开头的行：
 
-```
+```bash
 grep -E "^[0-9]" passwd
 ```
 
 - 显示不匹配文件`passwd`中包含 `"root"`的行：
 
-```
+```bash
 grep -v root passwd
 ```
-
+- 过滤空行
+```bash
+grep -v ’^$‘
+```
 **高级用法:**
 
 - **grep命令支持**组合使用多个选项**，例如：
@@ -71,20 +74,12 @@ grep -E "user( |,)name" /etc/passwd
 ```
 
 **学习资源:**
-
 - **grep命令手册:**
-
 ```
 man grep
 ```
 
 - **grep命令教程:**
-    
 - [https://www.runoob.com/linux/linux-comm-grep.html](https://www.runoob.com/linux/linux-comm-grep.html)
-    
-- [移除了无效网址]
-    
-
 **总结:**
-
 grep命令是一个非常强大的文本搜索工具，可以用于各种文本处理场景。掌握grep命令的基本用法和高级技巧，可以帮助您快速高效地完成文本搜索工作。

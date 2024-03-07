@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Linux/Command/grep命令.md",
+                "file": "Interview/Database/Redis/什么是Redis？.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Linux/Command/grep命令.md",
+                "file": "Interview/Database/Redis/什么是Redis？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Linux/Command/grep命令.md",
+                "file": "Interview/Database/Redis/什么是Redis？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Linux/Command/grep命令.md"
+                "file": "Interview/Database/Redis/什么是Redis？.md"
               }
             }
           },
@@ -201,33 +201,33 @@
   },
   "active": "123524bfdbe3fcd3",
   "lastOpenFiles": [
+    "Interview/Database/Redis/Redis事务.md",
+    "Interview/Database/Redis/Redis中的键简述.md",
+    "Interview/Database/Redis/Redis 脚本.md",
+    "Interview/Database/Redis/什么是Redis的订阅机制？.md",
+    "Interview/Database/Redis/什么是Redis？.md",
+    "Interview/Database/Redis/Redis哨兵机制详解.md",
+    "Interview/Database/Redis/命令.md",
+    "Interview/Database/Redis/主从复制集群.md",
+    "Interview/Database/Redis/启动从节点的命令.md",
+    "Diary/2024/03/2024-03-07.md",
+    "Interview/Linux/Command/lsof命令.md",
+    "Interview/Linux/Command/sed命令.md",
+    "Interview/Linux/Command/who命令.md",
+    "Interview/Linux/Command/grep命令.md",
     "Interview/Linux/进程管理.md",
     "Interview/Linux/计划任务.md",
     "Interview/Linux/解压.md",
     "Interview/Linux/网络管理.md",
     "Interview/Linux/权限管理.md",
-    "Interview/Linux/Command/grep命令.md",
     "Interview/Linux/Command/磁盘管理.md",
     "Interview/Linux/Command/文档编辑.md",
     "Interview/Linux/Command/文件管理.md",
-    "Interview/Linux/Command/Sed命令.md",
-    "Interview/Database/Redis/Redis哨兵机制详解.md",
-    "Interview/Database/Redis/什么是Redis？.md",
-    "Interview/Database/Redis/什么是Redis的订阅机制？.md",
-    "Interview/Database/Redis/命令.md",
-    "Interview/Database/Redis/Redis中的键简述.md",
     "Interview/Java/Spring/SpringBoot/SpringBoot整合Redis.md",
     "Interview/Java/Spring/SpringBoot/SpringBoot整合Junit.md",
     "Diary/2024/03/2024-03-06.md",
     "Interview/Java/Spring/SpringBoot/SpringBoot内部配置的加载顺序.md",
-    "Interview/Java/Spring/SpringBoot/说一说springboot中的profile.md",
-    "Interview/Java/Spring/SpringBoot/接收yaml配置文件中数据的方式.md",
-    "Interview/Java/Spring/SpringBoot/Yaml格式语法.md",
-    "Interview/Database/Redis/Redis 脚本.md",
-    "Diary/2024/03/2024-03-05.md",
     "Interview/Java/Spring/SpringBoot",
-    "Interview/Linux/SSH/scp命令.md",
-    "Diary/2024/03/2024-03-04.md",
     "Interview/Java/String",
     "Interview/Database/Redis",
     "Other/OldTime",
