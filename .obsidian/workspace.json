@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f994bfa17e6f7b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/Java/Spring/SpringBoot/说一说springboot中的profile.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4122519e88791208",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/03/2024-03-06.md",
+                "file": "Interview/Java/OOP/类之间有哪些关系？.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "123524bfdbe3fcd3",
+            "id": "4c33dea5a192db38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Database/Redis/什么是Redis？.md",
+                "file": "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Database/Redis/什么是Redis？.md",
+                "file": "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Database/Redis/什么是Redis？.md",
+                "file": "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Database/Redis/什么是Redis？.md"
+                "file": "Interview/ComputerArchitecture/CPU的执行过程是什么？.md"
               }
             }
           },
@@ -199,34 +186,74 @@
       "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "123524bfdbe3fcd3",
+  "floating": {
+    "id": "bff65b2f148578e2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "daee29e68ed5fd00",
+        "type": "window",
+        "children": [
+          {
+            "id": "84229283b4d57389",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bcba3b57adb4748b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Diary/2024/03/2024-03-08.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -6,
+        "y": 0,
+        "width": 546,
+        "height": 397,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "4c33dea5a192db38",
   "lastOpenFiles": [
-    "Interview/Database/Redis/Redis事务.md",
-    "Interview/Database/Redis/Redis中的键简述.md",
-    "Interview/Database/Redis/Redis 脚本.md",
-    "Interview/Database/Redis/什么是Redis的订阅机制？.md",
-    "Interview/Database/Redis/什么是Redis？.md",
-    "Interview/Database/Redis/Redis哨兵机制详解.md",
-    "Interview/Database/Redis/命令.md",
-    "Interview/Database/Redis/主从复制集群.md",
-    "Interview/Database/Redis/启动从节点的命令.md",
-    "Diary/2024/03/2024-03-07.md",
-    "Interview/Linux/Command/lsof命令.md",
-    "Interview/Linux/Command/sed命令.md",
-    "Interview/Linux/Command/who命令.md",
-    "Interview/Linux/Command/grep命令.md",
-    "Interview/Linux/进程管理.md",
-    "Interview/Linux/计划任务.md",
-    "Interview/Linux/解压.md",
-    "Interview/Linux/网络管理.md",
-    "Interview/Linux/权限管理.md",
-    "Interview/Linux/Command/磁盘管理.md",
-    "Interview/Linux/Command/文档编辑.md",
-    "Interview/Linux/Command/文件管理.md",
-    "Interview/Java/Spring/SpringBoot/SpringBoot整合Redis.md",
-    "Interview/Java/Spring/SpringBoot/SpringBoot整合Junit.md",
+    "Interview/ComputerArchitecture/冯·诺依曼机的基本工作原理是什么？.md",
+    "Interview/ComputerArchitecture/指令的基本格式是什么？.md",
+    "Interview/ComputerArchitecture/计算机硬件系统由哪些基本部件组成？.md",
+    "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
+    "Diary/2024/03/2024-03-08.md",
+    "Interview/ComputerArchitecture.md",
+    "Interview/ComputerArchitecture",
+    "Interview/Java/Spring/Annotation/@Configuration 注解.md",
+    "Interview/Java/OOP/类之间有哪些关系？.md",
+    "Interview/Java/Spring/Annotation",
+    "Interview/Java/Java面试题.md",
+    "Interview/Java/Basics/基本数据类型和包装类之间转换的意义？.md",
+    "Interview/Java/Basics/自动装箱和自动拆箱是什么？.md",
+    "Interview/Java/Basics/基本数据类型有哪些？.md",
+    "Interview/Java/OOP/什么是面向对象编程？.md",
+    "Interview/Java/OOP/什么是多态？.md",
+    "Interview/Java/OOP/什么是继承？.md",
+    "Interview/Java/OOP/什么是封装？.md",
+    "Interview/Java/OOP/什么是对象引用？.md",
+    "Interview/Database/Database知识分类.md",
+    "Interview/Java/Basics/java默认导入的包有哪些？.md",
+    "Interview/Java/OOP/Object类常用方法有那些？.md",
+    "Interview/Java/OOP/抽象类和接口区别.md",
+    "Interview/Java/OOP/什么是接口？.md",
+    "Interview/Java/OOP/重载和重写的区别是什么.md",
+    "Interview/Java/OOP/什么是抽象类？.md",
     "Diary/2024/03/2024-03-06.md",
-    "Interview/Java/Spring/SpringBoot/SpringBoot内部配置的加载顺序.md",
+    "Interview/Java/Spring/SpringBoot/说一说springboot中的profile.md",
     "Interview/Java/Spring/SpringBoot",
     "Interview/Java/String",
     "Interview/Database/Redis",
@@ -245,8 +272,6 @@
     "Interview/NetWork/Equipment",
     "Interview/NetWork/Ensp",
     "Interview/Linux/SSH",
-    "Interview/Linux/Command",
-    "Interview/Linux",
     "未命名.canvas"
   ]
 }
