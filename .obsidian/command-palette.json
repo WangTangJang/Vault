@@ -1,5 +1,7 @@
 {
   "pinned": [
-    "obsidian-git:discard-all"
+    "obsidian-git:discard-all",
+    "theme:use-light",
+    "theme:use-dark"
   ]
 }
