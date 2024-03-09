@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Git/git 目录下的重要子目录和文件.md",
+                "file": "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Interview/Git/git 目录下的重要子目录和文件.md",
+            "file": "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Interview/Git/git 目录下的重要子目录和文件.md",
+            "file": "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Interview/Git/git 目录下的重要子目录和文件.md"
+            "file": "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md"
           }
         }
       },
@@ -165,10 +165,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "49408f8e38bed26b",
+  "active": "ea825cfe54a76d9f",
   "lastOpenFiles": [
+    "Interview/Git/FileDirectory/HEAD.md",
+    "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md",
+    "Interview/Git/FileDirectory",
     "Diary/2024/03/2024-03-09.md",
-    "Interview/Git/git 目录下的重要子目录和文件.md",
     "Interview/Git/Git 相关面试题.md",
     "Interview/Git/Git是如何工作的？.md",
     "Interview/Git",
@@ -194,7 +196,6 @@
     "/Interview/Java/Java面试题.md",
     "/Interview/Java/Basics/类加载机制是什么？.md",
     "/Interview/Java/Basics/java默认导入的包有哪些？.md",
-    "/Interview/ComputerArchitecture/计算机硬件系统由哪些基本部件组成？.md",
     "Interview/Java/Spring/Annotation",
     "Interview/ComputerArchitecture",
     "/Interview/Java/Spring/Annotation",
@@ -203,7 +204,6 @@
     "/Interview/Java/Spring/SpringBoot",
     "Interview/NetWork/Equipment",
     "Interview/NetWork/Ensp",
-    "Interview/Linux/Command",
     "Image/image.webp",
     "Image/Pasted image 20240217215824.png",
     "/Image/image.webp",
