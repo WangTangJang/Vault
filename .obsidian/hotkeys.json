@@ -58,6 +58,12 @@
         "Mod"
       ],
       "key": "M"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
     }
   ],
   "editor:toggle-strikethrough": [
