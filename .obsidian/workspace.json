@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Java/JVM/类加载机制是什么？.md",
+                "file": "Interview/Git/commit的校验和是什么.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/03/2024-03-09.md",
+                "file": "Interview/Git/commit的校验和是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/03/2024-03-09.md",
+                "file": "Interview/Git/commit的校验和是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024/03/2024-03-09.md"
+                "file": "Interview/Git/commit的校验和是什么.md"
               }
             }
           },
@@ -186,35 +185,36 @@
       "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "4c33dea5a192db38",
+  "active": "4122519e88791208",
   "lastOpenFiles": [
-    "Interview/Java/JVM/类加载机制是什么？.md",
     "Diary/2024/03/2024-03-09.md",
+    "Interview/Linux/Command/du命令.md",
+    "Interview/Linux/Command/who命令.md",
     "Interview/Java/Spring/Annotation/@Import.md",
+    "Interview/Java/Spring/Annotation/@Configuration.md",
+    "Interview/Git/commit的校验和是什么.md",
+    "Interview/Java/Spring/Annotation/@EnableAutoConfiguration.md",
+    "Interview/Java/Spring/SpringBoot/讲一讲SpringBoot的自动配置.md",
+    "Interview/Java/Spring/什么是 spring bean？.md",
+    "Interview/Git/FileDirectory/objects目录.md",
+    "Interview/DataStructures/B树.md",
+    "Interview/DataStructures/布隆过滤器.md",
+    "Interview/Database/Redis/缓存穿透是什么.md",
+    "Interview/Database/Redis/缓存击穿是什么？.md",
+    "Interview/Database/Redis/缓存预热是什么？.md",
+    "Interview/Database/Redis/缓存雪崩是什么？.md",
+    "Interview/Git/Git 相关面试题.md",
+    "Interview/Java/JVM/类加载机制是什么？.md",
+    "Interview/Git/FileDirectory/log目录.md",
+    "Interview/Git/FileDirectory/refs文件夹.md",
+    "Interview/Git/FileDirectory/HEAD.md",
+    "Interview/Git/FileDirectory/index.md",
+    "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md",
+    "Interview/Git/FileDirectory/未命名",
     "Interview/ComputerArchitecture/计算机硬件系统由哪些基本部件组成？.md",
     "Interview/Java/JVM/解释一下Java的自动内存管理机制？.md",
     "Interview/Java/JVM/什么是垃圾回收？.md",
-    "Interview/简历.md",
-    "Interview/Java/OOP/什么是对象引用？.md",
-    "Interview/Java/JVM.md",
     "Interview/Java/JVM",
-    "Interview/Java/Basics/基本数据类型和包装类之间转换的意义？.md",
-    "Interview/Java/Basics/基本数据类型有哪些？.md",
-    "Interview/Java/Basics/自动装箱和自动拆箱是什么？.md",
-    "Interview/Java/Basics/访问修饰符有哪些？.md",
-    "Interview/Java/Basics/final关键字的作用是什么？.md",
-    "Interview/Java/Basics/什么是Java的反射机制？.md",
-    "Interview/Java/Basics/Java的代理是什么？.md",
-    "Interview/Java/Basics/java默认导入的包有哪些？.md",
-    "Interview/Java/Basics/静态变量有什么用？.md",
-    "Interview/JavaScript/AJAX的定义.md",
-    "Interview/Git/Git是如何工作的？.md",
-    "Interview/Java/Spring/Annotation/@Configuration.md",
-    "Diary/2024/03/2024-03-08.md",
-    "Interview/Java/Spring/SpringBoot/讲一讲SpringBoot的自动配置.md",
-    "Interview/Java/Spring/Annotation/@Resource和@Autowird区别.md",
-    "Interview/Java/Spring/Annotation/@Bean.md",
-    "Interview/Java/Spring/Annotation/Spring MVC常用的注解有哪些？.md",
     "Interview/Git/FileDirectory",
     "Interview/Git",
     "Image/Pasted image 20240309005119.png",
@@ -233,7 +233,6 @@
     "Image/image-20230507225116932.png",
     "Image/image-20230507225013920.png",
     "Image/image-20230507224837831.png",
-    "Interview/Tomcat",
     "未命名.canvas"
   ]
 }
