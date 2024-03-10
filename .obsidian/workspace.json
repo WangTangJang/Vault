@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Java/OOP/类之间有哪些关系？.md",
+                "file": "Interview/Git/commit的校验和是什么.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
+                "file": "Diary/2024/03/2024-03-09.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Ajax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
+                "file": "Interview/Git/commit的校验和是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
+                "file": "Interview/Git/commit的校验和是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/ComputerArchitecture/CPU的执行过程是什么？.md"
+                "file": "Interview/Git/commit的校验和是什么.md"
               }
             }
           },
@@ -186,74 +185,41 @@
       "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "floating": {
-    "id": "bff65b2f148578e2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "daee29e68ed5fd00",
-        "type": "window",
-        "children": [
-          {
-            "id": "84229283b4d57389",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bcba3b57adb4748b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Diary/2024/03/2024-03-08.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -6,
-        "y": 0,
-        "width": 546,
-        "height": 397,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "4c33dea5a192db38",
+  "active": "4122519e88791208",
   "lastOpenFiles": [
-    "Interview/ComputerArchitecture/冯·诺依曼机的基本工作原理是什么？.md",
-    "Interview/ComputerArchitecture/指令的基本格式是什么？.md",
+    "Diary/2024/03/2024-03-09.md",
+    "Interview/Linux/Command/du命令.md",
+    "Interview/Linux/Command/who命令.md",
+    "Interview/Java/Spring/Annotation/@Import.md",
+    "Interview/Java/Spring/Annotation/@Configuration.md",
+    "Interview/Git/commit的校验和是什么.md",
+    "Interview/Java/Spring/Annotation/@EnableAutoConfiguration.md",
+    "Interview/Java/Spring/SpringBoot/讲一讲SpringBoot的自动配置.md",
+    "Interview/Java/Spring/什么是 spring bean？.md",
+    "Interview/Git/FileDirectory/objects目录.md",
+    "Interview/DataStructures/B树.md",
+    "Interview/DataStructures/布隆过滤器.md",
+    "Interview/Database/Redis/缓存穿透是什么.md",
+    "Interview/Database/Redis/缓存击穿是什么？.md",
+    "Interview/Database/Redis/缓存预热是什么？.md",
+    "Interview/Database/Redis/缓存雪崩是什么？.md",
+    "Interview/Git/Git 相关面试题.md",
+    "Interview/Java/JVM/类加载机制是什么？.md",
+    "Interview/Git/FileDirectory/log目录.md",
+    "Interview/Git/FileDirectory/refs文件夹.md",
+    "Interview/Git/FileDirectory/HEAD.md",
+    "Interview/Git/FileDirectory/index.md",
+    "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md",
+    "Interview/Git/FileDirectory/未命名",
     "Interview/ComputerArchitecture/计算机硬件系统由哪些基本部件组成？.md",
-    "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
-    "Diary/2024/03/2024-03-08.md",
-    "Interview/ComputerArchitecture.md",
+    "Interview/Java/JVM/解释一下Java的自动内存管理机制？.md",
+    "Interview/Java/JVM/什么是垃圾回收？.md",
+    "Interview/Java/JVM",
+    "Interview/Git/FileDirectory",
+    "Interview/Git",
+    "Image/Pasted image 20240309005119.png",
     "Interview/ComputerArchitecture",
-    "Interview/Java/Spring/Annotation/@Configuration 注解.md",
-    "Interview/Java/OOP/类之间有哪些关系？.md",
     "Interview/Java/Spring/Annotation",
-    "Interview/Java/Java面试题.md",
-    "Interview/Java/Basics/基本数据类型和包装类之间转换的意义？.md",
-    "Interview/Java/Basics/自动装箱和自动拆箱是什么？.md",
-    "Interview/Java/Basics/基本数据类型有哪些？.md",
-    "Interview/Java/OOP/什么是面向对象编程？.md",
-    "Interview/Java/OOP/什么是多态？.md",
-    "Interview/Java/OOP/什么是继承？.md",
-    "Interview/Java/OOP/什么是封装？.md",
-    "Interview/Java/OOP/什么是对象引用？.md",
-    "Interview/Database/Database知识分类.md",
-    "Interview/Java/Basics/java默认导入的包有哪些？.md",
-    "Interview/Java/OOP/Object类常用方法有那些？.md",
-    "Interview/Java/OOP/抽象类和接口区别.md",
-    "Interview/Java/OOP/什么是接口？.md",
-    "Interview/Java/OOP/重载和重写的区别是什么.md",
-    "Interview/Java/OOP/什么是抽象类？.md",
-    "Diary/2024/03/2024-03-06.md",
-    "Interview/Java/Spring/SpringBoot/说一说springboot中的profile.md",
     "Interview/Java/Spring/SpringBoot",
     "Interview/Java/String",
     "Interview/Database/Redis",
@@ -267,11 +233,6 @@
     "Image/image-20230507225116932.png",
     "Image/image-20230507225013920.png",
     "Image/image-20230507224837831.png",
-    "Image/image-20230507224746168.png",
-    "Interview/Tomcat",
-    "Interview/NetWork/Equipment",
-    "Interview/NetWork/Ensp",
-    "Interview/Linux/SSH",
     "未命名.canvas"
   ]
 }
