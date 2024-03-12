@@ -8,15 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4122519e88791208",
+            "id": "1569a2a164a64e59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Git/commit的校验和是什么.md",
+                "file": "Interview/WebServer/什么是反向代理？.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa9d9867fc5f173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2024/03/2024-03-12.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a1bf45054b9e371",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Image/2024-03-12 2024-03-12 22.33.36.excalidraw.md"
               }
             }
           },
@@ -26,14 +49,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/03/2024-03-09.md",
+                "file": "Interview/Git/Git 相关面试题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +94,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ajax",
-                "matchingCase": false,
+                "query": "博客",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Git/commit的校验和是什么.md",
+                "file": "Diary/2024/03/2024-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Git/commit的校验和是什么.md",
+                "file": "Diary/2024/03/2024-03-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Git/commit的校验和是什么.md"
+                "file": "Diary/2024/03/2024-03-12.md"
               }
             }
           },
@@ -185,45 +209,45 @@
       "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "4122519e88791208",
+  "active": "cfa9d9867fc5f173",
   "lastOpenFiles": [
-    "Diary/2024/03/2024-03-09.md",
-    "Interview/Linux/Command/du命令.md",
-    "Interview/Linux/Command/who命令.md",
-    "Interview/Java/Spring/Annotation/@Import.md",
-    "Interview/Java/Spring/Annotation/@Configuration.md",
-    "Interview/Git/commit的校验和是什么.md",
-    "Interview/Java/Spring/Annotation/@EnableAutoConfiguration.md",
-    "Interview/Java/Spring/SpringBoot/讲一讲SpringBoot的自动配置.md",
-    "Interview/Java/Spring/什么是 spring bean？.md",
-    "Interview/Git/FileDirectory/objects目录.md",
-    "Interview/DataStructures/B树.md",
-    "Interview/DataStructures/布隆过滤器.md",
-    "Interview/Database/Redis/缓存穿透是什么.md",
-    "Interview/Database/Redis/缓存击穿是什么？.md",
-    "Interview/Database/Redis/缓存预热是什么？.md",
-    "Interview/Database/Redis/缓存雪崩是什么？.md",
+    "Image/2024-03-12 2024-03-12 22.33.36.excalidraw.md",
+    "Diary/2024/03/2024-03-12.md",
+    "Interview/Linux/Shell.md",
+    "Interview/简历.md",
+    "Interview/JavaScript/Npm/Npm换源.md",
+    "Image/什么是反向代理？ 2024-03-12 16.35.47.excalidraw.md",
+    "Interview/JavaScript/Npm",
+    "Interview/JavaScript/未命名.md",
+    "Interview/WebServer/什么是反向代理？.md",
+    "Diary/2024/03/2024-03-11.md",
+    "Interview/WebServer/Nginx.md",
+    "Interview/WebServer/Nginx",
+    "Interview/WebServer.md",
+    "Interview/WebServer",
+    "Diary/2024/03/().md",
+    "Interview/Git/Git是如何工作的？.md",
     "Interview/Git/Git 相关面试题.md",
-    "Interview/Java/JVM/类加载机制是什么？.md",
-    "Interview/Git/FileDirectory/log目录.md",
-    "Interview/Git/FileDirectory/refs文件夹.md",
-    "Interview/Git/FileDirectory/HEAD.md",
-    "Interview/Git/FileDirectory/index.md",
-    "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md",
+    "Interview/Database/MySql/Mysql中如何定位慢查询？.md",
+    "Interview/Database/MySql/什么是慢查询？.md",
+    "Interview/Java/Basics/什么是Java的反射机制？.md",
+    "Interview/Java/Basics/Java反射创建对象效率高还是通过new创建对象的效率高？.md",
+    "Interview/Java/Basics/Java的代理是什么？.md",
+    "Interview/Java/Basics/包类型的缓存机制.md",
+    "Interview/Java/Basics/Java 和 C++ 的区别.md",
+    "Interview/Java/Basics/Java 移位运算符.md",
+    "Interview/Java/Basics/成员变量与局部变量的区别？.md",
+    "Interview/Java/Basics/静态变量有什么用？.md",
+    "Interview/Java/Basics/java默认导入的包有哪些？.md",
+    "Interview/Database/如何在Java中连接数据库？.md",
+    "Interview/Thymeleaf",
+    "Interview/Java/Annotation/Meta",
+    "Interview/Java/Annotation",
     "Interview/Git/FileDirectory/未命名",
-    "Interview/ComputerArchitecture/计算机硬件系统由哪些基本部件组成？.md",
-    "Interview/Java/JVM/解释一下Java的自动内存管理机制？.md",
-    "Interview/Java/JVM/什么是垃圾回收？.md",
     "Interview/Java/JVM",
     "Interview/Git/FileDirectory",
     "Interview/Git",
     "Image/Pasted image 20240309005119.png",
-    "Interview/ComputerArchitecture",
-    "Interview/Java/Spring/Annotation",
-    "Interview/Java/Spring/SpringBoot",
-    "Interview/Java/String",
-    "Interview/Database/Redis",
-    "Other/OldTime",
     "Image/image-20230609190704433.png",
     "Image/image-20230606181837111.png",
     "Image/image-20230604150206472.png",
