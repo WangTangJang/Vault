@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md",
+            "file": "Interview/NetWork/Basics/什么是TCP、IP模型？.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md",
+            "file": "Interview/NetWork/Basics/什么是TCP、IP模型？.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md"
+            "file": "Interview/NetWork/Basics/什么是TCP、IP模型？.md"
           }
         }
       },
