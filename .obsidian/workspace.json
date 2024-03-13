@@ -13,33 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/WebServer/什么是反向代理？.md",
+                "file": "Diary/2024/03/2024-03-13.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "cfa9d9867fc5f173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2024/03/2024-03-12.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a1bf45054b9e371",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Image/2024-03-12 2024-03-12 22.33.36.excalidraw.md"
               }
             }
           },
@@ -56,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,16 +70,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "博客",
+                "query": "还原",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -123,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/03/2024-03-12.md",
+                "file": "Diary/2024/03/2024-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/03/2024-03-12.md",
+                "file": "Diary/2024/03/2024-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024/03/2024-03-12.md"
+                "file": "Diary/2024/03/2024-03-13.md"
               }
             }
           },
@@ -209,37 +186,38 @@
       "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "cfa9d9867fc5f173",
+  "active": "1569a2a164a64e59",
   "lastOpenFiles": [
+    "Diary/2024/03/2024-03-02.md",
+    "Interview/Git/Git 相关面试题.md",
+    "Interview/Database/MySql/备份与还原.md",
+    "BUG/Obsidian日记折叠.md",
+    "Interview/Git/FileDirectory/refs文件夹.md",
+    "Interview/Git/FileDirectory/HEAD.md",
+    "Diary/2024/03/2024-03-13.md",
+    "Other/OldTime/Linux学习日志.md",
+    "Diary/2024/02/2024-02-29.md",
+    "未命名.canvas",
+    "Interview/Database/Redis/缓存击穿是什么？.md",
+    "Interview/Database/Redis/命令.md",
+    "Interview/Linux/Command/tcpdump命令.md",
+    "Interview/Linux/Command/lsof命令.md",
+    "Interview/Linux/Command/du命令.md",
+    "Interview/WebServer/什么是反向代理？.md",
+    "Interview/Linux/Command/whereis命令.md",
+    "Interview/Database/Redis/缓存雪崩是什么？.md",
+    "Interview/Database/Redis/缓存穿透是什么？.md",
     "Image/2024-03-12 2024-03-12 22.33.36.excalidraw.md",
+    "Interview/简历.md",
     "Diary/2024/03/2024-03-12.md",
     "Interview/Linux/Shell.md",
-    "Interview/简历.md",
     "Interview/JavaScript/Npm/Npm换源.md",
     "Image/什么是反向代理？ 2024-03-12 16.35.47.excalidraw.md",
     "Interview/JavaScript/Npm",
     "Interview/JavaScript/未命名.md",
-    "Interview/WebServer/什么是反向代理？.md",
     "Diary/2024/03/2024-03-11.md",
-    "Interview/WebServer/Nginx.md",
     "Interview/WebServer/Nginx",
-    "Interview/WebServer.md",
     "Interview/WebServer",
-    "Diary/2024/03/().md",
-    "Interview/Git/Git是如何工作的？.md",
-    "Interview/Git/Git 相关面试题.md",
-    "Interview/Database/MySql/Mysql中如何定位慢查询？.md",
-    "Interview/Database/MySql/什么是慢查询？.md",
-    "Interview/Java/Basics/什么是Java的反射机制？.md",
-    "Interview/Java/Basics/Java反射创建对象效率高还是通过new创建对象的效率高？.md",
-    "Interview/Java/Basics/Java的代理是什么？.md",
-    "Interview/Java/Basics/包类型的缓存机制.md",
-    "Interview/Java/Basics/Java 和 C++ 的区别.md",
-    "Interview/Java/Basics/Java 移位运算符.md",
-    "Interview/Java/Basics/成员变量与局部变量的区别？.md",
-    "Interview/Java/Basics/静态变量有什么用？.md",
-    "Interview/Java/Basics/java默认导入的包有哪些？.md",
-    "Interview/Database/如何在Java中连接数据库？.md",
     "Interview/Thymeleaf",
     "Interview/Java/Annotation/Meta",
     "Interview/Java/Annotation",
@@ -256,7 +234,6 @@
     "Image/image-20230507225200364.png",
     "Image/image-20230507225116932.png",
     "Image/image-20230507225013920.png",
-    "Image/image-20230507224837831.png",
-    "未命名.canvas"
+    "Image/image-20230507224837831.png"
   ]
 }
