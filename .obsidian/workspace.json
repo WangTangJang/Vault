@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/03/2024-03-14.md",
+                "file": "Interview/Database/Database知识分类.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Git/Git 相关面试题.md",
+                "file": "Diary/2024/03/2024-03-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/03/2024-03-14.md",
+                "file": "Diary/2024/03/2024-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/03/2024-03-14.md",
+                "file": "Diary/2024/03/2024-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024/03/2024-03-14.md"
+                "file": "Diary/2024/03/2024-03-15.md"
               }
             }
           },
@@ -185,36 +186,36 @@
       "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "1569a2a164a64e59",
+  "active": "4c33dea5a192db38",
   "lastOpenFiles": [
+    "Diary/2024/03/2024-03-11.md",
+    "Diary/2024/03/2024-03-15.md",
+    "Interview/Database/Design/什么是范式？第一至第三范式分别是什么？.md",
+    "Interview/Database/Design/什么是数据库表的主键和外键？它们之间有什么区别？.md",
+    "Other/Native Image  原生映像.md",
+    "Interview/Git/Git 相关面试题.md",
+    "Interview/Database/Database知识分类.md",
+    "Interview/Database/Sql/什么是聚合函数？.md",
+    "Interview/Database/Sql/什么是约束？.md",
+    "Interview/Database/存储引擎介绍.md",
+    "Interview/Database/如何在Java中连接数据库？.md",
+    "Interview/Git/FileDirectory/HEAD.md",
+    "Diary/2024/03/2024-03-14.md",
     "Interview/Database/Design/主键和候选键有什么区别？.md",
     "Interview/Database/Design/什么是表分区？.md",
-    "Interview/Database/Design/什么是数据库表的主键和外键？它们之间有什么区别？.md",
     "Interview/Database/Design/什么是数据库范围的完整性？如何确保数据库中的完整性？.md",
-    "Interview/Database/如何在Java中连接数据库？.md",
-    "Diary/2024/03/2024-03-14.md",
     "Interview/简历.md",
     "未命名 1.canvas",
     "Diary/2024/03/2024-03-13.md",
     "Diary/2024/03/2024-03-02.md",
-    "Interview/Git/Git 相关面试题.md",
     "Interview/Database/MySql/备份与还原.md",
     "BUG/Obsidian日记折叠.md",
     "Interview/Git/FileDirectory/refs文件夹.md",
-    "Interview/Git/FileDirectory/HEAD.md",
     "Other/OldTime/Linux学习日志.md",
     "Diary/2024/02/2024-02-29.md",
     "未命名.canvas",
     "Interview/Database/Redis/缓存击穿是什么？.md",
     "Interview/Database/Redis/命令.md",
-    "Interview/Linux/Command/tcpdump命令.md",
-    "Interview/Linux/Command/lsof命令.md",
-    "Interview/Linux/Command/du命令.md",
-    "Interview/WebServer/什么是反向代理？.md",
-    "Interview/Linux/Command/whereis命令.md",
-    "Interview/Database/Redis/缓存雪崩是什么？.md",
-    "Interview/Database/Redis/缓存穿透是什么？.md",
-    "Image/2024-03-12 2024-03-12 22.33.36.excalidraw.md",
     "Interview/JavaScript/Npm",
     "Interview/WebServer/Nginx",
     "Interview/WebServer",
