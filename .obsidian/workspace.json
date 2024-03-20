@@ -26,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Linux/单用户模式是什么？.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a6f2998404e4d65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2024/03/2024-03-18.md",
+                "file": "Diary/2024/03/2024-03-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/03/2024-03-17.md",
+                "file": "Diary/2024/03/2024-03-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/03/2024-03-18.md",
+                "file": "Diary/2024/03/2024-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/03/2024-03-18.md",
+                "file": "Diary/2024/03/2024-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024/03/2024-03-18.md"
+                "file": "Diary/2024/03/2024-03-20.md"
               }
             }
           },
@@ -212,13 +199,19 @@
       "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "5a6f2998404e4d65",
+  "active": "c5b8775b752900c8",
   "lastOpenFiles": [
+    "Diary/2024/03/2024-03-17.md",
+    "Diary/2024/03/2024-03-20.md",
+    "Diary/2024/03/2024-03-19.md",
+    "Interview/简历.md",
+    "Interview/Python/pip切换镜像.md",
+    "Interview/Linux/单用户模式是什么？.md",
+    "Interview/Python",
+    "Interview/未命名.md",
     "Interview/Linux/重置密码的方式.md",
     "Diary/2024/03/2024-03-18.md",
     "Interview/Linux/().md",
-    "Diary/2024/03/2024-03-17.md",
-    "Interview/Linux/单用户模式是什么？.md",
     "Interview/Database/Database知识分类.md",
     "Interview/Linux/Shell.md",
     "ShenLun/README.md",
@@ -237,11 +230,6 @@
     "Interview/Database/Sql/什么是约束？.md",
     "Interview/Database/存储引擎介绍.md",
     "Interview/Database/如何在Java中连接数据库？.md",
-    "Interview/Git/FileDirectory/HEAD.md",
-    "Interview/Database/Design/主键和候选键有什么区别？.md",
-    "Interview/Database/Design/什么是表分区？.md",
-    "Interview/Database/Design/什么是数据库范围的完整性？如何确保数据库中的完整性？.md",
-    "Interview/简历.md",
     "未命名 1.canvas",
     "Interview/JavaScript/Npm",
     "Interview/WebServer/Nginx",
@@ -251,7 +239,6 @@
     "Interview/Java/Annotation",
     "Interview/Git/FileDirectory/未命名",
     "Interview/Java/JVM",
-    "Interview/Git/FileDirectory",
     "Image/Pasted image 20240309005119.png",
     "Image/image-20230609190704433.png",
     "Image/image-20230606181837111.png",
