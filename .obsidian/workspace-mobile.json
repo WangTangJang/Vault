@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/NetWork/Basics/什么是TCP、IP模型？.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49408f8e38bed26b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md",
+                "file": "Interview/Database/Design/六个阶段.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Interview/NetWork/Basics/什么是TCP、IP模型？.md",
+            "file": "Interview/Database/Design/六个阶段.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Interview/NetWork/Basics/什么是TCP、IP模型？.md",
+            "file": "Interview/Database/Design/六个阶段.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Interview/NetWork/Basics/什么是TCP、IP模型？.md"
+            "file": "Interview/Database/Design/六个阶段.md"
           }
         }
       },
@@ -165,45 +151,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ea825cfe54a76d9f",
+  "active": "e27d947d07866501",
   "lastOpenFiles": [
-    "Interview/Git/FileDirectory/HEAD.md",
-    "Interview/Git/FileDirectory/git 目录下的重要子目录和文件.md",
+    "Interview/Database/Design/未命名.md",
+    "Interview/Database/Design/六个阶段.md",
+    "Interview/简历.md",
+    "Interview/JavaScript/变量提升.md",
+    "Diary/2024/03/2024-03-18.md",
+    "Interview/Linux/Shell.md",
+    "ShenLun/README.md",
+    "ShenLun",
+    "Interview/WebServer/Tomcat/什么是Apache Tomcat？.md",
+    "Interview/WebServer/Tomcat/Tomcat的架构是什么样的？.md",
+    "Interview/WebServer/什么是反向代理？.md",
+    "Interview/WebServer/Tomcat",
+    "Interview/WebServer",
+    "Interview/Thymeleaf/什么是Thymeleaf？.md",
+    "Interview/Thymeleaf/Thymeleaf模版传递.md",
+    "Interview/Thymeleaf/Thymeleaf引入JS变量.md",
+    "Interview/Thymeleaf/Thymeleaf字符串拼接.md",
+    "Interview/Thymeleaf",
+    "Interview/Linux/重置密码的方式.md",
+    "Interview/Linux/单用户模式是什么？.md",
+    "Interview/Linux/Command/whereis命令.md",
+    "Interview/Linux/Command/tcpdump命令.md",
+    "Interview/JavaScript/Npm/Npm换源.md",
+    "Interview/JavaScript/Npm",
+    "Interview/Java/Annotation/Meta/元注解是什么？.md",
+    "Interview/Java/Annotation/Meta/@Target.md",
+    "Interview/Java/Annotation/Meta/@Retention.md",
+    "Interview/Java/Annotation/Meta/@Repeatable.md",
+    "Interview/Java/Annotation/Meta/@Inherited.md",
+    "Interview/Java/Annotation/Meta/@Documented.md",
+    "Interview/Java/Annotation/什么是注解？.md",
+    "Interview/Java/Annotation/Meta",
+    "Interview/Java/Annotation",
+    "Interview/Java/JVM",
+    "/Interview/Java/JVM",
     "Interview/Git/FileDirectory",
-    "Diary/2024/03/2024-03-09.md",
-    "Interview/Git/Git 相关面试题.md",
-    "Interview/Git/Git是如何工作的？.md",
-    "Interview/Git",
     "Image/Pasted image 20240309005119.png",
-    "Diary/2024/03/2024-03-08.md",
-    "Interview/NetWork/Basics/什么是TCP、IP模型？.md",
-    "Interview/Java/OOP/什么是接口？.md",
-    "Interview/Java/Spring/Annotation/@Configuration 注解.md",
-    "Interview/Java/OOP/类之间有哪些关系？.md",
-    "Interview/Java/OOP/抽象类和接口区别.md",
-    "Interview/Java/OOP/什么是抽象类？.md",
-    "Interview/Java/Basics/类加载机制是什么？.md",
-    "Interview/Java/Basics/java默认导入的包有哪些？.md",
-    "Interview/ComputerArchitecture/计算机硬件系统由哪些基本部件组成？.md",
-    "Interview/ComputerArchitecture/指令的基本格式是什么？.md",
-    "Interview/ComputerArchitecture/冯·诺依曼机的基本工作原理是什么？.md",
-    "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
-    "/Interview/Java/OOP/什么是接口？.md",
-    "/Interview/Java/Spring/Annotation/@Configuration 注解.md",
-    "/Interview/Java/OOP/类之间有哪些关系？.md",
-    "/Interview/Java/OOP/抽象类和接口区别.md",
-    "/Interview/Java/OOP/什么是抽象类？.md",
-    "/Interview/Java/Java面试题.md",
-    "/Interview/Java/Basics/类加载机制是什么？.md",
-    "/Interview/Java/Basics/java默认导入的包有哪些？.md",
-    "Interview/Java/Spring/Annotation",
-    "Interview/ComputerArchitecture",
-    "/Interview/Java/Spring/Annotation",
-    "/Interview/ComputerArchitecture",
-    "Interview/Java/Spring/SpringBoot",
-    "/Interview/Java/Spring/SpringBoot",
-    "Interview/NetWork/Equipment",
-    "Interview/NetWork/Ensp",
     "Image/image.webp",
     "Image/Pasted image 20240217215824.png",
     "/Image/image.webp",
