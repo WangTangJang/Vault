@@ -3,7 +3,7 @@ Spring MVC中常用的注解有很多，它们用于在Controller类、处理器
 ## @Controller：
 用于标记一个类作为Spring MVC的控制器。
 ## @RequestMapping：
-用于映射Web请求到处理器类或处理器方法上，并指定处理请求的URL路径。
+可以用于类或方法级别，用于定义请求的URL模式。它可以指定HTTP请求的类型，如GET、POST、PUT、DELETE等，也可以不指定，这样默认会处理所有类型的HTTP请求。
 ## @GetMapping：
 用于映射HTTP GET请求到处理器方法上。
 ## @PostMapping：
