@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/03/2024-03-31.md",
+                "file": "Diary/2024/04/2024-04-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/03/2024-03-31.md",
+                "file": "Diary/2024/04/2024-04-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/03/2024-03-31.md",
+                "file": "Diary/2024/04/2024-04-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024/03/2024-03-31.md"
+                "file": "Diary/2024/04/2024-04-02.md"
               }
             }
           },
@@ -188,13 +188,25 @@
   },
   "active": "a7e5947ea473181b",
   "lastOpenFiles": [
+    "Interview/Database/Database知识分类.md",
+    "Diary/2024/04/2024-04-02.md",
+    "Diary/2024/04",
+    "Interview/Linux/Command/useradd命令.md",
+    "Interview/Java/Thread/什么是抽象类和接口？有什么区别？.md",
+    "Interview/Java/Collections/HashSet如何检查重复.md",
+    "Interview/Java/Basics/介绍Java的反射机制？.md",
+    "Interview/Java/Basics/equals如何判断两个对象相同.md",
+    "Interview/Database/数据字典.md",
+    "Interview/Database/两段锁协议.md",
+    "Interview/Database/SELECT语句的处理过程.md",
+    "Interview/Database/Design/数据库三级模式体系结构.md",
+    "Interview/Database/DML是什么.md",
     "Interview/WebServer/Nginx/配置文件.md",
     "Interview/Python/pip切换镜像.md",
     "Diary/2024/03/2024-03-31.md",
     "Interview/Database/Transaction/什么是事务？.md",
     "Interview/Database/Transaction/事务的隔离级别？.md",
     "Interview/Resume/Java求职.md",
-    "Interview/Database/Database知识分类.md",
     "Interview/Resume/简历.md",
     "Interview/Resume/数据产品.md",
     "Interview/Resume/软件实施.md",
@@ -203,18 +215,7 @@
     "Diary/2024/03/2024-03-13.md",
     "Interview/Database/Transaction/并发一致性问题.md",
     "Interview/Database/Engine/存储引擎种类介绍.md",
-    "Interview/Database/Engine/InnoDB和MylSAM存储引擎的区别？.md",
     "Interview/Database/Engine",
-    "Interview/Database/Java连接数据库步骤.md",
-    "Interview/ComputerArchitecture/计算机硬件系统由哪些基本部件组成？.md",
-    "Interview/ComputerArchitecture/指令的基本格式是什么？.md",
-    "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
-    "Interview/ComputerArchitecture/冯·诺依曼机的基本工作原理是什么？.md",
-    "Diary/2024/03/2024-03-27.md",
-    "Interview/Linux/Command/lsof命令.md",
-    "Diary/2024/03/2024-03-26.md",
-    "Interview/Java/Spring/Annotation/@ModelAttribute.md",
-    "Interview/Java/Mybatis/Mybatis的工作原理.md",
     "Interview/Resume",
     "Interview/Python",
     "未命名.canvas",
@@ -225,7 +226,6 @@
     "Interview/WebServer",
     "Interview/Thymeleaf",
     "Interview/Java/Annotation/Meta",
-    "Interview/Java/Annotation",
     "Image/Pasted image 20240309005119.png",
     "Image/image-20230609190704433.png",
     "Image/image-20230606181837111.png",
