@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6edbc60b87f6f837",
+        "id": "ed773820821468f3",
         "type": "tabs",
         "children": [
           {
-            "id": "1569a2a164a64e59",
+            "id": "d775cce69c0098f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Diary/2024/04/2024-04-03.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7e5947ea473181b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2024/04/2024-04-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5026054382324
+    "width": 200
   },
   "right": {
     "id": "9e3e75f942a45129",
@@ -170,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +172,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1569a2a164a64e59",
+  "active": "d775cce69c0098f8",
   "lastOpenFiles": [
-    "Interview/Database/Database知识分类.md",
-    "Diary/2024/04/2024-04-03.md",
     "Diary/2024/04/2024-04-02.md",
+    "Diary/2024/04/2024-04-03.md",
+    "Interview/Database/Database知识分类.md",
     "Diary/2024/04",
     "Interview/Linux/Command/useradd命令.md",
     "Interview/Java/Thread/什么是抽象类和接口？有什么区别？.md",
