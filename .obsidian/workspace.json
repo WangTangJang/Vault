@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f50982fb69dcfb83",
+        "id": "731b74da932b4263",
         "type": "tabs",
         "children": [
           {
-            "id": "c668e8164494c2e4",
+            "id": "c6ac71455f2c30d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2024/03/2024-03-06.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2b901f698703f89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/Database/Design/什么是范式？第一至第三范式分别是什么？.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -120,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diary/2024/03/2024-03-06.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/03/2024-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/03/2024-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,10 +176,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c668e8164494c2e4",
+  "active": "c6ac71455f2c30d1",
   "lastOpenFiles": [
-    "Interview/Java/Spring/什么是Spring框架？.md",
+    "Interview/Database/Design/什么是范式？第一至第三范式分别是什么？.md",
     "Diary/2024/03/2024-03-06.md",
+    "Interview/Java/Spring/什么是Spring框架？.md",
     "Diary/2024/03/2024-03-05.md",
     "Interview/Java/Spring/SpringMVC/Spring MVC常用的注解有哪些？.md",
     "Interview/Java/Spring/SpringBoot",
@@ -216,7 +195,6 @@
     "Interview/Database/Transaction/什么是事务？.md",
     "Interview/Database/Design/什么是数据库表的主键和外键？它们之间有什么区别？.md",
     "Interview/Database/Design/什么是外键约束？.md",
-    "Interview/Database/Design/什么是范式？第一至第三范式分别是什么？.md",
     "Interview/Database/MySql/Mysql常用指令.md",
     "Interview/Database/Design/什么是表分区？.md",
     "Interview/Database/MySql/Mysql的索引是什么？.md",
