@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "obsidian-git:discard-all",
+    "theme:use-light",
+    "theme:use-dark",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab"
+  ]
+}

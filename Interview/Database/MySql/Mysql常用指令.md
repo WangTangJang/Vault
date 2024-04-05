@@ -30,6 +30,9 @@ ALTER TABLE your_table_name MODIFY COLUMN column_name new_data_type;
 #删除列
 ALTER TABLE your_table_name DROP COLUMN column_name;
 
+#更新数据
+UPDATE table_name SET column1 = value1, column2 = value2, ... WHERE condition;
+
 # 删库
 drop database 库名;
 

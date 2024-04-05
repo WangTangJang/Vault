@@ -6,11 +6,34 @@
   "vimMode": false,
   "newFileLocation": "current",
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 70
   },
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "mobileToolbarCommands": [
+    "editor:set-heading",
+    "editor:toggle-bullet-list",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "insert-current-time",
+    "editor:insert-tag",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:insert-embed",
+    "editor:toggle-code",
+    "editor:insert-wikilink",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:attach-file",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:configure-toolbar"
+  ]
 }
