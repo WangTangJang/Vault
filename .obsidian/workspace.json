@@ -1,36 +1,19 @@
 {
   "main": {
-    "id": "d48d3d9f49702d78",
+    "id": "78f883be298bfe46",
     "type": "split",
     "children": [
       {
-        "id": "ed773820821468f3",
+        "id": "6ae97ff625449d8d",
         "type": "tabs",
         "children": [
           {
-            "id": "d775cce69c0098f8",
+            "id": "7c91d93cd10bce50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Diary/2024/04/2024-04-03.md",
-=======
-                "file": "Interview/Database/Database知识分类.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7e5947ea473181b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2024/03/2024-03-13.md",
->>>>>>> 94bb2dbbd91ffd0ee6710d8cbabe896cbf7e8a79
+                "file": "Diary/2024/04/2024-04-06.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,143 +26,43 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "89f05bc1523404f7",
+    "id": "0f0ce17e7a5f360c",
     "type": "split",
     "children": [
       {
-        "id": "3c712733f1b43277",
+        "id": "606a8af4c54f16e3",
         "type": "tabs",
         "children": [
           {
-            "id": "400f877149f52183",
+            "id": "d3e18a5ad148044d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "d15ad90aeacc45cd",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "2b7bab18b01753af",
+            "id": "a788508539ad34cb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "mysqldump",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200
-  },
-  "right": {
-    "id": "9e3e75f942a45129",
-    "type": "split",
-    "children": [
-      {
-        "id": "5acfeb8e95699be7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "69f06074d6ef2533",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-<<<<<<< HEAD
-                "file": "Diary/2024/04/2024-04-03.md",
-=======
-                "file": "Diary/2024/03/2024-03-13.md",
->>>>>>> 94bb2dbbd91ffd0ee6710d8cbabe896cbf7e8a79
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "8f5fc2edf4ef6c42",
+            "id": "e314c3fb7c07e715",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-<<<<<<< HEAD
-                "file": "Diary/2024/04/2024-04-03.md",
-=======
-                "file": "Diary/2024/03/2024-03-13.md",
->>>>>>> 94bb2dbbd91ffd0ee6710d8cbabe896cbf7e8a79
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "766532581af3ef87",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "c1ce7111d42fa00c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Diary/2024/04/2024-04-03.md"
-=======
-                "file": "Diary/2024/03/2024-03-13.md"
->>>>>>> 94bb2dbbd91ffd0ee6710d8cbabe896cbf7e8a79
-              }
-            }
-          },
-          {
-            "id": "b737b9cb7b158944",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "2a0a92aaac3d52f4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3e9d5d81fe2e55d6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -187,73 +70,99 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 208.5
+  },
+  "right": {
+    "id": "0a39ae4648d30e51",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6a59286263a3323",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6384fd91f4006718",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9268166502f67e57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diary/2024/04/2024-04-06.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7029badcbdac404c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diary/2024/04/2024-04-06.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "daa8d568c0003925",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d9467d8b45dacd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary/2024/04/2024-04-06.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "d775cce69c0098f8",
+  "active": "7c91d93cd10bce50",
   "lastOpenFiles": [
-    "Diary/2024/04/2024-04-02.md",
-<<<<<<< HEAD
+    "Diary/2024/04/2024-04-04.md",
     "Diary/2024/04/2024-04-03.md",
-=======
->>>>>>> 94bb2dbbd91ffd0ee6710d8cbabe896cbf7e8a79
-    "Interview/Database/Database知识分类.md",
-    "Diary/2024/04",
-    "Interview/Linux/Command/useradd命令.md",
-    "Interview/Java/Thread/什么是抽象类和接口？有什么区别？.md",
-    "Interview/Java/Collections/HashSet如何检查重复.md",
-    "Interview/Java/Basics/介绍Java的反射机制？.md",
-    "Interview/Java/Basics/equals如何判断两个对象相同.md",
-    "Interview/Database/数据字典.md",
-    "Interview/Database/两段锁协议.md",
-    "Interview/Database/SELECT语句的处理过程.md",
-    "Interview/Database/Design/数据库三级模式体系结构.md",
-    "Interview/Database/DML是什么.md",
-    "Interview/WebServer/Nginx/配置文件.md",
-    "Interview/Python/pip切换镜像.md",
-    "Diary/2024/03/2024-03-31.md",
-    "Interview/Database/Transaction/什么是事务？.md",
-    "Interview/Database/Transaction/事务的隔离级别？.md",
-    "Interview/Resume/Java求职.md",
-    "Interview/Resume/简历.md",
-    "Interview/Resume/数据产品.md",
-    "Interview/Resume/软件实施.md",
-    "Interview/Resume/战斗策划.md",
-    "Diary/2024/03/2024-03-30.md",
-    "Diary/2024/03/2024-03-13.md",
-    "Interview/Database/Transaction/并发一致性问题.md",
-    "Interview/Database/Engine",
-    "Interview/Resume",
-    "Interview/Python",
-    "未命名.canvas",
-    "ShenLun",
-    "未命名 1.canvas",
-    "Interview/JavaScript/Npm",
-    "Interview/WebServer/Nginx",
-    "Interview/WebServer",
-    "Interview/Thymeleaf",
-    "Interview/Java/Annotation/Meta",
-    "Image/Pasted image 20240309005119.png",
-    "Image/image-20230609190704433.png",
-    "Image/image-20230606181837111.png",
-    "Image/image-20230604150206472.png",
-    "Image/image-20230507231431440.png",
-    "Image/image-20230507231343340.png",
-    "Image/image-20230507225200364.png",
-    "Image/image-20230507225116932.png",
-    "Image/image-20230507225013920.png",
-    "Image/image-20230507224837831.png"
+    "Diary/2024/04/2024-04-06.md",
+    "Diary/2024/04/2024-04-05.md",
+    "Diary/2024/03/2024-03-02.md"
   ]
 }
