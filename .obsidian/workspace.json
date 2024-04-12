@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8c40def93452980c",
+        "id": "d3b868490b97d990",
         "type": "tabs",
         "children": [
           {
-            "id": "258e6bd8ccbe6ddc",
+            "id": "bc55e49919db6085",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -102,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,8 +176,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b737b9cb7b158944",
+  "active": "bc55e49919db6085",
   "lastOpenFiles": [
+    "Interview/Database/Design/什么是表分区？.md",
+    "Interview/Database/Design/什么是范式？第一至第三范式分别是什么？.md",
+    "Interview/Database/Design/什么是数据库表的主键和外键？它们之间有什么区别？.md",
+    "Interview/Database/Design/什么是数据库范围的完整性？如何确保数据库中的完整性？.md",
+    "Diary/2024/04/2024-04-05.md",
     "conflict-files-obsidian-git.md",
     "Interview/JavaScript/Npm/Npm换源.md",
     "Interview/JavaScript/Npm",
@@ -208,14 +211,9 @@
     "ShenLun/README.md",
     "ShenLun",
     "Interview/WebServer/Nginx/配置文件.md",
-    "Interview/WebServer/Tomcat/什么是Apache Tomcat？.md",
-    "Interview/WebServer/Tomcat/Tomcat的架构是什么样的？.md",
-    "Interview/WebServer/什么是反向代理？.md",
     "Interview/WebServer/Nginx",
     "Interview/WebServer/Tomcat",
     "Interview/WebServer",
-    "Interview/Thymeleaf/什么是Thymeleaf？.md",
-    "Interview/Thymeleaf/Thymeleaf模版传递.md",
     "Image/B树.png",
     "Image/B树删除.gif",
     "Image/image-20230317162819528.png",
