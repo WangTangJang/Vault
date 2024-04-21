@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d3b868490b97d990",
+        "id": "967823e1a2d57de3",
         "type": "tabs",
         "children": [
           {
-            "id": "bc55e49919db6085",
+            "id": "1893b0f88f76d88c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2024/04/2024-04-21.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -29,6 +34,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b44af39f9d4dd328",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
             "id": "d15ad90aeacc45cd",
             "type": "leaf",
             "state": {
@@ -42,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "虚拟机",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,34 +67,23 @@
             }
           },
           {
-            "id": "b44af39f9d4dd328",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
-          },
-          {
             "id": "d0abb05aeaa4cb4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Database/聚簇索引和非聚簇索引的区别？.md",
+                "file": "Interview/Database/聚簇索引和非聚簇索引的区别.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 237.5
   },
   "right": {
     "id": "9e3e75f942a45129",
@@ -102,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diary/2024/04/2024-04-21.md"
+              }
             }
           },
           {
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diary/2024/04/2024-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diary/2024/04/2024-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +150,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "1f7aa34e71a64845",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2a0a92aaac3d52f4",
@@ -161,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,44 +193,44 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bc55e49919db6085",
+  "active": "1893b0f88f76d88c",
   "lastOpenFiles": [
-    "Diary/2024/04/2024-04-06.md",
-    "Diary/2024/04/2024-04-04.md",
-    "Interview/Database/Design/什么是表分区？.md",
-    "Interview/Database/Design/什么是范式？第一至第三范式分别是什么？.md",
-    "Interview/Database/Design/什么是数据库表的主键和外键？它们之间有什么区别？.md",
-    "Interview/Database/Design/什么是数据库范围的完整性？如何确保数据库中的完整性？.md",
-    "Diary/2024/04/2024-04-05.md",
-    "conflict-files-obsidian-git.md",
-    "Interview/JavaScript/Npm/Npm换源.md",
+    "Interview/Git/修改git默认的commit编辑器为vim.md",
+    "Diary/2024/04/2024-04-21.md",
+    "Interview/Database/Sql/聚合函数.md",
+    "Interview/Linux/Command/who命令.md",
+    "Interview/Linux/权限管理.md",
+    "Interview/Linux/Linux介绍.md",
+    "Interview/Linux/发行版.md",
+    "Interview/Linux/进程管理.md",
+    "Interview/Linux/网络管理.md",
+    "Interview/Linux/Command/lsof命令.md",
+    "Interview/Linux/计划任务.md",
+    "Interview/Linux/解压.md",
+    "Interview/Linux/单用户模式是什么？.md",
+    "Interview/Linux/Linux的目录结构.md",
+    "Diary/2024/04/SYN标识.md",
+    "Diary/2024/04/2024-04-20.md",
+    "Interview/Database/聚簇索引和非聚簇索引的区别.md",
+    "Interview/Resume/软件实施.md",
+    "Interview/Resume/简历.md",
+    "Interview/Resume/数据产品.md",
+    "Interview/Resume/战斗策划.md",
+    "Interview/Resume/Java求职.md",
+    "Diary/2024/04/2024-04-17.md",
+    "Interview/NetWork/Protocol/TCP 和 UDP 协议.md",
+    "Interview/NetWork/Ensp/常用命令.md",
+    "Interview/NetWork/Basics/防火墙.md",
+    "Interview/NetWork/Protocol",
     "Interview/JavaScript/Npm",
-    "Interview/Java/Spring/Annotation/Spring MVC常用的注解有哪些？.md",
-    "Interview/Java/Spring/Annotation/@Resource和@Autowird区别.md",
-    "Interview/Java/Spring/Annotation/@ModelAttribute.md",
-    "Interview/Java/Spring/Annotation/@Import.md",
-    "Interview/Java/Spring/Annotation/@EnableAutoConfiguration.md",
-    "Interview/Java/Spring/Annotation/@Configuration.md",
-    "Interview/Java/Spring/Annotation/@Bean.md",
     "Interview/Java/Spring/Annotation",
-    "Interview/Java/JVM/解释一下Java的自动内存管理机制？.md",
-    "Interview/Java/JVM/类加载机制是什么？.md",
-    "Interview/Java/JVM/什么是垃圾回收？.md",
     "Interview/Java/JVM",
-    "Interview/Database/Engine/存储引擎种类介绍.md",
-    "Interview/Database/Engine/InnoDB和MylSAM存储引擎的区别？.md",
     "Interview/Database/Engine",
-    "Interview/ComputerArchitecture/计算机硬件系统由哪些基本部件组成？.md",
-    "Interview/ComputerArchitecture/指令的基本格式是什么？.md",
-    "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
     "Interview/ComputerArchitecture",
-    "Diary/2024/04/2024-04-03.md",
-    "Diary/2024/04/2024-04-02.md",
     "Diary/2024/04",
     "ShenLun",
     "Interview/WebServer/Nginx",
     "Interview/WebServer/Tomcat",
-    "Interview/WebServer",
     "Image/B树.png",
     "Image/B树删除.gif",
     "Image/image-20230317162819528.png",
