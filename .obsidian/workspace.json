@@ -1,35 +1,18 @@
 {
   "main": {
-    "id": "78f883be298bfe46",
+    "id": "3ea0b4166986980c",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "6ae97ff625449d8d",
+        "id": "e81c42ae44f101ab",
         "type": "tabs",
         "children": [
           {
-            "id": "7c91d93cd10bce50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2024/04/2024-04-06.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-=======
-        "id": "8c40def93452980c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "258e6bd8ccbe6ddc",
+            "id": "bb406740d3d12dc5",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
->>>>>>> 6d7c5445a53e653d5dc3fe152aa397b0170b0912
             }
           }
         ]
@@ -38,16 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0f0ce17e7a5f360c",
+    "id": "a2128d9049bea7a8",
     "type": "split",
     "children": [
       {
-        "id": "606a8af4c54f16e3",
+        "id": "7568f376b116d9e6",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "d3e18a5ad148044d",
+            "id": "b93601acfbec4f42",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,18 +39,7 @@
             }
           },
           {
-            "id": "a788508539ad34cb",
-=======
-            "id": "d15ad90aeacc45cd",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "2b7bab18b01753af",
->>>>>>> 6d7c5445a53e653d5dc3fe152aa397b0170b0912
+            "id": "55b4f4f45227d1eb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,97 +51,40 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-<<<<<<< HEAD
             }
           },
           {
-            "id": "e314c3fb7c07e715",
+            "id": "0757c4dc349dbe9e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-=======
-            }
-          },
-          {
-            "id": "b44af39f9d4dd328",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
-          },
-          {
-            "id": "d0abb05aeaa4cb4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/Database/聚簇索引和非聚簇索引的区别？.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 300
   },
   "right": {
-    "id": "9e3e75f942a45129",
+    "id": "9ad80ae3fad21215",
     "type": "split",
     "children": [
       {
-        "id": "5acfeb8e95699be7",
+        "id": "bb8d1b98e0d1c0b5",
         "type": "tabs",
         "children": [
           {
-            "id": "b737b9cb7b158944",
+            "id": "7fe3400772cc7104",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "c1ce7111d42fa00c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
-            }
-          },
-          {
-            "id": "766532581af3ef87",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "8f5fc2edf4ef6c42",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "69f06074d6ef2533",
+            "id": "de5d513645ca6c3b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -181,79 +95,23 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2a0a92aaac3d52f4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3e9d5d81fe2e55d6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
->>>>>>> 6d7c5445a53e653d5dc3fe152aa397b0170b0912
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 208.5
-  },
-  "right": {
-    "id": "0a39ae4648d30e51",
-    "type": "split",
-    "children": [
-      {
-        "id": "d6a59286263a3323",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6384fd91f4006718",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "9268166502f67e57",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Diary/2024/04/2024-04-06.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7029badcbdac404c",
+            "id": "e6aee5ad78f0d384",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/04/2024-04-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "daa8d568c0003925",
+            "id": "82a1227bbdee3ad7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -264,104 +122,33 @@
             }
           },
           {
-            "id": "8d9467d8b45dacd9",
+            "id": "c8b25809e29c0db9",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diary/2024/04/2024-04-06.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
-=======
-    "width": 224.5
->>>>>>> 6d7c5445a53e653d5dc3fe152aa397b0170b0912
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-<<<<<<< HEAD
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7c91d93cd10bce50",
-  "lastOpenFiles": [
-    "Diary/2024/04/2024-04-04.md",
-    "Diary/2024/04/2024-04-03.md",
-    "Diary/2024/04/2024-04-06.md",
-    "Diary/2024/04/2024-04-05.md",
-    "Diary/2024/03/2024-03-02.md"
-=======
-      "command-palette:打开命令面板": false,
-      "meld-encrypt:New encrypted note": true,
-      "meld-encrypt:Convert to or from an Encrypted note": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
-    }
-  },
-  "active": "b737b9cb7b158944",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Interview/JavaScript/Npm/Npm换源.md",
-    "Interview/JavaScript/Npm",
-    "Interview/Java/Spring/Annotation/Spring MVC常用的注解有哪些？.md",
-    "Interview/Java/Spring/Annotation/@Resource和@Autowird区别.md",
-    "Interview/Java/Spring/Annotation/@ModelAttribute.md",
-    "Interview/Java/Spring/Annotation/@Import.md",
-    "Interview/Java/Spring/Annotation/@EnableAutoConfiguration.md",
-    "Interview/Java/Spring/Annotation/@Configuration.md",
-    "Interview/Java/Spring/Annotation/@Bean.md",
-    "Interview/Java/Spring/Annotation",
-    "Interview/Java/JVM/解释一下Java的自动内存管理机制？.md",
-    "Interview/Java/JVM/类加载机制是什么？.md",
-    "Interview/Java/JVM/什么是垃圾回收？.md",
-    "Interview/Java/JVM",
-    "Interview/Database/Engine/存储引擎种类介绍.md",
-    "Interview/Database/Engine/InnoDB和MylSAM存储引擎的区别？.md",
-    "Interview/Database/Engine",
-    "Interview/ComputerArchitecture/计算机硬件系统由哪些基本部件组成？.md",
-    "Interview/ComputerArchitecture/指令的基本格式是什么？.md",
-    "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
-    "Interview/ComputerArchitecture",
-    "Diary/2024/04/2024-04-03.md",
-    "Diary/2024/04/2024-04-02.md",
-    "Diary/2024/04",
-    "ShenLun/README.md",
-    "ShenLun",
-    "Interview/WebServer/Nginx/配置文件.md",
-    "Interview/WebServer/Tomcat/什么是Apache Tomcat？.md",
-    "Interview/WebServer/Tomcat/Tomcat的架构是什么样的？.md",
-    "Interview/WebServer/什么是反向代理？.md",
-    "Interview/WebServer/Nginx",
-    "Interview/WebServer/Tomcat",
-    "Interview/WebServer",
-    "Interview/Thymeleaf/什么是Thymeleaf？.md",
-    "Interview/Thymeleaf/Thymeleaf模版传递.md",
-    "Image/B树.png",
-    "Image/B树删除.gif",
-    "Image/image-20230317162819528.png",
-    "Image/Pasted image 20240201164221.png",
-    "Image/171744675337b0ec~tplv-t2oaga2asx-jj-mark 3024 0 0 0 q75.png",
-    "Image/image-20230507225116932.png",
-    "Image/image-20230609190704433.png",
-    "Image/image-20230606181837111.png",
-    "Image/image-20230604150206472.png",
-    "Image/image-20230507231431440.png",
-    "未命名.canvas",
-    "未命名 3.canvas",
-    "未命名 1.canvas",
-    "未命名 2.canvas"
->>>>>>> 6d7c5445a53e653d5dc3fe152aa397b0170b0912
-  ]
+  "active": "bb406740d3d12dc5",
+  "lastOpenFiles": []
 }
