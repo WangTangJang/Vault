@@ -1,5 +1,5 @@
 Spring MVC的工作流程可以简要地描述为以下几个步骤：
-![[171744675337b0ec~tplv-t2oaga2asx-jj-mark 3024 0 0 0 q75.png]]
+![SpringMVC工作流程](http://img.briar.ink/SpringMVC工作流程.png)
 1. **客户端发起请求：** 客户端通过浏览器或其他HTTP客户端发送[[什么是客户端请求？|请求]]到Web服务器。
 
 2. **DispatcherServlet接收请求：** 请求首先被DispatcherServlet（前端控制器）**接收**。

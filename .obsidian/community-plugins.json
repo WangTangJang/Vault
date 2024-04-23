@@ -1,11 +1,9 @@
 [
   "obsidian-git",
-  "obsidian-excalidraw-plugin",
   "cm-chs-patch",
   "calendar",
   "meld-encrypt",
-  "obsidian-image-auto-upload-plugin",
-  "obsidian-style-settings",
-  "ghost-fade-focus",
-  "obsidian-fullscreen-plugin"
+  "obsidian-fullscreen-plugin",
+  "easy-typing-obsidian",
+  "obsidian-image-auto-upload-plugin"
 ]

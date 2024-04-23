@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "967823e1a2d57de3",
+        "id": "73251eed1ff7f0b6",
         "type": "tabs",
         "children": [
           {
-            "id": "1893b0f88f76d88c",
+            "id": "b38f5fce91f7dfbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/04/2024-04-21.md",
+                "file": "Diary/2024/02/2024-02-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024/04/2024-04-21.md"
+                "file": "Diary/2024/02/2024-02-01.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/04/2024-04-21.md",
+                "file": "Diary/2024/02/2024-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,14 +140,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/04/2024-04-21.md",
+                "file": "Diary/2024/02/2024-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "2a0a92aaac3d52f4",
@@ -189,38 +189,49 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "meld-encrypt:New encrypted note": true,
-      "meld-encrypt:Convert to or from an Encrypted note": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "1893b0f88f76d88c",
+  "active": "b38f5fce91f7dfbe",
   "lastOpenFiles": [
+    "Diary/2024/02/Pasted image 20240201164308.png.md",
+    "Diary/2024/02/2024-02-01.md",
+    "Image/20240201164221.png",
+    "Diary/2024/02/2024-02-17.md",
+    "Image/image.webp",
+    "Image/什么是反向代理？ 2024-03-12 16.35.47.excalidraw.md",
+    "Image/2024-03-12 2024-03-12 22.33.36.excalidraw.md",
+    "Image/Pasted image 20240203101709.png",
+    "Image/20240208230509.png",
+    "Interview/Database/MySql/Mysql中的锁机制.md",
+    "Image/Mysql上锁.gif",
+    "Diary/2024/04/2024-04-23.md",
+    "Diary/2024/03/2024-03-09.md",
+    "Image/git核心区域.png",
+    "Interview/DataStructures/B树.md",
+    "Image/0ig3c.png",
+    "Image/gv0rf.gif",
+    "Image/c0f0q.png",
+    "Image/oshai.png",
+    "Interview/Java/Spring/SpringMVC/Spring MVC的工作流程？.md",
+    "Diary/2024/04/2024-04-22.md",
+    "Excalidraw/Database/并发一致性-不可重复读.md",
+    "BUG/Windows类/任务栏图标消失.md",
+    "BUG/第三方程序类/Redis命令行中的符号.md",
+    "BUG/第三方程序类/Obsidian日记折叠.md",
+    "BUG/第三方程序类/Picgo上传失败.md",
+    "BUG/第三方程序类/Ensp Ping.md",
+    "Template/BUG.md",
+    "Template/Wiki.md",
+    "BUG/第三方程序类/Navicat的数据生成.md",
+    "BUG/未命名.md",
+    "BUG/第三方程序类",
+    "BUG/Windows类",
+    "Diary/2024/04/2024-04-21.md",
     "Diary/2024/04/2024-04-09.md",
     "Diary/2024/04/2024-04-08.md",
     "Interview/Git/修改git默认的commit编辑器为vim.md",
-    "Diary/2024/04/2024-04-21.md",
     "Interview/Database/Sql/聚合函数.md",
-    "Interview/Linux/Command/who命令.md",
-    "Interview/Linux/权限管理.md",
-    "Interview/Linux/Linux介绍.md",
-    "Interview/Linux/发行版.md",
-    "Interview/Linux/进程管理.md",
-    "Interview/Linux/网络管理.md",
-    "Interview/Linux/Command/lsof命令.md",
-    "Interview/Linux/计划任务.md",
-    "Interview/Linux/解压.md",
-    "Interview/Linux/单用户模式是什么？.md",
-    "Interview/Linux/Linux的目录结构.md",
-    "Diary/2024/04/SYN标识.md",
-    "Diary/2024/04/2024-04-20.md",
-    "Interview/Database/聚簇索引和非聚簇索引的区别.md",
-    "Interview/Resume/软件实施.md",
-    "Interview/Resume/简历.md",
-    "Interview/Resume/数据产品.md",
-    "Interview/Resume/战斗策划.md",
-    "Interview/Resume/Java求职.md",
-    "Diary/2024/04/2024-04-17.md",
-    "Interview/NetWork/Protocol/TCP 和 UDP 协议.md",
     "Interview/NetWork/Protocol",
     "Interview/JavaScript/Npm",
     "Interview/Java/Spring/Annotation",
@@ -229,18 +240,6 @@
     "Interview/ComputerArchitecture",
     "Diary/2024/04",
     "ShenLun",
-    "Interview/WebServer/Nginx",
-    "Interview/WebServer/Tomcat",
-    "Image/B树.png",
-    "Image/B树删除.gif",
-    "Image/image-20230317162819528.png",
-    "Image/Pasted image 20240201164221.png",
-    "Image/171744675337b0ec~tplv-t2oaga2asx-jj-mark 3024 0 0 0 q75.png",
-    "Image/image-20230507225116932.png",
-    "Image/image-20230609190704433.png",
-    "Image/image-20230606181837111.png",
-    "Image/image-20230604150206472.png",
-    "Image/image-20230507231431440.png",
     "未命名.canvas",
     "未命名 3.canvas",
     "未命名 1.canvas",

@@ -164,5 +164,13 @@
       ],
       "key": "\\"
     }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
   ]
 }
