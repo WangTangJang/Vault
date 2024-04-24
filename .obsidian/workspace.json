@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b38f5fce91f7dfbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2024/04/2024-04-23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3f9b5535a2fad55c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/04/2024-04-23.md",
+                "file": "README.MD",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,25 +57,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "虚拟机",
+                "query": "防火墙",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "d0abb05aeaa4cb4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/Database/聚簇索引和非聚簇索引的区别.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
@@ -120,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024/04/2024-04-23.md"
+                "file": "README.MD"
               }
             }
           },
@@ -141,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/04/2024-04-23.md",
+                "file": "README.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/04/2024-04-23.md",
+                "file": "README.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "2a0a92aaac3d52f4",
@@ -205,15 +179,26 @@
       "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "b38f5fce91f7dfbe",
+  "active": "3f9b5535a2fad55c",
   "lastOpenFiles": [
+    "Interview/Git/Git 相关面试题.md",
+    "Interview/Git/修改git默认的commit编辑器为vim.md",
+    "Interview/Git/Git介绍.md",
+    "Interview/ComputerArchitecture/指令的基本格式是什么？.md",
+    "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
+    "Interview/NetWork/Protocol/TCP协议.md",
+    "Diary/2024/04/2024-04-17.md",
+    "Interview/NetWork/Basics/“连接”的定义.md",
+    "Diary/2024/04/2024-04-24.md",
+    "Diary/2024/04/2024-04-23.md",
+    "Interview/Database/聚簇索引和非聚簇索引的区别.md",
+    "BUG/Windows类/任务栏图标消失.md",
     "Diary/2024/02/2024-02-29.md",
     "Image/Image-20240229120207.png",
     "Image/Image-20240229120142.png",
     "Interview/NetWork/Basics/拓扑分类.md",
     "Image/Mesh.png",
     "Image/Tree.png",
-    "Diary/2024/04/2024-04-23.md",
     "Image/20240309005119.png",
     "Image/20240229120520.png",
     "Image/20240227164008.png",
@@ -232,16 +217,6 @@
     "Interview/Database/MySql/Mysql中的锁机制.md",
     "Diary/2024/03/2024-03-09.md",
     "Interview/DataStructures/B树.md",
-    "Interview/Java/Spring/SpringMVC/Spring MVC的工作流程？.md",
-    "Diary/2024/04/2024-04-22.md",
-    "Excalidraw/Database/并发一致性-不可重复读.md",
-    "BUG/Windows类/任务栏图标消失.md",
-    "BUG/第三方程序类/Obsidian日记折叠.md",
-    "BUG/第三方程序类/Picgo上传失败.md",
-    "BUG/第三方程序类/Ensp Ping.md",
-    "Template/BUG.md",
-    "Template/Wiki.md",
-    "BUG/第三方程序类/Navicat的数据生成.md",
     "BUG/第三方程序类",
     "BUG/Windows类",
     "Interview/NetWork/Protocol",
