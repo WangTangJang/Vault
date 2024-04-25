@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6edbc60b87f6f837",
+        "id": "73251eed1ff7f0b6",
         "type": "tabs",
         "children": [
           {
-            "id": "1569a2a164a64e59",
+            "id": "3f9b5535a2fad55c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Database/Database知识分类.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7e5947ea473181b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2024/03/2024-03-31.md",
+                "file": "README.MD",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +34,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "400f877149f52183",
+            "id": "b44af39f9d4dd328",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,12 +57,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mysqld",
-                "matchingCase": true,
+                "query": "防火墙",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -84,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5026054382324
+    "width": 237.5
   },
   "right": {
     "id": "9e3e75f942a45129",
@@ -95,31 +81,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69f06074d6ef2533",
+            "id": "b737b9cb7b158944",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Diary/2024/03/2024-03-31.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
+              "type": "git-view",
+              "state": {}
             }
           },
           {
-            "id": "8f5fc2edf4ef6c42",
+            "id": "c1ce7111d42fa00c",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "file": "Diary/2024/03/2024-03-31.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "README.MD"
               }
             }
           },
@@ -135,25 +110,44 @@
             }
           },
           {
-            "id": "c1ce7111d42fa00c",
+            "id": "8f5fc2edf4ef6c42",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/03/2024-03-31.md"
+                "file": "README.MD",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b737b9cb7b158944",
+            "id": "69f06074d6ef2533",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "backlink",
+              "state": {
+                "file": "README.MD",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f7aa34e71a64845",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "2a0a92aaac3d52f4",
@@ -171,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,60 +175,61 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": true,
       "meld-encrypt:New encrypted note": true,
       "meld-encrypt:Convert to or from an Encrypted note": true
     }
   },
-  "active": "a7e5947ea473181b",
+  "active": "3f9b5535a2fad55c",
   "lastOpenFiles": [
-    "Interview/WebServer/Nginx/配置文件.md",
-    "Interview/Python/pip切换镜像.md",
-    "Diary/2024/03/2024-03-31.md",
-    "Interview/Database/Transaction/什么是事务？.md",
-    "Interview/Database/Transaction/事务的隔离级别？.md",
-    "Interview/Resume/Java求职.md",
-    "Interview/Database/Database知识分类.md",
-    "Interview/Resume/简历.md",
-    "Interview/Resume/数据产品.md",
-    "Interview/Resume/软件实施.md",
-    "Interview/Resume/战斗策划.md",
-    "Diary/2024/03/2024-03-30.md",
-    "Diary/2024/03/2024-03-13.md",
-    "Interview/Database/Transaction/并发一致性问题.md",
-    "Interview/Database/Engine/存储引擎种类介绍.md",
-    "Interview/Database/Engine/InnoDB和MylSAM存储引擎的区别？.md",
-    "Interview/Database/Engine",
-    "Interview/Database/Java连接数据库步骤.md",
-    "Interview/ComputerArchitecture/计算机硬件系统由哪些基本部件组成？.md",
+    "Interview/Git/Git 相关面试题.md",
+    "Interview/Git/修改git默认的commit编辑器为vim.md",
+    "Interview/Git/Git介绍.md",
     "Interview/ComputerArchitecture/指令的基本格式是什么？.md",
     "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
-    "Interview/ComputerArchitecture/冯·诺依曼机的基本工作原理是什么？.md",
-    "Diary/2024/03/2024-03-27.md",
-    "Interview/Linux/Command/lsof命令.md",
-    "Diary/2024/03/2024-03-26.md",
-    "Interview/Java/Spring/Annotation/@ModelAttribute.md",
-    "Interview/Java/Mybatis/Mybatis的工作原理.md",
-    "Interview/Resume",
-    "Interview/Python",
-    "未命名.canvas",
-    "ShenLun",
-    "未命名 1.canvas",
+    "Interview/NetWork/Protocol/TCP协议.md",
+    "Diary/2024/04/2024-04-17.md",
+    "Interview/NetWork/Basics/“连接”的定义.md",
+    "Diary/2024/04/2024-04-24.md",
+    "Diary/2024/04/2024-04-23.md",
+    "Interview/Database/聚簇索引和非聚簇索引的区别.md",
+    "BUG/Windows类/任务栏图标消失.md",
+    "Diary/2024/02/2024-02-29.md",
+    "Image/Image-20240229120207.png",
+    "Image/Image-20240229120142.png",
+    "Interview/NetWork/Basics/拓扑分类.md",
+    "Image/Mesh.png",
+    "Image/Tree.png",
+    "Image/20240309005119.png",
+    "Image/20240229120520.png",
+    "Image/20240227164008.png",
+    "BUG/第三方程序类/Redis命令行中的符号.md",
+    "Image/20240211182808.png",
+    "Image/20240211182058.png",
+    "Image/20240227164219.png",
+    "Interview/Java/Examples/LinkedListVsArrayList.md",
+    "Image/拓扑分类 2024-02-27 16.34.50.excalidraw.md",
+    "Image/什么是反向代理？ 2024-03-12 16.35.47.excalidraw.md",
+    "Diary/2024/02/2024-02-17.md",
+    "Image/2024-03-12 2024-03-12 22.33.36.excalidraw.md",
+    "Other/OldTime/无处落征鸿.md",
+    "Diary/2024/02/2024-02-01.md",
+    "Diary/2024/02/Pasted image 20240201164308.png.md",
+    "Interview/Database/MySql/Mysql中的锁机制.md",
+    "Diary/2024/03/2024-03-09.md",
+    "Interview/DataStructures/B树.md",
+    "BUG/第三方程序类",
+    "BUG/Windows类",
+    "Interview/NetWork/Protocol",
     "Interview/JavaScript/Npm",
-    "Interview/WebServer/Nginx",
-    "Interview/WebServer",
-    "Interview/Thymeleaf",
-    "Interview/Java/Annotation/Meta",
-    "Interview/Java/Annotation",
-    "Image/Pasted image 20240309005119.png",
-    "Image/image-20230609190704433.png",
-    "Image/image-20230606181837111.png",
-    "Image/image-20230604150206472.png",
-    "Image/image-20230507231431440.png",
-    "Image/image-20230507231343340.png",
-    "Image/image-20230507225200364.png",
-    "Image/image-20230507225116932.png",
-    "Image/image-20230507225013920.png",
-    "Image/image-20230507224837831.png"
+    "Interview/Java/Spring/Annotation",
+    "Interview/Java/JVM",
+    "Interview/Database/Engine",
+    "Interview/ComputerArchitecture",
+    "Diary/2024/04",
+    "ShenLun",
+    "未命名.canvas",
+    "未命名 3.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas"
   ]
 }

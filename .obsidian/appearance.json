@@ -1,12 +1,13 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Obsidian Nord",
-  "baseFontSize": 20,
+  "cssTheme": "Novadust",
+  "baseFontSize": 19,
   "nativeMenus": false,
-  "interfaceFontFamily": "霞鹜文楷",
-  "textFontFamily": "霞鹜文楷",
+  "interfaceFontFamily": "霞鹜文楷,LXGW WenKai",
+  "textFontFamily": "LXGW WenKai,霞鹜文楷",
   "translucency": false,
-  "monospaceFontFamily": "霞鹜文楷,霞鹜文楷等宽",
-  "enabledCssSnippets": []
+  "monospaceFontFamily": "霞鹜文楷,霞鹜文楷等宽,LXGW WenKai Mono",
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": true
 }

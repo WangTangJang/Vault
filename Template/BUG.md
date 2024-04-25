@@ -1,6 +1,3 @@
-## Problem
-### Description
+## 描述
 
-### Presentation
-
-## Solution
+## 解决方案
