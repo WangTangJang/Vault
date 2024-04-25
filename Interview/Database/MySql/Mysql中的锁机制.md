@@ -50,17 +50,18 @@ unlock tables;//解锁
 |  |  |
 **报错**：Table 'users' was locked with a READ lock and can't be updated
 **被阻塞**:如我在Java中运行时，程序执行到`statement.executeUpdate`后，便不再运行了。
-	![[Mysql上锁.gif]]
+	![Mysql上锁](http://img.briar.ink/Mysql上锁.gif)
 ##### 写锁示意：
 
-| 会话1 | 会话2 |
-| ---- | ---- |
-| lock table teacher write;// 上写锁 |  |
-| select * from teacher; // 可以正常读取 | select * from teacher;// 被阻塞 |
-| update teacher set name = 3 where id =2;// 可以正常更新操作 | update teacher set name = 4 where id =2;// 被阻塞 |
-| unlock tables;// 解锁 |  |
-|  | select * from teacher;// 读取成功 |
-|  | update teacher set name = 4 where id =2;// 更新成功\| |
+| 会话1                                                 | 会话2                                               |
+| --------------------------------------------------- | ------------------------------------------------- |
+| lock table teacher write;// 上写锁                     |                                                   |
+| select * from teacher; // 可以正常读取                    | select * from teacher;// 被阻塞                      |
+| update teacher set name = 3 where id =2;// 可以正常更新操作 | update teacher set name = 4 where id =2;// 被阻塞    |
+| unlock tables;// 解锁                                 |                                                   |
+|                                                     | select * from teacher;// 读取成功                     |
+|                                                     | update teacher set name = 4 where id =2;// 更新成功\| |
+|                                                     |                                                   |
 #### 存储引擎默认锁
 ```php
 MyISAM

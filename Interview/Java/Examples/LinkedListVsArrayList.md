@@ -59,4 +59,4 @@ public class LinkedListVsArrayList {
 
 ```
 ## 结果：
-![[Pasted image 20240203101709.png]]
+![Pasted_image_20240203101709](http://img.briar.ink/Pasted_image_20240203101709.png)

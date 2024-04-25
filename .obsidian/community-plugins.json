@@ -1,8 +1,9 @@
 [
   "obsidian-git",
-  "obsidian-excalidraw-plugin",
   "cm-chs-patch",
   "calendar",
   "meld-encrypt",
+  "obsidian-fullscreen-plugin",
+  "easy-typing-obsidian",
   "obsidian-image-auto-upload-plugin"
 ]
