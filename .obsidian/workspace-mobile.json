@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Database/MySql/Mysql中的锁机制.md",
-                "mode": "preview",
+                "file": "Diary/2024/05/2024-05-07.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Interview/Database/MySql/Mysql中的锁机制.md",
+            "file": "Diary/2024/05/2024-05-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Interview/Database/MySql/Mysql中的锁机制.md",
+            "file": "Diary/2024/05/2024-05-07.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Interview/Database/MySql/Mysql中的锁机制.md"
+            "file": "Diary/2024/05/2024-05-07.md"
           }
         }
       },
@@ -142,7 +142,6 @@
     "hiddenItems": {
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -153,8 +152,12 @@
   },
   "active": "e27d947d07866501",
   "lastOpenFiles": [
-    "Excalidraw/Database/表级读锁.md",
+    "Diary/2024/05/2024-05-03.md",
+    "Diary/2024/05/2024-05-07.md",
+    "Diary/2024/05/2024-05-01.md",
     "Interview/Database/MySql/Mysql中的锁机制.md",
+    "Diary/2024/05",
+    "Excalidraw/Database/表级读锁.md",
     "Interview/Java/OOP/什么是面向对象编程？.md",
     "Interview/Java/Spring/SpringMVC/什么是SpringMVC？.md",
     "Interview/Database/Sql/什么是JOIN？.md",
@@ -176,9 +179,6 @@
     "Interview/Linux/解压.md",
     "Interview/简历.md",
     "Interview/Java/Basics/Java 移位运算符.md",
-    "Interview/Java/Basics/基本数据类型有哪些？.md",
-    "Interview/Java/Basics/基本数据类型和包装类之间转换的意义？.md",
-    "Interview/Java/Basics/介绍Java的反射机制？.md",
     "ShenLun",
     "Interview/WebServer/Tomcat",
     "Interview/WebServer",
@@ -188,7 +188,6 @@
     "Interview/Java/Annotation",
     "Interview/Java/JVM",
     "/Interview/Java/JVM",
-    "Interview/Git/FileDirectory",
     "Image/Pasted image 20240309005119.png",
     "Image/image.webp",
     "Image/Pasted image 20240217215824.png",

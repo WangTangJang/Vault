@@ -206,8 +206,10 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "6fd60f164a74d218",
+  "active": "b44af39f9d4dd328",
   "lastOpenFiles": [
+    "Diary/2024/05/2024-05-07.md",
+    "Diary/2024/05/2024-05-01.md",
     "Diary/2024/05/2024-05-03.md",
     "Interview/WebServer/Nginx/负载均衡配置.md",
     "Interview/Linux/负载均衡.md",
@@ -233,8 +235,6 @@
     "Interview/NetWork/Basics/TCP、IP模型.md",
     "Diary/2024/05/2024-05-02.md",
     "Interview/NetWork/Web/反向代理.md",
-    "Interview/NetWork/Web/HTTP的状态码.md",
-    "Interview/NetWork/Web/浏览器输入 URL后的流程.md",
     "Diary/2024/05",
     "README.MD~",
     "Resource",
