@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Resume/软件实施.md",
+                "file": "Interview/WebServer/Nginx/负载均衡配置.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,14 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Java/Java面试题.md",
+                "file": "Diary/2024/05/2024-05-03.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fd60f164a74d218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Linux/负载均衡.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Resume/软件实施.md"
+                "file": "Interview/Linux/负载均衡.md"
               }
             }
           },
@@ -128,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Resume/软件实施.md",
+                "file": "Interview/Linux/负载均衡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Resume/软件实施.md",
+                "file": "Interview/Linux/负载均衡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,12 +206,20 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "2b50a3fb9f3e60cc",
+  "active": "6fd60f164a74d218",
   "lastOpenFiles": [
-    "Interview/Resume/Java求职.md",
+    "Diary/2024/05/2024-05-03.md",
+    "Interview/WebServer/Nginx/负载均衡配置.md",
+    "Interview/Linux/负载均衡.md",
+    "Interview/WebServer/Nginx/配置文件.md",
+    "Interview/WebServer/什么是反向代理？.md",
     "Interview/Java/Java面试题.md",
-    "Interview/NetWork/Protocol/ARP协议.md",
+    "Interview/Java/未命名.md",
+    "Interview/Linux/Linux的目录结构.md",
+    "Interview/Linux/Linux启动过程.md",
     "Interview/Resume/软件实施.md",
+    "Interview/Resume/Java求职.md",
+    "Interview/NetWork/Protocol/ARP协议.md",
     "Interview/Linux/内核.md",
     "Interview/Linux/文件系统.md",
     "Interview/NetWork/Basics/网络地址转换技术（NAT）.md",
@@ -213,15 +235,7 @@
     "Interview/NetWork/Web/反向代理.md",
     "Interview/NetWork/Web/HTTP的状态码.md",
     "Interview/NetWork/Web/浏览器输入 URL后的流程.md",
-    "Interview/NetWork/Web/HTTP请求时独立的请求类.md",
-    "Interview/NetWork/Web/什么是客户端请求？.md",
-    "Interview/NetWork/Web/POST和GET区别.md",
-    "Interview/NetWork/Web/无状态协议.md",
-    "Interview/NetWork/Web/HTTP协议.md",
-    "Interview/WebServer/Nginx/配置文件.md",
     "Diary/2024/05",
-    "Interview/Resume/数据库管理.md",
-    "Interview/Resume/简历.md",
     "README.MD~",
     "Resource",
     "BUG/未命名",
