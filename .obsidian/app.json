@@ -3,7 +3,7 @@
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "Image",
   "alwaysUpdateLinks": true,
-  "vimMode": false,
+  "vimMode": true,
   "newFileLocation": "current",
   "pdfExportSettings": {
     "includeName": false,
