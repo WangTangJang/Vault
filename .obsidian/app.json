@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "Image",
+  "attachmentFolderPath": "Resource/Image",
   "alwaysUpdateLinks": true,
   "vimMode": false,
   "newFileLocation": "current",

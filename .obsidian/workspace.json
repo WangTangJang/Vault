@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "73251eed1ff7f0b6",
+        "id": "745442dc4fe7b81a",
         "type": "tabs",
         "children": [
           {
-            "id": "3f9b5535a2fad55c",
+            "id": "2b50a3fb9f3e60cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.MD",
+                "file": "Interview/Resume/软件实施.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71985f455cb672af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Java/Java面试题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.MD"
+                "file": "Interview/Resume/软件实施.md"
               }
             }
           },
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.MD",
+                "file": "Interview/Resume/软件实施.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.MD",
+                "file": "Interview/Resume/软件实施.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,58 +188,58 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "meld-encrypt:New encrypted note": true,
-      "meld-encrypt:Convert to or from an Encrypted note": true
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "3f9b5535a2fad55c",
+  "active": "2b50a3fb9f3e60cc",
   "lastOpenFiles": [
-    "Interview/Git/Git 相关面试题.md",
-    "Interview/Git/修改git默认的commit编辑器为vim.md",
-    "Interview/Git/Git介绍.md",
-    "Interview/ComputerArchitecture/指令的基本格式是什么？.md",
-    "Interview/ComputerArchitecture/CPU的执行过程是什么？.md",
-    "Interview/NetWork/Protocol/TCP协议.md",
-    "Diary/2024/04/2024-04-17.md",
+    "Interview/Resume/Java求职.md",
+    "Interview/Java/Java面试题.md",
+    "Interview/NetWork/Protocol/ARP协议.md",
+    "Interview/Resume/软件实施.md",
+    "Interview/Linux/内核.md",
+    "Interview/Linux/文件系统.md",
+    "Interview/NetWork/Basics/网络地址转换技术（NAT）.md",
+    "Interview/NetWork/Basics/防火墙.md",
     "Interview/NetWork/Basics/“连接”的定义.md",
-    "Diary/2024/04/2024-04-24.md",
-    "Diary/2024/04/2024-04-23.md",
-    "Interview/Database/聚簇索引和非聚簇索引的区别.md",
-    "BUG/Windows类/任务栏图标消失.md",
-    "Diary/2024/02/2024-02-29.md",
+    "Interview/NetWork/Protocol/DHCP协议.md",
+    "Interview/NetWork/Security/常见网络攻击方式.md",
+    "Interview/NetWork/Security/1.md",
+    "Interview/NetWork/Security",
+    "Interview/NetWork/Protocol/OSPF协议.md",
+    "Interview/NetWork/Basics/TCP、IP模型.md",
+    "Diary/2024/05/2024-05-02.md",
+    "Interview/NetWork/Web/反向代理.md",
+    "Interview/NetWork/Web/HTTP的状态码.md",
+    "Interview/NetWork/Web/浏览器输入 URL后的流程.md",
+    "Interview/NetWork/Web/HTTP请求时独立的请求类.md",
+    "Interview/NetWork/Web/什么是客户端请求？.md",
+    "Interview/NetWork/Web/POST和GET区别.md",
+    "Interview/NetWork/Web/无状态协议.md",
+    "Interview/NetWork/Web/HTTP协议.md",
+    "Interview/WebServer/Nginx/配置文件.md",
+    "Diary/2024/05",
+    "Interview/Resume/数据库管理.md",
+    "Interview/Resume/简历.md",
+    "README.MD~",
+    "Resource",
+    "BUG/未命名",
     "Image/Image-20240229120207.png",
     "Image/Image-20240229120142.png",
-    "Interview/NetWork/Basics/拓扑分类.md",
     "Image/Mesh.png",
     "Image/Tree.png",
     "Image/20240309005119.png",
     "Image/20240229120520.png",
     "Image/20240227164008.png",
-    "BUG/第三方程序类/Redis命令行中的符号.md",
     "Image/20240211182808.png",
     "Image/20240211182058.png",
     "Image/20240227164219.png",
-    "Interview/Java/Examples/LinkedListVsArrayList.md",
-    "Image/拓扑分类 2024-02-27 16.34.50.excalidraw.md",
-    "Image/什么是反向代理？ 2024-03-12 16.35.47.excalidraw.md",
-    "Diary/2024/02/2024-02-17.md",
-    "Image/2024-03-12 2024-03-12 22.33.36.excalidraw.md",
-    "Other/OldTime/无处落征鸿.md",
-    "Diary/2024/02/2024-02-01.md",
-    "Diary/2024/02/Pasted image 20240201164308.png.md",
-    "Interview/Database/MySql/Mysql中的锁机制.md",
-    "Diary/2024/03/2024-03-09.md",
-    "Interview/DataStructures/B树.md",
     "BUG/第三方程序类",
     "BUG/Windows类",
     "Interview/NetWork/Protocol",
     "Interview/JavaScript/Npm",
     "Interview/Java/Spring/Annotation",
-    "Interview/Java/JVM",
-    "Interview/Database/Engine",
-    "Interview/ComputerArchitecture",
-    "Diary/2024/04",
-    "ShenLun",
     "未命名.canvas",
     "未命名 3.canvas",
     "未命名 1.canvas",

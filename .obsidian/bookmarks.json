@@ -111,7 +111,7 @@
         {
           "type": "file",
           "ctime": 1708441882796,
-          "path": "Interview/NetWork/Protocol/地址解析协议（ARP）.md"
+          "path": "Interview/NetWork/Protocol/ARP协议.md"
         },
         {
           "type": "file",
@@ -133,12 +133,12 @@
         {
           "type": "file",
           "ctime": 1708440545632,
-          "path": "Interview/NetWork/Protocol/动态主机配置协议（DHCP）.md"
+          "path": "Interview/NetWork/Protocol/DHCP协议.md"
         },
         {
           "type": "file",
           "ctime": 1708441521023,
-          "path": "Interview/NetWork/Basics/网络地址转换（NAT）.md"
+          "path": "Interview/NetWork/Basics/网络地址转换技术（NAT）.md"
         }
       ],
       "title": "需要死记硬背下来的知识"
