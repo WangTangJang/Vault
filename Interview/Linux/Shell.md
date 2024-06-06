@@ -183,7 +183,7 @@ echo "5 + 3 的结果是：$result"
  ```bash
  $ chmod +x myscript.sh
  ```
-#### 运行脚本**：
+#### 运行脚本：
 - 在终端中运行脚本：
  ```bash
  $ ./myscript.sh
