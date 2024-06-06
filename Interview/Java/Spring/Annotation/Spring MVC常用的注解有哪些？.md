@@ -7,7 +7,7 @@ Spring MVC中常用的注解有很多，它们用于在Controller类、处理器
 ## @GetMapping：
 用于映射HTTP GET请求到处理器方法上。
 ## @PostMapping：
-用于将特定的HTTP请求映射到带有`@Controller`或`@RestController`注解的方法上。它是`@RequestMapping`注解的一个特定变体，专门用于处理HTTP [[HTTP请求里POST和GET的区别|POST请求。]]
+用于将特定的HTTP请求映射到带有`@Controller`或`@RestController`注解的方法上。它是`@RequestMapping`注解的一个特定变体，专门用于处理HTTP [[POST和GET区别|POST请求。]]
 ### 基本用法：
 ```java
 @RestController

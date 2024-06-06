@@ -1,6 +1,4 @@
 {
-  "minimal-style@@bold-color@@light": "#B1E343",
-  "minimal-style@@bold-color@@dark": "#ABFA30",
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
   "blue-topaz-theme@@background-settings-workplace-background-image": true,
   "blue-topaz-theme@@background-image-settings-switch": false,
@@ -9,5 +7,6 @@
   "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-dark-sky",
   "blue-topaz-theme@@toggle-calendar-shadow": false,
   "blue-topaz-theme@@toggle-calendar-transparent": false,
-  "blue-topaz-theme@@style-options-for-calendar-plugin": "style-options-for-calendar-plugin-default"
+  "blue-topaz-theme@@style-options-for-calendar-plugin": "style-options-for-calendar-plugin-default",
+  "things-style@@mobile-black-background": false
 }

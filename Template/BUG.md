@@ -1,6 +1,0 @@
-## Problem
-### Description
-
-### Presentation
-
-## Solution

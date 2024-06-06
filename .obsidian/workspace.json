@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6edbc60b87f6f837",
+        "id": "745442dc4fe7b81a",
         "type": "tabs",
         "children": [
           {
-            "id": "1569a2a164a64e59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/Database/Database知识分类.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7e5947ea473181b",
+            "id": "2b50a3fb9f3e60cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,9 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71985f455cb672af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Resume/软件实施.md",
+                "file": "Interview/Java/Java面试题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +48,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "400f877149f52183",
+            "id": "b44af39f9d4dd328",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,12 +71,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mysqldump",
-                "matchingCase": true,
+                "query": "防火墙",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5026054382324
+    "width": 237.5
   },
   "right": {
     "id": "9e3e75f942a45129",
@@ -95,7 +95,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69f06074d6ef2533",
+            "id": "b737b9cb7b158944",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -109,17 +109,20 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+              "type": "git-view",
+              "state": {}
             }
           },
           {
-            "id": "8f5fc2edf4ef6c42",
+            "id": "c1ce7111d42fa00c",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
                 "file": "Interview/Resume/软件实施.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+                "file": "Interview/Resume/软件实施.md"
               }
             }
           },
@@ -135,25 +138,45 @@
             }
           },
           {
-            "id": "c1ce7111d42fa00c",
+            "id": "8f5fc2edf4ef6c42",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "outgoing-link",
               "state": {
                 "file": "Interview/Resume/软件实施.md"
+                "file": "Interview/Resume/软件实施.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b737b9cb7b158944",
+            "id": "69f06074d6ef2533",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "backlink",
+              "state": {
+                "file": "Interview/Resume/软件实施.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f7aa34e71a64845",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "2a0a92aaac3d52f4",
@@ -171,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,12 +204,11 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": true,
-      "meld-encrypt:New encrypted note": true,
-      "meld-encrypt:Convert to or from an Encrypted note": true
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "a7e5947ea473181b",
+  "active": "2b50a3fb9f3e60cc",
   "lastOpenFiles": [
     "Interview/Resume/Java求职.md",
     "Diary/2024/04/2024-04-07.md",
@@ -221,20 +243,54 @@
     "未命名.canvas",
     "ShenLun",
     "未命名 1.canvas",
+    "Interview/Java/Java面试题.md",
+    "Interview/NetWork/Protocol/ARP协议.md",
+    "Interview/Resume/软件实施.md",
+    "Interview/Linux/内核.md",
+    "Interview/Linux/文件系统.md",
+    "Interview/NetWork/Basics/网络地址转换技术（NAT）.md",
+    "Interview/NetWork/Basics/防火墙.md",
+    "Interview/NetWork/Basics/“连接”的定义.md",
+    "Interview/NetWork/Protocol/DHCP协议.md",
+    "Interview/NetWork/Security/常见网络攻击方式.md",
+    "Interview/NetWork/Security/1.md",
+    "Interview/NetWork/Security",
+    "Interview/NetWork/Protocol/OSPF协议.md",
+    "Interview/NetWork/Basics/TCP、IP模型.md",
+    "Diary/2024/05/2024-05-02.md",
+    "Interview/NetWork/Web/反向代理.md",
+    "Interview/NetWork/Web/HTTP的状态码.md",
+    "Interview/NetWork/Web/浏览器输入 URL后的流程.md",
+    "Interview/NetWork/Web/HTTP请求时独立的请求类.md",
+    "Interview/NetWork/Web/什么是客户端请求？.md",
+    "Interview/NetWork/Web/POST和GET区别.md",
+    "Interview/NetWork/Web/无状态协议.md",
+    "Interview/NetWork/Web/HTTP协议.md",
+    "Interview/WebServer/Nginx/配置文件.md",
+    "Diary/2024/05",
+    "Interview/Resume/数据库管理.md",
+    "Interview/Resume/简历.md",
+    "README.MD~",
+    "Resource",
+    "BUG/未命名",
+    "Image/Image-20240229120207.png",
+    "Image/Image-20240229120142.png",
+    "Image/Mesh.png",
+    "Image/Tree.png",
+    "Image/20240309005119.png",
+    "Image/20240229120520.png",
+    "Image/20240227164008.png",
+    "Image/20240211182808.png",
+    "Image/20240211182058.png",
+    "Image/20240227164219.png",
+    "BUG/第三方程序类",
+    "BUG/Windows类",
+    "Interview/NetWork/Protocol",
     "Interview/JavaScript/Npm",
-    "Interview/WebServer/Nginx",
-    "Interview/WebServer",
-    "Interview/Thymeleaf",
-    "Interview/Java/Annotation/Meta",
-    "Image/Pasted image 20240309005119.png",
-    "Image/image-20230609190704433.png",
-    "Image/image-20230606181837111.png",
-    "Image/image-20230604150206472.png",
-    "Image/image-20230507231431440.png",
-    "Image/image-20230507231343340.png",
-    "Image/image-20230507225200364.png",
-    "Image/image-20230507225116932.png",
-    "Image/image-20230507225013920.png",
-    "Image/image-20230507224837831.png"
+    "Interview/Java/Spring/Annotation",
+    "未命名.canvas",
+    "未命名 3.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas"
   ]
 }

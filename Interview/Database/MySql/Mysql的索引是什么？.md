@@ -16,7 +16,7 @@ ALTER TABLE table_name DROP PRIMARY KEY;
 SHOW INDEX FROM table_name;
 ```
 ### 输出内容：
-![[Pasted image 20240208230509.png]]
+![[20240208230509.png]]
 1. **Table：** 表示索引所属的表。
 2. **Non_unique：** 表示索引是否是==唯一索引==。0 表示唯一索引，1 表示非唯一索引。
 3. **Key_name：** 表示索引的名称。
