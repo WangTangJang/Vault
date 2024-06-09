@@ -1,33 +1,19 @@
 {
   "main": {
-    "id": "d48d3d9f49702d78",
+    "id": "7fcd6a8a3e2e020f",
     "type": "split",
     "children": [
       {
-        "id": "745442dc4fe7b81a",
+        "id": "e0f8f4dd4b983478",
         "type": "tabs",
         "children": [
           {
-            "id": "2b50a3fb9f3e60cc",
+            "id": "faf861c49ac22c8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Resume/软件实施.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71985f455cb672af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/Resume/软件实施.md",
-                "file": "Interview/Java/Java面试题.md",
+                "file": "Diary/2024/06/2024-06-09.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,38 +26,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "89f05bc1523404f7",
+    "id": "eab724ee3e5f8f7a",
     "type": "split",
     "children": [
       {
-        "id": "3c712733f1b43277",
+        "id": "3db53c84f45ca2a9",
         "type": "tabs",
         "children": [
           {
-            "id": "b44af39f9d4dd328",
+            "id": "726d74a01291fc7b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "d15ad90aeacc45cd",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "2b7bab18b01753af",
+            "id": "4d9c33bf42d3bf5f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "防火墙",
+                "query": "江湖",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,218 +57,138 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5d317e499754287a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 300
   },
   "right": {
-    "id": "9e3e75f942a45129",
+    "id": "9a62370c54af4322",
     "type": "split",
     "children": [
       {
-        "id": "5acfeb8e95699be7",
+        "id": "041ca277ff7ed883",
         "type": "tabs",
         "children": [
           {
-            "id": "b737b9cb7b158944",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Interview/Resume/软件实施.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c1ce7111d42fa00c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Interview/Resume/软件实施.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-                "file": "Interview/Resume/软件实施.md"
-              }
-            }
-          },
-          {
-            "id": "766532581af3ef87",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "8f5fc2edf4ef6c42",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Interview/Resume/软件实施.md"
-                "file": "Interview/Resume/软件实施.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "69f06074d6ef2533",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Interview/Resume/软件实施.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1f7aa34e71a64845",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2a0a92aaac3d52f4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3e9d5d81fe2e55d6",
+            "id": "08b001ece586db07",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "f457f941b154de2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diary/2024/06/2024-06-09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8e22f0230cdde5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diary/2024/06/2024-06-09.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac0d1575a11c9357",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9db6269022e365ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary/2024/06/2024-06-09.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "2b50a3fb9f3e60cc",
+  "active": "faf861c49ac22c8b",
   "lastOpenFiles": [
-    "Interview/Resume/Java求职.md",
-    "Diary/2024/04/2024-04-07.md",
-    "Diary/2024/03/2024-03-13.md",
-    "Diary/2024/04/2024-04-02.md",
-    "Interview/Database/Database知识分类.md",
-    "Diary/2024/04",
-    "Interview/Linux/Command/useradd命令.md",
-    "Interview/Java/Thread/什么是抽象类和接口？有什么区别？.md",
-    "Interview/Java/Collections/HashSet如何检查重复.md",
-    "Interview/Java/Basics/介绍Java的反射机制？.md",
-    "Interview/Java/Basics/equals如何判断两个对象相同.md",
-    "Interview/Database/数据字典.md",
-    "Interview/Database/两段锁协议.md",
-    "Interview/Database/SELECT语句的处理过程.md",
-    "Interview/Database/Design/数据库三级模式体系结构.md",
-    "Interview/Database/DML是什么.md",
-    "Interview/WebServer/Nginx/配置文件.md",
-    "Interview/Python/pip切换镜像.md",
-    "Diary/2024/03/2024-03-31.md",
-    "Interview/Database/Transaction/什么是事务？.md",
-    "Interview/Database/Transaction/事务的隔离级别？.md",
-    "Interview/Resume/简历.md",
-    "Interview/Resume/数据产品.md",
-    "Interview/Resume/软件实施.md",
-    "Interview/Resume/战斗策划.md",
-    "Diary/2024/03/2024-03-30.md",
-    "Interview/Database/Transaction/并发一致性问题.md",
-    "Interview/Database/Engine",
-    "Interview/Resume",
-    "Interview/Python",
-    "未命名.canvas",
-    "ShenLun",
-    "未命名 1.canvas",
-    "Interview/Java/Java面试题.md",
-    "Interview/NetWork/Protocol/ARP协议.md",
-    "Interview/Resume/软件实施.md",
+    "Interview/Linux/Command/firewall-cmd命令.md",
+    "Diary/2024/06/2024-06-09.md",
+    "Interview/Operations/Ansible/shell模块.md",
+    "Interview/Operations/Ansible/command模块.md",
+    "Interview/Operations/Ansible/Playbook.md",
+    "Interview/Operations/Ansible/inventory 文件.md",
+    "Interview/Operations/Ansible/script模块.md",
+    "Interview/Operations/Ansible/未命名.md",
+    "Interview/Linux/Command/du命令.md",
+    "Diary/2024/05/2024-05-25.md",
+    "Interview/Resume/IDC运维.md",
+    "Interview/Operations/Ansible/模式与命令.md",
+    "Diary/2024/06/2024-06-08.md",
+    "Interview/Operations/Ansible/简介.md",
+    "Novel/江月何年初照人/大纲.md",
+    "Novel/江月何年初照人/第一章（稿）.md",
+    "Interview/Linux/黑洞文件.md",
+    "Novel/江月何年初照人",
+    "Interview/Operations/Ansible/密码认证方式.md",
+    "Interview/Operations/Ansible",
+    "Diary/2024/06/2024-06-07.md",
+    "Interview/Operations",
+    "Interview/未命名.md",
     "Interview/Linux/内核.md",
-    "Interview/Linux/文件系统.md",
-    "Interview/NetWork/Basics/网络地址转换技术（NAT）.md",
-    "Interview/NetWork/Basics/防火墙.md",
-    "Interview/NetWork/Basics/“连接”的定义.md",
-    "Interview/NetWork/Protocol/DHCP协议.md",
-    "Interview/NetWork/Security/常见网络攻击方式.md",
-    "Interview/NetWork/Security/1.md",
-    "Interview/NetWork/Security",
-    "Interview/NetWork/Protocol/OSPF协议.md",
-    "Interview/NetWork/Basics/TCP、IP模型.md",
-    "Diary/2024/05/2024-05-02.md",
-    "Interview/NetWork/Web/反向代理.md",
-    "Interview/NetWork/Web/HTTP的状态码.md",
-    "Interview/NetWork/Web/浏览器输入 URL后的流程.md",
-    "Interview/NetWork/Web/HTTP请求时独立的请求类.md",
-    "Interview/NetWork/Web/什么是客户端请求？.md",
-    "Interview/NetWork/Web/POST和GET区别.md",
-    "Interview/NetWork/Web/无状态协议.md",
-    "Interview/NetWork/Web/HTTP协议.md",
-    "Interview/WebServer/Nginx/配置文件.md",
-    "Diary/2024/05",
-    "Interview/Resume/数据库管理.md",
-    "Interview/Resume/简历.md",
-    "README.MD~",
-    "Resource",
-    "BUG/未命名",
-    "Image/Image-20240229120207.png",
-    "Image/Image-20240229120142.png",
-    "Image/Mesh.png",
-    "Image/Tree.png",
-    "Image/20240309005119.png",
-    "Image/20240229120520.png",
-    "Image/20240227164008.png",
-    "Image/20240211182808.png",
-    "Image/20240211182058.png",
-    "Image/20240227164219.png",
-    "BUG/第三方程序类",
-    "BUG/Windows类",
-    "Interview/NetWork/Protocol",
-    "Interview/JavaScript/Npm",
-    "Interview/Java/Spring/Annotation",
-    "未命名.canvas",
-    "未命名 3.canvas",
-    "未命名 1.canvas",
-    "未命名 2.canvas"
+    "Interview/Linux/进程管理.md",
+    "README.MD",
+    "Diary/2024/06",
+    "Novel",
+    "Interview/Resume/Java求职.md",
+    "Diary/2024/05/2024-05-07.md",
+    "Diary/2024/05/2024-05-11.md"
   ]
 }
