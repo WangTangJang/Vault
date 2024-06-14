@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/06/2024-06-09.md",
+                "file": "Interview/Resume/IDC运维.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0d8185aab222f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Resume/Java求职.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024/06/2024-06-09.md",
+                "file": "Interview/Resume/Java求职.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024/06/2024-06-09.md",
+                "file": "Interview/Resume/Java求职.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024/06/2024-06-09.md"
+                "file": "Interview/Resume/Java求职.md"
               }
             }
           }
@@ -157,10 +171,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "faf861c49ac22c8b",
+  "active": "c0d8185aab222f26",
   "lastOpenFiles": [
-    "Interview/Linux/Command/firewall-cmd命令.md",
+    "Diary/2024/06/2024-06-11.md",
     "Diary/2024/06/2024-06-09.md",
+    "Diary/2024/06/2024-06-10.md",
+    "Interview/Operations/Zabbix.md",
+    "Interview/Resume/IDC运维.md",
+    "Interview/Linux/Command/firewall-cmd命令.md",
     "Interview/Operations/Ansible/shell模块.md",
     "Interview/Operations/Ansible/command模块.md",
     "Interview/Operations/Ansible/Playbook.md",
@@ -169,7 +187,6 @@
     "Interview/Operations/Ansible/未命名.md",
     "Interview/Linux/Command/du命令.md",
     "Diary/2024/05/2024-05-25.md",
-    "Interview/Resume/IDC运维.md",
     "Interview/Operations/Ansible/模式与命令.md",
     "Diary/2024/06/2024-06-08.md",
     "Interview/Operations/Ansible/简介.md",
@@ -186,9 +203,6 @@
     "Interview/Linux/进程管理.md",
     "README.MD",
     "Diary/2024/06",
-    "Novel",
-    "Interview/Resume/Java求职.md",
-    "Diary/2024/05/2024-05-07.md",
-    "Diary/2024/05/2024-05-11.md"
+    "Novel"
   ]
 }
