@@ -26,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024/05/2024-05-03.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fd60f164a74d218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/Linux/负载均衡.md",
+                "file": "Interview/Resume/软件测试.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Linux/负载均衡.md"
+                "file": "Interview/Resume/软件测试.md"
               }
             }
           },
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Linux/负载均衡.md",
+                "file": "Interview/Resume/软件测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Linux/负载均衡.md",
+                "file": "Interview/Resume/软件测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,20 +193,26 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "b44af39f9d4dd328",
+  "active": "71985f455cb672af",
   "lastOpenFiles": [
-    "Diary/2024/05/2024-05-07.md",
-    "Diary/2024/05/2024-05-01.md",
+    "Interview/Database/Transaction/并发一致性问题.md",
+    "Interview/Resume/软件测试.md",
+    "Interview/Resume/软件实施.md",
+    "Interview/Resume/运维.md",
     "Diary/2024/05/2024-05-03.md",
-    "Interview/WebServer/Nginx/负载均衡配置.md",
-    "Interview/Linux/负载均衡.md",
+    "Diary/2024/05/2024-05-08.md",
+    "Diary/2024/05/2024-05-07.md",
     "Interview/WebServer/Nginx/配置文件.md",
+    "Interview/Resume/数据库管理.md",
+    "BUG/Windows类/Zip格式压缩包名称错误.md",
+    "Interview/Linux/负载均衡.md",
+    "Diary/2024/05/2024-05-01.md",
+    "Interview/WebServer/Nginx/负载均衡配置.md",
     "Interview/WebServer/什么是反向代理？.md",
     "Interview/Java/Java面试题.md",
     "Interview/Java/未命名.md",
     "Interview/Linux/Linux的目录结构.md",
     "Interview/Linux/Linux启动过程.md",
-    "Interview/Resume/软件实施.md",
     "Interview/Resume/Java求职.md",
     "Interview/NetWork/Protocol/ARP协议.md",
     "Interview/Linux/内核.md",
@@ -228,13 +221,7 @@
     "Interview/NetWork/Basics/防火墙.md",
     "Interview/NetWork/Basics/“连接”的定义.md",
     "Interview/NetWork/Protocol/DHCP协议.md",
-    "Interview/NetWork/Security/常见网络攻击方式.md",
-    "Interview/NetWork/Security/1.md",
     "Interview/NetWork/Security",
-    "Interview/NetWork/Protocol/OSPF协议.md",
-    "Interview/NetWork/Basics/TCP、IP模型.md",
-    "Diary/2024/05/2024-05-02.md",
-    "Interview/NetWork/Web/反向代理.md",
     "Diary/2024/05",
     "README.MD~",
     "Resource",
