@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "a62f1f162ad37a1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "653acfa2fd43b1c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfd8d9efe616dcd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2024/06/2024-06-25.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d8eb15b424f8f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5552034082784cc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "409a1160f9ef3a16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4946be6bd04b3b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae32649a71563f8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "免密",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8fe781c4348d81e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "be9066d8523e5387",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bc8482b5e6d82c0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "336c1f47e010d5a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diary/2024/06/2024-06-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b6d3cac2f25b958",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diary/2024/06/2024-06-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59a014218a575841",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa3a3542ce04b525",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary/2024/06/2024-06-25.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cfd8d9efe616dcd8",
+  "lastOpenFiles": [
+    "Interview/Linux/SSH/免密码登录.md",
+    "Diary/2024/06/2024-06-25.md",
+    "Interview/Linux/Command/du命令.md",
+    "Interview/Linux/Command/iptables命令.md",
+    "Interview/Linux/Command/firewall-cmd命令.md",
+    "Other/OldTime/杂记.md",
+    "Other/OldTime/Linux学习日志.md",
+    "Interview/Database/MySql/一个 SQL 语句在 MySQL 中的执行流程.md",
+    "Interview/Database/MySql/CHAR和VARCHAR的区别？.md",
+    "Diary/2024/02/2024-02-01.md",
+    "Interview/Database/MySql/Mysql常用指令.md",
+    "Interview/Database/MySql/备份与还原.md",
+    "Other/OldTime/无处落征鸿.md",
+    "Diary/2024/06/2024-06-24.md",
+    "Diary/2024/06/2024-06-22.md",
+    "Diary/2024/06/2024-06-19.md",
+    "Diary/2024/06/2024-06-18.md",
+    "Diary/2024/06/2024-06-16.md",
+    "Diary/2024/06/2024-06-17.md",
+    "Diary/2024/06/2024-06-08.md",
+    "Diary/2024/05/2024-05-28.md",
+    "Diary/2024/05/2024-05-27.md",
+    "Diary/2024/05/2024-05-25.md",
+    "Diary/2024/05/2024-05-21.md",
+    "Diary/2024/05/2024-05-19.md",
+    "Diary/2024/03/2024-03-18.md",
+    "Interview/Operations/Zabbix",
+    "Other/Her.mdenc"
+  ]
+}
